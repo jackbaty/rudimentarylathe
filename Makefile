@@ -19,7 +19,7 @@ commit:
 	git add -A
 	git commit -m "Build site `date`"
 
-push:
+push: commit
 	git push origin master
 
 clean:
