@@ -1,7 +1,7 @@
 PUBLIC_DIR=output/
 SERVER_HOST=server.baty.net
 SERVER_DIR=/home/jbaty/apps/rudimentarylathe/public_html
-TARGET=lightsail
+TARGET=AWS
 
 
 
