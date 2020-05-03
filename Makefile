@@ -13,7 +13,7 @@ deploy:
 
 build: clean
 	@echo "\033[0;32mBuilding site...\033[0m"
-	tiddlywiki ./ --build index
+	tiddlywiki --rendertiddler $$:/plugins/tiddlywiki/tiddlyweb/save/offline index.html text/plain
 
 commit:
 	@echo "\033[0;32mAdding changes\033[0m"
