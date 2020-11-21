@@ -1,7 +1,8 @@
 PUBLIC_DIR=output/
-SERVER_HOST=server.baty.net
-SERVER_DIR=/home/jbaty/apps/rudimentarylathe/public_html
-TARGET=AWS
+SERVER_HOST=server01.baty.net
+SERVER_DIR=/home/jbaty/apps/rudimentarylathe.org/public_html
+TARGET=DigitalOcean
+
 
 
 
