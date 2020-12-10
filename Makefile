@@ -1,4 +1,5 @@
 PUBLIC_DIR=output/
+BACKUP_DIR=index.html_backup/
 SERVER_HOST=server01.baty.net
 SERVER_DIR=/home/jbaty/apps/rudimentarylathe.org/public_html
 TARGET=DigitalOcean
@@ -27,6 +28,7 @@ push:
 
 clean:
 	rm -rf $(PUBLIC_DIR)
+	rm -rf $(BACKUP_DIR)
 
 .FORCE:
 
