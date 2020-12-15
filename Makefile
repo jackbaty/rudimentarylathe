@@ -7,10 +7,10 @@ TARGET=DigitalOcean
 
 
 
-deploy: 
+deploy: build
 	@echo "\033[0;32mDeploying updates to $(TARGET)...\033[0m"
 	rsync -v -rz --checksum --delete --no-perms ~/Dropbox/pub/rudimentarylathe/files $(SERVER_HOST):$(SERVER_DIR)
-	rsync -v -rz --checksum --delete --no-perms ~/Dropbox/pub/rudimentarylathe/index.html $(SERVER_HOST):$(SERVER_DIR)
+	rsync -v -rz --checksum --delete --no-perms ~/Dropbox/pub/rudimentarylathe/output/index.html $(SERVER_HOST):$(SERVER_DIR)
 
 
 build: clean
