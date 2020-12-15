@@ -1,6 +1,6 @@
 created: 20201215112805324
 creator: jack
-modified: 20201215170245911
+modified: 20201215172824933
 modifier: jack
 tags: Journal
 title: 2020.12.15 - Daily Notes
@@ -12,3 +12,4 @@ Chilly walk with Alice this morning. Let's call it "crisp".
 
 I've gone [[back to the default theme here|2020.12.15 - TW: Back to old theme]]. I want a permanent sidebar. I know this is worse for mobile visitors, but for now it stays this way.
 
+Hey guess what? I'm [[running the wiki locally in node|2020.12.15 - TW: Running locally via node]] again. I just want to use Safari to edit the silly thing and I don't know a better way. The trick now is that to publish it as an HTML file for the server I have to generate index.html each time. This wasn't too bad, and I handle it in the [[Makefile|TW: Script for publishing the wiki]]
