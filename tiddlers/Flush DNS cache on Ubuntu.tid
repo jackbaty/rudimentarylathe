@@ -1,0 +1,9 @@
+created: 20201202234924842
+creator: jack
+modified: 20201202234937730
+modifier: jack
+tags: 
+title: Flush DNS cache on Ubuntu
+
+`sudo systemd-resolve --flush-caches`
+

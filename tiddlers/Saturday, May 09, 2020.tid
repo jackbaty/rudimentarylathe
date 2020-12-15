@@ -1,0 +1,28 @@
+created: 20200509102510187
+creator: jack
+modified: 20200509164826119
+modifier: jack
+tags: Journal
+title: Saturday, May 09, 2020
+
+⛅️ Partly cloudy +26°F
+
+Even more Brrrr this morning.
+
+<<image-basic "files/2020/2020-05-09_workbench.jpg" width:"75%" align:"center" caption:"New workbench (2020)" tooltip:"" alt:"New workbench">>
+
+I often sit back and stare at something in [[Emacs]] and know that I can improve it or make it do more. Two minutes later I shrug and forge ahead the old way because I don't feel like spending the time figuring out //how// to make it better. This is part of the reason I use [[Doom Emacs]]... my environment gets incrementally better nearly every day without me having to do anything at all. The downside of course is that my environment also //changes// every day in ways that I may not like or understand. This is also the reason I use things like [[Roam]]... I have no control over anything but the content, so I spend no time thinking about tweaking the tool itself.
+
+I have no interest in shared writing spaces. For me, "collaboration" features should be limited to commenting on what another has written. They should be responsible for actually changing the content. Otherwise, chaos. (Depends on the goal, of course, but still).
+
+Maybe I should (re)learn fucking [[JavaScript]] and just get it over with.
+
+I wonder how many people suddenly interested in [[Spaced Repetition]] are only truly in it for the toys.
+
+It seems that I have (at least) three digital journals: This wiki, [[Org-Journal]], and [[Org-roam]]. I don't know if that's too many or not.
+
+Another good reason for pushing a static HTML version (rather than Node) of this wiki to a server is that  all of the "Edit" buttons are visible, making the tweaks I do here available for the taking. It's a modern "View Source" and is how I learned everything.
+
+For some reason I've started referring to [[Rudimentary Lathe]] as "The Lathe". Not sure I approve.
+
+Roam, [[on Twitter|https://twitter.com/RoamResearch/status/1259121437379448835]]... "We're not a note taking app". Haha that's //exactly// what they are.

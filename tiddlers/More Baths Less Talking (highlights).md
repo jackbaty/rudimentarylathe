@@ -1,0 +1,13 @@
+- Author:: [[Nick Hornby]]
+- Full Title:: More Baths Less Talking
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51O4H9zVQnL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - We are cursed with an apparently unshakable conviction that we are all much more knowing than people used to be, back in the Pre-Ironic Age, so it is both instructive and humbling to learn that, half a century ago, Rochester sailors didn’t need the Onion to tell them what was hilarious. ([Location 134](https://readwise.io/to_kindle?action=open&asin=B008TT1094&location=134))
+    - Say what you like about the internet, but for a certain class of underemployed male, life has become warmer, and more hygienic. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B008TT1094&location=144))
+    - Now it’s just lattes and bottles of banana foot lotion, ([Location 316](https://readwise.io/to_kindle?action=open&asin=B008TT1094&location=316))
+    - (Influential books are often a disappointment, if they’re properly influential, because influence cannot guarantee the quality of the imitators, and your appetite for the original has been partially sated by its poor copies.) ([Location 431](https://readwise.io/to_kindle?action=open&asin=B008TT1094&location=431))
+    - you think, at a certain point in your life, that your impeccable taste will save you. As life goes on, you realize it’s a bit more complicated than that. ([Location 550](https://readwise.io/to_kindle?action=open&asin=B008TT1094&location=550))
+    - If you haven’t wasted huge chunks of your life on art, booze, and soft drugs, then you’ve wasted huge chunks of your life, and we don’t want you around here. ([Location 1074](https://readwise.io/to_kindle?action=open&asin=B008TT1094&location=1074))
+    - New forms of inadequacy I could live without, seeing as I didn’t know what to do with the ones I was already aware of. ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B008TT1094&location=1163))
+        - **Tags**: #[[favorite]]

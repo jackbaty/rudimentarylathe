@@ -1,0 +1,20 @@
+created: 20201206111506889
+creator: jack
+modified: 20201206135037375
+modifier: jack
+title: uBlogger Hugo Theme
+
+[[uPagge/uBlogger: A clean, elegant but advanced blog theme for Hugo|https://github.com/uPagge/uBlogger]]
+
+Changes made that I don't love.
+
+* Blockquotes are not formatted well
+* emphasis is not italic, but rather shown as yellow highlights. That's not how I use `<em>`.
+
+* The home page design varies too much from the original LoveIt version. 
+** I like dropshadows as much as the next person, but get rid of them
+** preview.jpg images are broken.
+** Too much space around things. An over-abundance of whitespace is too popular :)
+* Author is over-engineered. How many sites using this theme have more than one author?
+* Something in my content breaks tags so the build fails.
+* Go back to the old Tags display. The giant pills are too loud.

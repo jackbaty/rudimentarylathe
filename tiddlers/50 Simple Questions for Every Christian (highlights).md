@@ -1,0 +1,39 @@
+- Author:: [[Guy P. Harrison]]
+- Full Title:: 50 Simple Questions for Every Christian
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41D2x3N4wKL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - Temporary pain aside, if Jesus was God and knew that he would return to heaven after his death, where is the big sacrifice? What did Jesus/God give up? ([Location 184](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=184))
+    - Why would a god need to rely on such a disgusting and primitive act to forgive us and save us from his judgment? ([Location 194](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=194))
+    - Couldn’t he simply have skipped the whole slow, agonizing death of Jesus and just forgiven us? ([Location 200](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=200))
+    - Therefore, God, in the form of Jesus, has offered to save us from himself. ([Location 214](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=214))
+    - God in this context seems very much like a gangster who promises to make sure your business doesn’t meet with unfortunate circumstances and happen to burn down—so long as you give him whatever he asks for. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=216))
+        - **Tags**: #[[favorite]]
+    - I have forgiven people in my life many times without requiring an oath of eternal loyalty and love from them. ([Location 222](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=222))
+    - If a firefighter intentionally sets a house on fire and then rescues half of the family inside while the other half burns to death, is he or she really a hero? ([Location 223](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=223))
+    - there is no reason to heap praise on anyone, a person or a god, who saves people from a particular harm that exists only because of that person or god. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=227))
+    - Does the quantity and quality of the evidence balance the importance or unusual nature of the claim? The bigger the claim, the more evidence required. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=249))
+    - Why would any god who wished to share himself and his message with the world make himself invisible and silent to billions? ([Location 258](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=258))
+    - “Let’s not bother being clear about what we are talking about, let’s just talk about it” ([Location 294](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=294))
+    - “My god is real and best because he’s my god” ([Location 318](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=318))
+    - Just as no atheist has ever disproved the existence of the God of Abraham, no Christian has ever proved the nonexistence of the millions of gods various other religious people have believed in throughout history. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=329))
+    - Many Christians are so confident and excited about their belief that they can’t seem to stop talking about it—but only within a protective cocoon that allows no challenges and no straying from the script. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=362))
+    - Religion is so often off-limits to relevant questions and fair challenges that it’s a free zone for abuse and deceit. ([Location 377](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=377))
+    - “personal faith” is out of bounds, no matter if politicians themselves drag it onto the playing field virtually every time they open their mouths. ([Location 395](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=395))
+    - unfair. Somehow tolerance for all religions and no religions is intolerant to one religion. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=437))
+    - Skepticism threatens only that which is not true. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=449))
+    - The real world looks just like it might look if prayer didn’t work and no gods existed. ([Location 517](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=517))
+    - Better record keeping would likely show a pattern of nothing more than the random success one would expect from a long list of wishes. ([Location 557](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=557))
+    - When someone tells you that they have the revealed truth from Jesus and it is just one version of thousands, there is a problem. ([Location 616](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=616))
+    - If you do not think that at least one god is real, then you are an atheist. ([Location 747](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=747))
+    - Are they saying they wouldn’t care about the safety and well-being of others if not for Jesus? ([Location 798](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=798))
+    - It is profoundly disturbing to think that the only thing holding them back from a life of crime and destructive decadence is belief in a god. ([Location 800](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=800))
+    - the common tendency of people everywhere to mistake the absence of a natural explanation for evidence of a supernatural cause. ([Location 880](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=880))
+    - If something happens that is highly unusual, and no explanation is readily available, isn’t “I don’t know” the only appropriate response? How can we justify leaping to the extraordinary conclusion that an unexplained event is the work of a god? ([Location 937](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=937))
+    - Having no available explanation in a given moment is never an excuse to make one up, ([Location 951](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=951))
+        - **Tags**: #[[favorite]]
+    - If intelligent design is real science, then the real scientific process will confirm it. ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=1081))
+        - **Tags**: #[[favorite]]
+    - Human passion and commitment are not evidence of a god or supernatural event. Passionate belief, even to the point of sacrificing one’s life for it, is only evidence of belief itself. ([Location 1271](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=1271))
+    - One unfounded belief sets us up to fall for the next one. ([Location 1602](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=1602))
+    - Religions may have their problems when it comes to proof and logic, but any atheist or skeptic who suggests that religious belief is dependent on a dim mind is simply wrong. ([Location 1888](https://readwise.io/to_kindle?action=open&asin=B00CGHRBZW&location=1888))

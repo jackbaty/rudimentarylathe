@@ -1,0 +1,20 @@
+created: 20200512105350289
+creator: jack
+modified: 20200512162906913
+modifier: jack
+tags: Journal
+title: Tuesday, May 12, 2020
+
+⛅️  Partly cloudy +30°F
+
+When something new comes along, people make fun of it. Then they ignore it for a while. Then they start making fun of it again. That last part indicates that things are about to change again.
+
+Have to admit that I'm still struggling with Roam vs Org-roam vs TiddlyWiki. God help me if things like Bear ever properly implement contextual backlinks. I need to flesh this out and write it down.
+
+I would like to get [[Org-protocol]] configured for [[Org-roam]] but I have a feeling it'll eat up way too much time and still not work properly for me.
+
+The problem with ORMs is that they make development faster but queries slower. Optimizing for developers is sometimes the wrong answer.
+
+Toying with using [[Zotero]] for keeping article bookmarks. More structured than, say [[Pinboard]] or [[Instapaper]]. Also has the benefit of integrating with Org mode long term.
+
+Posted to [[Copingmechanism.com]] about my note-taking dilemma: [[Take lots of notes - but where?|https://www.copingmechanism.com/2020/take-lots-of-notes-thinsp-mdash-thinsp-but-where]]

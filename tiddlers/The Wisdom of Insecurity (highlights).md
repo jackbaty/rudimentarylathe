@@ -1,0 +1,15 @@
+- Author:: [[Alan W. Watts]]
+- Full Title:: The Wisdom of Insecurity
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41mlryGPaoL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - Human beings appear to be happy just so long as they have a future to which they can look forward—whether it be a “good time” tomorrow or an everlasting life beyond the grave. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B005YNPBH0&location=168))
+    - If happiness always depends on something expected in the future, we are chasing a will-o’-the-wisp that ever eludes our grasp, until the future, and ourselves, vanish into the abyss of death. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B005YNPBH0&location=171))
+    - However long postponed, everything composed must decompose. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B005YNPBH0&location=185))
+    - try grimly to face the fact that life is “a tale told by an idiot,” and make of it what we can, letting science and technology serve us as well as they may in our journey from nothing to nothing. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B005YNPBH0&location=243))
+    - legitimate use of images is to express the truth, not to possess it. ([Location 284](https://readwise.io/to_kindle?action=open&asin=B005YNPBH0&location=284))
+    - They fail to live because they are always preparing to live. ([Location 371](https://readwise.io/to_kindle?action=open&asin=B005YNPBH0&location=371))
+    - A society based on the quest for security is nothing but a breath-retention contest in which everyone is as taut as a drum and as purple as a beet. ([Location 796](https://readwise.io/to_kindle?action=open&asin=B005YNPBH0&location=796))
+    - We suffer from the delusion that the entire universe is held in order by the categories of human thought, fearing that if we do not hold to them with the utmost tenacity, everything will vanish into chaos. ([Location 1027](https://readwise.io/to_kindle?action=open&asin=B005YNPBH0&location=1027))
+    - One can only attempt a rational, descriptive philosophy of the universe on the assumption that one is totally separate from it. But if you and your thoughts are part of this universe, you cannot stand outside them to describe them. ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B005YNPBH0&location=1176))
+    - Motivated conduct is determined conduct; it will be what it will be, no matter what anyone has to say about it. There can be no creative morality unless man has the possibility of freedom. ([Location 1249](https://readwise.io/to_kindle?action=open&asin=B005YNPBH0&location=1249))

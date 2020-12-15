@@ -1,0 +1,17 @@
+- Author:: [[Michael Shermer]]
+- Full Title:: The Believing Brain
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51M3QJYC%2B9L._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - Beliefs come first, explanations for beliefs follow. ([Location 129](https://readwise.io/to_kindle?action=open&asin=B004GHN26W&location=129))
+    - Thus, when we hear about the beliefs of others that differ from our own, we are naturally inclined to dismiss or dismantle their beliefs as nonsense, evil, or both. ([Location 159](https://readwise.io/to_kindle?action=open&asin=B004GHN26W&location=159))
+    - smart people believe weird things because they are skilled at defending beliefs they arrived at for nonsmart reasons. ([Location 663](https://readwise.io/to_kindle?action=open&asin=B004GHN26W&location=663))
+    - Where a narrative of explanation might read something like “the data lead me to conclude…” a narrative of practice reads more like “Huh, that’s weird.” ([Location 978](https://readwise.io/to_kindle?action=open&asin=B004GHN26W&location=978))
+    - And being a holist instead of a reductionist, being related to a psychic, or reading about weird things that befall people does not change this fact. ([Location 1006](https://readwise.io/to_kindle?action=open&asin=B004GHN26W&location=1006))
+    - Our brains are belief engines, evolved pattern-recognition machines that connect the dots and create meaning out of the patterns that we think we see in nature. Sometimes A really is connected to B; sometimes it is not. ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B004GHN26W&location=1051))
+    - Uncertainty makes people anxious, and anxiety is related to magical thinking. ([Location 1393](https://readwise.io/to_kindle?action=open&asin=B004GHN26W&location=1393))
+    - “when individuals are unable to gain a sense of control objectively, they will try to gain it perceptually. ([Location 1423](https://readwise.io/to_kindle?action=open&asin=B004GHN26W&location=1423))
+    - So we instinctively seek out patterns to regain control—even if those patterns are illusory.” ([Location 1428](https://readwise.io/to_kindle?action=open&asin=B004GHN26W&location=1428))
+    - agenticity: the tendency to infuse patterns with meaning, intention, and agency. ([Location 1554](https://readwise.io/to_kindle?action=open&asin=B004GHN26W&location=1554))
+    - what people remember happening rarely corresponds to what actually happened. ([Location 1725](https://readwise.io/to_kindle?action=open&asin=B004GHN26W&location=1725))
+    - people with high levels of dopamine are more likely to find significance in coincidences and pick out meaning and patterns where there are none. ([Location 2164](https://readwise.io/to_kindle?action=open&asin=B004GHN26W&location=2164))

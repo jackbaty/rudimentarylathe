@@ -1,0 +1,17 @@
+- ☁️ Overcast +50°F
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fjackbaty%2F36UKLt0dOy.png?alt=media&token=45262b06-3289-429d-9fea-7b0b2cfcc84f)
+- This was genius of me. I feel much better now.
+    - "Unfollowed Conor on Twitter. Why didn't I think of this before? :)"
+- Another tempest in a teacup: [Jeffrey Paul: Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/). #Apple #Privacy
+    - Later: A less alarmist, but also questionable, rebuttal: [Does Apple really log every app you run? A technical look – Jacopo Jannone - blog](https://blog.jacopo.io/en/post/apple-ocsp/)
+    - 
+- [[Capture One Pro]] v21 "Sneak Peek" on [[November 17th, 2020]] at 6:00 pm CET
+    - It better be a big one or I'm going to become a Lightroom user
+    - Update: Nope. Some fun keyboard based editing but otherwise nothing of note that I can see.
+- Oh look, I upgraded [[Obsidian]] and see that it has [[Vim]] keybindings available by default. Huh, I like Vim keybindings.
+- Can you tell I'm in the midst of another systems crisis?
+- I had a bunch of todos I didn't want to do so I spent the time moving from [[OmniFocus]] back to [[Things]]
+- I thought we were supposed to get better extension capabilities in [[Safari]] under [[Big Sur]]. When is that going to happen?
+- __What I'm getting at is bigger than an extensible text editor, or an occupation, or a beloved season. I'm saying it's worth finding your resonant frequency, the node where everything's in phase and you can transmit in the clear without looking over your shoulder. I'm convinced everyone has a sweet spot, and once you find it, goals and competitive measures and key milestones dim down enough that you can enjoy life and handle it well, whatever's happening. It's a place where even silence is a source of pleasant sound for you, where the trunk noise is familiar music and the tone is 20dB down on the nose.__ via [emacs heaven](http://stormrider.io/emacs-heaven.html) #Emacs
+- I haven't read a book in months. What I think I need is one without an agenda.
+- 

@@ -1,0 +1,17 @@
+created: 20200808133200760
+creator: jack
+modified: 20200808133333776
+modifier: jack
+tags: 
+title: Making Hive theme work without JavaScript
+
+I've once again been using the [[Hive WordPress Theme]] but discovered a problem. The home page would not load at all if JavaScript is disabled. I wrote Pixelgrade support and within an hour Alin responded suggesting the following CSS change...
+
+```
+/* Display blog posts when JS is disabled */
+.archive__grid .post > * {
+   opacity: 1;
+}
+```
+
+Worked a treat.

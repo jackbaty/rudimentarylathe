@@ -1,0 +1,22 @@
+- ☀️ Clear +46°F
+- I should learn some of the newer features of [[Hugo]] but it's too hard right now.
+- I found myself both nodding and shaking my head at [Phil's note about Roam bloat](https://youneedastereo.com/#2020-09-05%20Journal)
+    - For a long time I dismissed the idea of putting tasks in [[Roam]] because, you know, [[Org mode]], [[Things app]], [[OmniFocus]], etc. But I found myself putting them in Roam anyway because it's RIGHT THERE.
+    - Roam is at a place where they're **figuring out what's useful**. I don't know yet if task management is one of those things, but it seems kind of obvious to try. I treat it more like Org mode in that I just drop TODOs right in the note I'm writing. Having nicer ways of managing those could be just the ticket. Then again, it might make a mess.
+    - At some point Roam may evolve (bloat?) into something I don't find useful, but for now, **it's kicking everything else's ass** for me as a note-taking, logging, thought-processing tool.
+    - I can't really explain it, but things like [[Org-roam]] and [[Obsidian]] continue to improve at manipulating the text of my notes, but Roam continues to get better at **helping me think**.
+- Still, the (ugh) "RoamCult" **smarty signaling** is just so off-putting
+- [[baty.net]] takes **8 or 9 seconds to build** since switching to the [[LoveIt Hugo Theme]]. Took 3-4 seconds with the old theme. I'm OK with this for now.
+- Would be cool if visitors here could **comment on blocks**, ala Medium.
+- [[Safari]] has been giving me fits with [[Roam]] so I'm using [[Chrome]] for now. I'm not thrilled about this
+    - Update: Nope. I don't like Chrome and it's anti-open web, track-everything parent. Back to Safari after less than a day.
+- Whenever I take a screenshot in [[Big Sur]] the highlighted area remains "lit" and the rest of the screen remains dim.
+- This database is now using the [GitHub - linuz90/better-roam-research](https://github.com/linuz90/better-roam-research) theme
+    - This, instead of the [RoamThemes Chrome extension](https://roamthemes.io/) so visitors see the theme, too.
+- I wish everyone would start a public [[Roam]] database.
+- Bought a bottle of [[Aberfeldy]] 16-year [[Scotch Whisky]] and it's very good.
+    - This also may begin my addition of tasting notes in Roam
+- I resumed my [[Medium]] membership for 1 year. I'd stopped using Medium due to the click-bait heavy stories and their waffling about what they wanted to be. Some recent posts by Ev ([example](https://blog.medium.com/whats-around-the-corner-for-medium-b79e8764c9cd)) make me think it's heading back to blog-land so I'm going to try it on. I'll also be syndicating my [[baty.net]] posts there, just for fun.
+- What about [The Julia Programming Language](https://julialang.org/)? #Programming
+- I never rearrange my home screen
+- 

@@ -1,0 +1,13 @@
+created: 20201121130222613
+creator: jack
+modified: 20201121130554394
+modifier: jack
+tags: 
+title: TW: Importing markdown files (from Roam)
+
+Some notes on how I've been trying to pull in some of the pages from [[Roam]] via [[Markdown]] files
+
+Install the Markdown plugin via the control panel UI
+
+Edit the `$:/config/markdown/renderWikiTextPragma` tiddler and append `prettylink` to the end. This is so that wikilinks (`[[*]]`) are parsed. By default they are not.
+

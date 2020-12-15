@@ -1,0 +1,29 @@
+created: 20200506173200414
+creator: jack
+modified: 20200506175341668
+modifier: jack
+title: Side-by-side figure placement in LaTeX
+
+Side-by-side figure placement in [[LaTeX]]
+
+Use the `subcaption` package, then...
+
+```
+\begin{figure}[h]
+    \begin{subfigure}{0.5\textwidth}
+        \includegraphics{all-the-things.jpg}
+        \caption{All the things}
+    \end{subfigure}%
+\hfill
+    \begin{subfigure}{0.5\textwidth}
+        \includegraphics{angry-desk-flip.jpg}
+         \caption{Table flip}
+    \end{subfigure}
+
+\end{figure}
+
+```
+
+Yielding something like this...
+
+[img[files/2020-05-06_side-by-side.png]]

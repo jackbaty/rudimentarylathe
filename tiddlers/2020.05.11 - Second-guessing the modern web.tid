@@ -1,0 +1,22 @@
+created: 20200511150228567
+creator: jack
+modified: 20200511150345364
+modifier: jack
+tags: Article
+title: 2020.05.11 - Second-guessing the modern web
+
+<<<
+The emerging norm for web development is to build a React single-page application, with server rendering. The two key elements of this architecture are something like:
+
+    The main UI is built & updated in JavaScript using React or something similar.
+    The backend is an API that that application makes requests against.
+
+This idea has really swept the internet. It started with a few major popular websites and has crept into corners like marketing sites and blogs.
+
+I’m increasingly skeptical of it.
+<<< https://macwright.org/2020/05/10/spa-fatigue.html
+
+"What if everyone is wrong" -- exactly
+
+[[Web Development]]
+

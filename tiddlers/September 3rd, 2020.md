@@ -1,0 +1,14 @@
+- Them: "Do you have an **Instagram**?". Me: "No, I have a **__website__**"
+- My blog's files are getting harder to carry around, at 1.5GB. I can deal.
+- I may try this **theme** for [[Hugo]]: [dillonzq/LoveIt: ❤️A clean, elegant but advanced blog theme for Hugo](https://github.com/dillonzq/LoveIt#why-choose-loveit)
+    - Well that was an event. I gutted the entire blog, rearranged everything, and republished using the [[LoveIt Hugo Theme]]
+- "The reason you have a front lawn is to demonstrate to your friends and neighbors how much time and **energy you're prepared to waste**." -- [[Seth Godin]]
+- [How To Automatically Delete Old Emails in Gmail](https://www.techjunkie.com/automatically-delete-old-emails-gmail/)
+- "fatal: You are **pushing to remote** 'master', which is not the upstream of your current branch 'master'
+    - Um, yes it is. It's master. I just pushed there like an hour ago.
+    - **Answer** .git/config had `pushRemote = master` in the [branch "master"] section. Removing that helped #Git
+- Low floor, high ceiling. #Quote
+- I suspect that the awfulness around [[Instagram]] is not as bad as some of us make it out to be but worse than others admit to themselves.
+- __…the more fundamental thing is that [Netflix are] the people who are stepping up and spending money on movies that aren’t Marvel comic movies or big action franchise movies and that type of thing, which is pretty much the business of the studios now. We can’t argue with that.__ -- Joel (and/or Ethan) Coen
+- I broke a shitload of images when "cleaning up" [[baty.net]] yesterday. Much work to do.
+- 

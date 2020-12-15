@@ -1,0 +1,19 @@
+- I have websites everywhere it seems, so I keep a list here
+- ## Active places of my own
+    - [Coping Mechanism](https://copingmechanism.com) - My most active current blog
+    - [Baty.net](https://www.baty.net) - My other blog, since 2000
+- ## Social Spaces (or places I don't own)
+    - [Micro.baty.net](http://micro.baty.net) - Short posts and photos using [micro.blog](https://micro.blog)
+    - [@jackbaty](https://twitter.com/jackbaty) on [[Twitter]]
+    - [@jackbaty](https://mastodon.technology/@jackbaty) on [[Mastodon]]
+    - [jbaty](https://flickr.com/photos/jbaty) on [[Flickr]]
+    - [@mrjackbaty](https://instagram.com/mrjackbaty) on [[Instagram]]
+    - 
+- ## Archived places
+    - [RudimentaryLathe.org](https://rudimentarylathe.org) - My one-time [[TiddlyWiki]].
+    - [static.baty.net](http://static.baty.net) - Files, old websites, downloads, image galleries, things like...
+        - [Fusionary.com (1996)](https://static.baty.net/fusionary1996/web/19961105021520/http-/shaggy.fusionary.com/index.html) Our website from 1996 (via [[The Internet Archive]])
+        - [Twitter archive through 2017](https://static.baty.net/twitter/)
+    - [My Delicious Library](https://dellibary.baty.net) - What [wonderful software](https://www.delicious-monster.com). Remember when they introduced bar code scanning of UPC labels? That was awesome (2004-ish?). I haven't updated mine since 2012, but an export of my library is still online.
+    - [Snippets](https://snippetsarchive.baty.net) - I still miss using [[Dave Winer]]'s [[Fargo.io]]. This is broken due to Dave's refusal to get on board with https, but the words are still there.
+    - 

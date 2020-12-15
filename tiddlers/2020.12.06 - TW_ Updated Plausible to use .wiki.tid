@@ -1,0 +1,10 @@
+created: 20201206205618186
+creator: jack
+modified: 20201206205728025
+modifier: jack
+tags: Changelog
+title: 2020.12.06 - TW: Updated Plausible to use .wiki
+
+[[2020.12.06 - Daily Notes]]
+
+The Javascript tiddler for [[Plausible web analytics]] now uses the .wiki version of the domain

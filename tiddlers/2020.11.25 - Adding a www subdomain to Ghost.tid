@@ -1,0 +1,21 @@
+created: 20201125214327275
+creator: jack
+modified: 20201125214511268
+modifier: jack
+tags: 
+title: 2020.11.25 - Adding a www subdomain to Ghost
+
+It's a little tricky to add a new subdomain to [[Ghost]]
+
+```
+sudo -i -u ghost-mgr
+ghost config url https://www.copingmechanism.com
+ghost setup nginx ssl
+ghost config url https://copingmechanism.com
+exit
+# Added this redirect to nginx config
+# return 301 https://copingmechanism.com$request_uri;
+sudo vi /etc/nginx/sites-enabled/www.copingmechanism.com-ssl.conf
+sudo nginx -t
+sudo nginx -s reload
+```

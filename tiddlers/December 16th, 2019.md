@@ -1,0 +1,13 @@
+- [[Roam]] should have reasonable offline support. I am unlikely to be hurt by not having offline option, but it's certainly a risk.
+- {{[[DONE]]}} https://futureofcoding.org  #[[ToRead]]
+    - Is there something here for me?
+- The only way to help visitors find their way around here is by using the Shortcuts feature. Is this flexible enough? Or maybe it's better because I __can't__ tweak things all day.
+- The "All Pages" view is nice, though. Reminds me of [[Deft]] in [[Emacs]]
+- Love the new [[Markdown]] export in [[Roam]]. It would be even better if it could somehow include the linked references as well.
+    - Many of my topic pages are primarily lists of references but I don't get those references if I export the page.
+- If the only thing your site is good at is SEO optimization I hate you.
+- [[Roam]]'s search needs to automatically expand all nodes containing the query keywords. I often find myself at the page containing my query after searching, but I don't see what I searched for. Having to "Cmd-F" every time I land on a result page is acceptable but not ideal.
+- At times I feel like switching from being someone [[Public Self-Modeling]] to a complete digital recluse with no online presence at all. Unlikely, but fun to consider. There's no mystery about me when every stray, unedited thought gets published immediately.
+- {{[[DONE]]}} https://www.tbray.org/ongoing/When/201x/2019/12/15/Oil-Patch-Against-the-Wall. Climate notes from Tim Bray
+    - __Ms Thunberg says her message is 100% non-violent and I believe her. But when the water levels start rising; when a hundred million people start walking north, empty-handed and hungry, out of the Bengal lowlands; when Mar-a-Lago is smashed and it wasn’t even an official hurricane; when California’s inland crops fail; when the fires burn a third of Sydney; when Arizona real estate goes to zero; and especially, when some climate-change surprise nobody thought of wreaks deadly havoc in a place nobody expected, people __are__ going to be put up against walls and not in Greta’s “Swenglish” sense, no not at all.__
+- I ordered something from apple.com and one of the delivery options was "2 Hours". What? Yep, it just showed up via courier less than 2 hours after I placed my order.

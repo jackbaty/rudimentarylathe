@@ -1,0 +1,23 @@
+created: 20201121202458951
+creator: jack
+modified: 20201121203134770
+modifier: jack
+tags: 
+title: TW: Tiddler Guidelines
+
+I keep changing how I work with tiddlers, so I created this one to try and consolidate and make things a little more consistent.
+
+!! Titles
+
+* If the date is relevant, prefix the title with a dotted date, `YYYY.MM.DD - `
+* For [[Evergreen Notes]] aka [[Topic Journals]], just make a title and leave the date out of it
+* For meta notes about TiddlyWiki, prefix with `TW: `
+* Daily notes are handled automatically, but should be `YYYY.MM.DD - Daily`
+
+!! New tiddler vs part of a daily note
+
+This is a tricky one. In Roam, I put everything into daily notes. That feels wrong somehow in TiddlyWiki, so I tend to create new tiddlers more often. There's no rule here, really. Go with your gut.
+
+!! Tagging
+
+I'm moving away from tags in general. I use a `Journal` tag on the daily notes, `Book` for books, etc. But I haven't been tagging based on content or topic. It's too much like work.

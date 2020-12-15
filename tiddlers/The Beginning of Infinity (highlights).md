@@ -1,0 +1,9 @@
+- Author:: [[David Deutsch]]
+- Full Title:: The Beginning of Infinity
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51ZFmRLeKLL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - no amount of deduction applied to statements describing a set of experiences can reach a conclusion about anything other than those experiences. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B005DXR5ZC&location=168))
+    - fallibilism is that one not only seeks to correct the misconceptions of the past, but hopes in the future to find and change mistaken ideas that no one today questions or finds problematic. So it is fallibilism, not mere rejection of authority, that is essential for the initiation of unlimited knowledge growth – the beginning of infinity. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B005DXR5ZC&location=251))
+    - As Arthur Conan Doyle’s fictional detective Sherlock Holmes put it in the short story ‘A Scandal in Bohemia’, ‘It is a capital mistake to theorize before one has data.’ ([Location 257](https://readwise.io/to_kindle?action=open&asin=B005DXR5ZC&location=257))
+    - Conan Doyle came much closer to the truth when, during ‘The Boscombe Valley Mystery’, he had Holmes remark that ‘circumstantial evidence’ (evidence about unwitnessed events) is ‘a very tricky thing…It may seem to point very straight to one thing, but if you shift your own point of view a little, you may find it pointing in an equally uncompromising manner to something entirely different…There is nothing more deceptive than an obvious fact.’ ([Location 269](https://readwise.io/to_kindle?action=open&asin=B005DXR5ZC&location=269))

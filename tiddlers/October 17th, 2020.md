@@ -1,0 +1,22 @@
+- ☀️ Clear +31°F
+- I'm not sure about this
+    - "I've also been considering a move to keeping __everything__ in my private database and copying specific things here to the public one. Feels like work, though, and one of the reasons I'm in love with Roam is that using it doesn't feel like work. We'll see"
+    - Once I've written something in the private database, **what's the use in copy/pasting it here?** That sort of thing works for longer blog posts for which I want to actually __edit__, but the stuff here is just whatever pops into my head throughout the day and I like it that way. Still noodlin'
+- An ode to the only **keyboard** that matters: [HHKB Type-S Review: This Is the Perfect Keyboard](https://gizmodo.com/this-is-the-perfect-keyboard-1845258727)
+    - (Technically, I have the wired "[[Happy Hacking Keyboard]]) Professional 2" but same diff.
+    - 
+- Playing **Joanna Newsom** a little too loud on good speakers does wonderful things with her playful music and unusual voice.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fjackbaty%2FKjWoRH_XoC.png?alt=media&token=82d82371-0667-4e9e-a39e-a989fb881ecd)
+- I'd intended to write "Editor agnostic" but unintentionally wrote "Editor obnoxious" which is accurate.
+- [[Micro.blog]] is a little flakey this morning
+- [[Plaintext]] is just so...**plain**.
+- There's nothing **I need a computer to do** that [[macOS]] can't do well. The same thing is not true for [[Linux]].
+- Dammit there's a **new beta v12** of [[TheBrain]] [Introducing TheBrain 12 Beta](https://www.thebrain.com/blog/version-12-beta)
+    - And of course they've added a form of **backlink** handling
+    - Display of attachments is precisely 1 million times better
+    - Events are displayed inline. Makes events actually useful!
+    - No longer that annoying link icon for links in notes. Links are proper links.
+    - CMD-K does everything link-related. Awesome.
+    - Note title shown at top of notes and can be renamed right in place. Handy!
+- Thinking about deleting all of the downloaded music files that I never listen to. If I never hear Counting Crows again it'll be fine with me.
+- 

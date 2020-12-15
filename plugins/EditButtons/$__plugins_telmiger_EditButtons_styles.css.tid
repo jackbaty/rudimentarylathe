@@ -1,0 +1,8 @@
+created: 20170914192742622
+creator: Thomas Elmiger
+modified: 20200524122113150
+modifier: Thomas Elmiger
+tags: $:/tags/Stylesheet
+title: $:/plugins/telmiger/EditButtons/styles.css
+
+<$transclude tiddler={{$:/plugins/telmiger/EditButtons/settings/style}}/>

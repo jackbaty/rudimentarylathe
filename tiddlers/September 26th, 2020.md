@@ -1,0 +1,12 @@
+- [Design, Composition, and Performance - Rich Hickey - YouTube](https://www.youtube.com/watch?v=MCZ3YgeEUPg&feature=youtu.be)
+- I give up on Siri. It still sucks so much. #Apple
+- [Seeing Our Own Reflection in the Birth of the Self-Portrait - The New York Times](https://www.nytimes.com/interactive/2020/09/25/arts/durer-self-portrait.html) #Art
+    - This is one of the very few legitimate uses of parallax and other scroll hijacking. And it's a great one.
+- How do I create something with no need for Likes? I hate that I feel compelled to share everything I've made. And to share it places where Likes are currency. I wonder if I'd create more if there were no such places available. #Creativity
+- As pretty as [[Nova]] is, I'm not sure what advantages it brings over [[BBEdit]], [[Emacs]], or [[VS Code]]. At least for my use case, I'm not convinced I need it.
+- Many of the "smart set" on Twitter sound like they feed random obscure observations into some sort of sound-smart utility and spew it out as if they're thinking Deep Thoughts™
+- I don't know if I can continue using [[Org-journal]]. [[Roam]] is worse for __writing__ a journal but is way better at making a journal __useful__.
+- I spent time today testing [[Darktable]], [[Raw Therapie]], and [[Digikam]] on my Mac. They are all terrible.
+- Sweet, Phil has a [public Roam DB](https://roamresearch.com/#/app/twelvety_public)
+- As long as I still wish to process and manage photos using a computer, [[Linux]] is out of the question. All of the options on Linux are terrible: [[Darktable]], [[Raw Therapie]], [[Digikam]], all of them, just awful when compared to things like [[Lightroom]] and [[Capture One Pro]]. #Photography
+- 

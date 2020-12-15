@@ -1,0 +1,14 @@
+caption: New
+created: 20181031162632422
+creator: jack
+list-before: $:/core/ui/SideBar/Recent
+modified: 20201215122435048
+modifier: jack
+revision: 0
+tags: $:/tags/SideBar $:/themes/nico/notebook/tags/SidebarSection
+title: New
+type: text/vnd.tiddlywiki
+
+''The 25 newest entries...''
+
+<$macrocall $name="timeline" format={{$:/language/RecentChanges/DateFormat}} dateField="created" limit="25" />

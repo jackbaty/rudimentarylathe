@@ -1,0 +1,18 @@
+- Author:: [[David McRaney]]
+- Full Title:: You Are Not So Smart
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51G70KBZyLL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - The maintenance of a positive self-image seems to be so important to the human mind you have evolved mental mechanisms designed to make you feel awesome about yourself. ([Location 119](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=119))
+    - A person with Capgras delusion believes their close friends and family have been replaced by impostors. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=411))
+    - Who you think you are is sort of like a movie based on true events, ([Location 466](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=466))
+    - THE MISCONCEPTION: Your opinions are the result of years of rational, objective analysis. THE TRUTH: Your opinions are the result of years of paying attention to information that confirmed what you believed, while ignoring information that challenged your preconceived notions. ([Location 469](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=469))
+    - you want to be right about how you see the world, so you seek out information that confirms your beliefs and avoid contradictory evidence and opinions. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=503))
+    - In science, you move closer to the truth by seeking evidence to the contrary. Perhaps the same method should inform your opinions as well. ([Location 522](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=522))
+    - You tend to edit your memories so you don’t seem like such a dimwit when things happen you couldn’t have predicted. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=531))
+    - Picking out clusters of coincidence is a predictable malfunction of normal human logic. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=614))
+    - If you were to shuffle a deck and draw out ten cards, the chances of the sequence you drew coming up are in the trillions, no matter what the cards are. If you drew out an ordered suit, it would be astonishing, but the chances are the same as any other set of ten cards. The meaning is a human construct. ([Location 653](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=653))
+    - The tendency to react more rapidly and to a greater degree when considering information you are familiar with is called the availability heuristic. ([Location 1002](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=1002))
+    - A whole industry of assholes is making a living off of making attractive yet untalented people believe they are actually genius auteurs. ([Location 1122](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=1122))
+    - You not being able to disprove this book secretly hungers for flesh does not improve the odds it does. The same holds true for leprechauns and unicorns, chupacabra and the Loch Ness Monster. These things aren’t more likely just because you can’t prove they don’t exist. ([Location 1337](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=1337))
+    - It turns out, for any plan to work, every team needs at least one asshole who doesn’t give a shit if he or she gets fired or exiled or excommunicated. ([Location 1689](https://readwise.io/to_kindle?action=open&asin=B0052RE5MU&location=1689))

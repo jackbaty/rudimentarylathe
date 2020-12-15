@@ -1,0 +1,11 @@
+- Author:: [[Clay A. Johnson]]
+- Full Title:: The Information Diet
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51RfhTSO9OL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - Who wants to hear the truth when they can hear that they’re right? ([Location 320](https://readwise.io/to_kindle?action=open&asin=B006GRYADO&location=320))
+    - In 20 years, we went from an obesity rate no higher than 14% in any state to an obesity rate no lower than 20% in any state, and an obesity rate higher than 25% in most states. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B006GRYADO&location=421))
+    - It’s too high of a cognitive and ego burden to surround ourselves with people that we disagree with. ([Location 1581](https://readwise.io/to_kindle?action=open&asin=B006GRYADO&location=1581))
+    - “Clay, yard work is just like that video game you’re playing, except with a productive outcome.” ([Location 1617](https://readwise.io/to_kindle?action=open&asin=B006GRYADO&location=1617))
+    - Consume deliberately. Take in information over affirmation. ([Location 1938](https://readwise.io/to_kindle?action=open&asin=B006GRYADO&location=1938))
+    - The Internet is the single biggest creator of ignorance mankind has ever created, as well as the single biggest eliminator of that ignorance. It’s our ability to filter that eliminates the former and empowers the latter. ([Location 2064](https://readwise.io/to_kindle?action=open&asin=B006GRYADO&location=2064))

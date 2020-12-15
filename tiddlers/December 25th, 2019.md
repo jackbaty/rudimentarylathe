@@ -1,0 +1,13 @@
+- Good morning. It's [[Christmas]]. 🎄
+    - I don't put much stock in Christmas other than as an opportunity to spend time with family, relax, and regroup. I'm not a religious person, and I'm not really into traditions. I do like a day off and a few good meals, though :).
+- 🌫 +32°F
+- For [[Journaling]], there's this Roam database, my private Roam database, my wiki, and Org Journal. Oh, and a stack of fancy notebooks and fountain pens. Here's how I'm thinking about them as of today.
+    - [[Org-journal]] is for private thoughts about life in general and to record life events. Things like how I'm feeling, when I had a headache, recording purchases, etc. Life logging, basically.
+    - Private [[Roam]] database is for [[Topic Journals]], work projects, time tracking, some todos, CRM, professional events and contact management. This is where I am finding Roam to be indispensable after only a couple weeks. It's fantastic for all of these things. 
+    - Public [[Roam]] database is for random thoughts that for whatever reason should be public. It's a little like a proto-microblog. If there's a remote change that someone, somewhere might find it useful, it goes here.
+    - The [[Rudimentary Lathe]] wiki is up in the air. Currently, I don't see a difference between that and the public Roam database. It will end up one or the other.
+    - Paper notebooks are for occasional journaling. It's nice to have a permanent, hand-written record of my life.
+- [[Firefox]] regularly consumes more than 6GB and reports as a power hog. May need to see about using [[Safari]] more when unplugged on my MBP and see if that's any better.
+- When poor people manipulate things to their advantage, they're "cheating the system". When rich people do it they're "taking advantage of the system" and are lauded for it.
+- __[What makes America the greatest country in the world?] It’s not the greatest country in the world! We’re seventh in literacy, 27th in math, 22nd in science, 49th in life expectancy, 178th in infant mortality, third in median household income, No. 4 in labor force, and No. 4 in exports. So when you ask what makes us the greatest country in the world, I don’t know what the f*** you’re talking about.__
+    - -- Aaron Sorkin

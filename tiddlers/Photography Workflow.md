@@ -1,0 +1,74 @@
+- This is where I keep notes on my latest process for managing and processing photos
+- ## The Process
+    - Start with [[Photo Mechanic]]
+        - Ingest from card into ~/Pictures/_Inbox folder
+        - Tag the losers and delete. ("T" is for "Trash")
+        - Add Title/Object Name to each photo
+        - Rename using predefined template
+            - Usually `{iptcyear4}-{iptcmonth0}-{iptcday0}-{object}`
+            - Example: 2020-08-22-This is a photo of my dog.dng
+    - Drag from _Inbox into Lightroom (the new Lightroom, I mean)
+    - In [[Lightroom]]...
+        - Review imported photos and add 1 star to anything that looks worth editing
+        - Edit to taste
+        - Add one more star to all edited photos (2-star images have been edited)
+        - Export full-size JPG of the keepers to `~/Desktop/Export/Full-size JPGs` folder
+        - Add another start to the exported photos (3-star images have been added to the DPA)
+        - Organize and add to albums as desired
+    - Back in Photo Mechanic, browse the exported JPGs and "Save as..." to the [[Digital Print Archive]] and `~/Desktop/Export/`
+    - Or, if I want to get fancy, I edit in [[Capture One Pro]] instead, but everything else in the Lightroom block above is the same.
+- Here's what I wrote back in April, 2019. Much of it still applies
+    - I'm writing down the valid options for how I manage and process my photos
+    - ### Photo Mechanic and standalone editor(s)
+    - [[Photo Mechanic]] is great, and there is a new (in beta) catalog version. I could use PM to ingest all photos and keep track of them using the new catalog features. All processing/editing would be done using something like Photoshop, Luminar, etc.
+    - **Pros**
+        - Very lightweight and flexible. Move files around at will, edit with whichever editor makes sense.
+        - Culling and managing metadata in PM is the best option out there.
+        - Files remain managed in neat folders on disk and filenames are controlled by me
+        - Lots of upload/sharing options are available
+    - **Cons**
+        - Image processing is separate from management. This really slows things down when I'm not feeling fancy.
+        - PM's catalog features are new, and frankly aren't that impressive in my early tests
+    - ### Lightroom CC
+    - Lightroom CC is the option I _want_ to use, but one of us is not ready. CC is pretty and simpler, and having the same UI on all devices and seamless cloud backup and storage is compelling. But there are drawbacks.
+    - **Pros**
+        - Clean, simple UI
+        - All photos are immediately synced, backed up, and available on all my devices
+        - Adobe is regularly improving the app. I believe they're betting the future of Lightroom on it, so it's probably a focus for them.
+        - Faces and other "Sensei" features are handy
+    - **Cons**
+        - Cloud storage is required, and gets expensive
+        - Reliance upon Adobe for access to my photos
+        - Cannot manage filenames or storage
+        - No variants
+        - No smart groups
+        - No color labels
+        - Editing options feel limited, for when I'm feeling fancy
+        - Sharing to other apps isn't supported to anything other than Photoshop
+        - Limited export options
+    - ### Capture One Pro
+    - I love editing in [[Capture One Pro]], but it feels isolated from the rest of my ecosystem and its catalog features are not as nice as Lightroom Classic's.
+    - **Pros**
+        - Really nice editing environment. Layers, tone curve, color management are awesome.
+        - My favorite app for actually editing images
+        - Clicking "Auto" gets me 90% of the way there in many cases
+        - Tethered shooting works great
+        - "Sessions" can be a handy way to work
+        - Process/export to multiple targets at the same time. The configuration is quite flexible.
+    - **Cons**
+        - Round tripping to 3rd-party plugins can be cumbersome
+        - No sync options, so everything needs to be imported/processed/exported locally on my main library
+        - No "faces" or other AI features
+    - ### Lightroom Classic
+    - I've used Lightroom Classic for years. It's a powerful, capable app and works with just about everything. I've tried moving to CC a few times but it never stuck. Classic is just too good to give up to CC so easily.
+    - **Pros**
+        - Complex, but powerful UI.
+        - Vast ecosystem of plugins, presets, and help is available
+        - Exports to just about anything, anywhere (Flickr, SmugMug, etc)
+        - Round trips to 3rd-party apps is mostly seamless
+        - Can sync images two/from Lightroom CC on mobile
+        - Jeffrey Friedl's plugins are super handy
+    - **Cons**
+        - Complex, but powerful UI is showing its age
+        - Not the speediest app
+        - No longer Adobe's focus and could potentially be discontinued

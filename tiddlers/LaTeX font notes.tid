@@ -1,0 +1,18 @@
+created: 20200506171129849
+creator: jack
+modified: 20200506173131312
+modifier: jack
+tags: 
+title: LaTeX font notes
+
+Fonts are weird in [[LaTeX]]
+
+Controlling section font sizes, etc. using the `titlesec` package
+
+```
+\titleformat{\section}
+  {\normalfont\sectionfont\large}{}{0pt}{}
+\titleformat{\subsection}
+  {\normalfont\sectionfont\small}{}{0pt}{}
+```
+

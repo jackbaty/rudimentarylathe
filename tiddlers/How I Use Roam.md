@@ -1,0 +1,27 @@
+- I have been using [[Roam]] since [[December 3rd, 2019]].
+- **Private Database**
+    - Journaling
+        - The Daily Notes page is terrific for this. So convenient.
+    - CRM and notes about people and their connections. This just happens automatically as I type things as links.
+    - Logging events. They go on the Daily Note for the day and so flow into the event topic naturally.
+    - Tracking tasks for work
+        - I keep a "Work Notes" node for each day and add timestamped entries below it. Like this...
+            - 07:06 Wrote notes about how I use Roam
+            - 07:25 Did other work stuff
+        - Many of these notes link to current project pages so that the references section for those projects becomes an event timeline.
+    - Project management
+        - Notes, people, logs, etc
+        - This is great for creating links between projects and people and resources.
+    - Family event planning
+    - [[Topic Journals]]
+        - This is where the confusion lies between public and private databases. I have thoughts on topics that I would rather not be public, but also thoughts that could be public. Still working through this.
+- **Public Database**
+    - You're soaking in it!
+    - Daily blogging
+        - More like [[Microblogging]] but for things that just randomly occur to me and may not be useful or suitable for anyone's social media feed. You've gotta come get it.
+    - Topic journals
+        - See also "[[Topic Journals]]" in my private database
+    - Have not yet determined whether I can replace my [[Rudimentary Lathe]] wiki. I'm struggling with having 2 databases so using Roam for private notes and TiddlyWiki for public notes makes that easier. On the other hand, I think in outlines and the backlinks in Roam work wonderfully for the sorts of things I'd planned to do with the wiki.
+    - Media notes
+        - Notes about movies I've seen and books I've read. (coming soon?)
+    - 

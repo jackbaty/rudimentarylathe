@@ -1,0 +1,32 @@
+caption: Contents
+created: 20181228195311913
+creator: jack
+is-dropdown: yes
+list-before: New
+modified: 20201214122211502
+modifier: jack
+revision: 0
+tags: $:/tags/SideBar hide $:/tags/MenuBar $:/themes/nico/notebook/tags/SidebarSection
+title: Table of Contents
+type: text/vnd.tiddlywiki
+
+''Table Of Contents''
+
+"""
+❓ [[About]] this place
+⏱ [[Now]] what am I doing?
+✉️ <a href="mailto:jack@baty.net" class="tc-tiddlylink tc-tiddlylink-resolves">Email</a> me!
+"""
+
+---
+
+"""
+[[Daily Haunts]] - Places I visit
+[[Changelog]] - Wiki updates
+"""
+
+---
+''The 10 newest entries...''
+
+<$macrocall $name="timeline" format={{$:/language/RecentChanges/DateFormat}} dateField="created" limit="10" />
+

@@ -1,0 +1,27 @@
+created: 20200606140138280
+creator: jack
+modified: 20200606140606135
+modifier: jack
+tags: 
+title: Fixing an invisible text problem in BBEdit
+
+Suddenly, a few days ago, I could no longer see any text in [[BBEdit]] windows. Here's the fix (per BBEdit's typikcally stellar support)
+
+
+1. Quit BBEdit if it is running.
+
+2. Wait for at least one (1) full minute by the clock.
+
+3. Launch the Terminal utility app (available within the "Utilities" subfolder of your Mac's main "Applications" folder).
+
+4. Enter the following three commands (you can copy & paste them), pressing Return after each:
+
+   `atsutil server -shutdown`
+
+   `sudo atsutil databases -remove`
+
+   `atsutil server -ping`
+
+5. Restart your computer.
+
+6. Relaunch BBEdit.

@@ -1,0 +1,27 @@
+created: 20200723101312835
+creator: jack
+modified: 20200724105254633
+modifier: jack
+tags: Journal
+title: Thursday, July 23, 2020
+
+➽ Too often, [[Safari]] in [[Big Sur]] fails to show the insertion point. I have no idea where I'm about to start typing.
+
+➽ I'm supposed to be using [[Roam]] to enhance my knowledge or some shit, right? Then why am I using it as nothing more than a fancy notetaking app instead? Am I just recording stuff or am I going to actually use it for something?
+
+➽ Just when I decide I don't want to buy a big Linux desktop, I learn about [[Synergy|https://symless.com/synergy]] and now I want to try it.
+
+➽ [[Yequake]] for [[Emacs]] provides a nice emacs frame for org-capture
+
+➽ I could buy 10 [[Ricoh GRIII]] cameras for the price of one new [[Leica M10-P]]. I'm an idiot for even considering the Leica.
+
+➽ I'm using the [[Keychron K2]] today at home, just for the hell of it. Now that I'm so deep into the [[Happy Hacking Keyboard (HHKB)]] it's difficult to use a "regular" layout. I mean, now the backspace key is //way// over there and I keep missing it. And those switches are fine, but they're not Topre switches, by a long shot.
+
+➽ I hear everyone complain about Electron apps being resource hogs but almost no one mentioning that Xcode is over 6GB and there's a half-million files in the package. Gross.
+
+➽ Every time I run a [[macOS]] beta I end up with build issues, so I either install [[Xcode]] or just the command line tools and still see something like... "xcrun: error: invalid active developer path" so then I remember I'm running the Xcode beta and need to do this...
+
+`sudo xcode-select -switch /Applications/Xcode-beta.app`
+
+
+

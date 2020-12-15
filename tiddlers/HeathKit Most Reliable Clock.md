@@ -1,0 +1,8 @@
+- I made [one of these](https://shop.heathkit.com/shop/product/most-reliable-clocktm-gc-1006-26)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fjackbaty%2FJ36rEjrsa7.jpeg?alt=media&token=0445de09-2536-4c1e-8ce4-18bda807c1f4)
+- **Forty years ago, our clock kit was a small part of history.** Heathkit® clocks have been among our most popular kits of all time. The venerable Heathkit® GC-1005 clock was our first digital clock kit. We designed it around the Mostek 5017, the first integrated circuit ever made that contained a complete clock-on-a-chip. That clock is much-loved to this day. But its old Mostek clock chip and display components are no longer available.
+- **Things are getting better all the time.** This Heathkit® GC-1006 Most Reliable Clock TM is modeled on our historic clock designs, but better.  It's safe and simple for beginners to assemble and understand. It offers big improvements over the old clocks, and most modern ones too. And now that the Heathkit® clocks are back, you can build one yourself.
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fjackbaty%2FiG2hqEhbD7.jpg?alt=media&token=5671d771-d2bd-475c-92e7-dca7b9cef3a2)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fjackbaty%2FNBHuokPz9p.jpg?alt=media&token=cc302059-9251-47e5-aaa0-ae9a74382568)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fjackbaty%2F3xHQ2oj3wc.jpg?alt=media&token=426a6125-9efb-4960-8e37-ad3c2ccd3a99)
+- 

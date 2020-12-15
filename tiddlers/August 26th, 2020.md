@@ -1,0 +1,21 @@
+- Still thinking about [[Django]]. I learned Ruby by playing with [[Ruby on Rails]] so why not [[Python]] by playing with Django?
+- Why do I even care about sharing things?
+- [[Emacs]] eats everything and I need to stop it.
+- I've had the [[Doing script]] misconfigured for a week and so have been adding entries to two separate doing.md files and I'm so pissed at myself. Once again, my system's fragility shows.
+- [MasoniteFramework/masonite: The Modern And Developer Centric Python Web Framework](https://github.com/masoniteframework/masonite) #Python #WebDev
+- I just got a text about [[Kubernetes]] and their phone substituted “Cooper Netties” and now I'm happier.
+- Added roam/css using the Leyendecker [theme](https://roamresearch.com/#/app/help/page/ptCevyZqd)
+    - Also added the following (thanks to [this](https://forum.roamresearch.com/t/awesome-css-for-beginners-and-intermediates/593/37))
+    - .rm-block-text {
+    - max-width: 1000px;
+    - }
+    - This keeps the block widths the same when viewing and editing so the text doesn't jump around as much when editing
+- I'd love to learn [[Clojure]], but I fear that I'm too far away from actually being able to __do__ anything.
+- I find notes in [[Emacs]] to be a joy to create, but hard to actually use. Maybe it's the plain-text aspect. Maybe it's the limited (to me) viewing options.
+- Here's something I noticed: As a __visitor__ I want to read the fast, simple [[Hugo]]-generated [[baty.net]] blog. As an __author__ I want the ease of use and flexibility of my [[WordPress]]-managed [[copingmechanism.com]] blog.
+    - Maybe [Converting HTML Sites to WordPress Sites | Elegant Themes Blog](https://www.elegantthemes.com/blog/tips-tricks/converting-html-sites-to-wordpress-sites)
+- [Anaconda | Individual Edition](https://www.anaconda.com/products/individual) #Python
+- I can't think of anything I'm less interested in than making a living by selling an iOS app on the App Store.
+- I vastly prefer native apps, but the app ecosystem, especially with [[Apple]] has become threatening to the existence of quality, professional apps. So, although my preference is for native apps, I'm beginning to bet on the web.
+- 
+- 

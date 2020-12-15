@@ -1,0 +1,16 @@
+- Author:: [[Cal Newport]]
+- Full Title:: Deep Work
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51vmivI5KvL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - I build my days around a core of carefully chosen deep work, ([Location 188](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=188))
+    - talent is not a commodity you can buy in bulk and combine to reach the needed levels: ([Location 268](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=268))
+    - For many, these standing meetings become a simple (but blunt) form of personal organization. Instead of trying to manage their time and obligations themselves, they let the impending meeting each week force them to take some action on a given project and more generally provide a highly visible simulacrum of progress. ([Location 640](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=640))
+    - The world represented by your inbox, in other words, isn’t a pleasant world to inhabit. ([Location 876](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=876))
+    - You have a finite amount of willpower that becomes depleted as you use it. ([Location 1062](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1062))
+    - Great creative minds think like artists but work like accountants. ([Location 1278](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1278))
+    - Nietzsche said: “It is only ideas gained from walking that have any worth.”) ([Location 1299](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=1299))
+    - The Any-Benefit Approach to Network Tool Selection: You’re justified in using a network tool if you can identify any possible benefit to its use, or anything you might possibly miss out on if you don’t use it. ([Location 2030](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2030))
+    - for some people another part of the delusion that binds them to social media is the idea that people want to hear what you have to say, ([Location 2259](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2259))
+    - it’s undoubtedly easier to continue to allow the twin forces of internal whim and external requests to drive your schedule. ([Location 2498](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2498))
+    - How long would it take (in months) to train a smart recent college graduate with no specialized training in my field to complete this task? ([Location 2515](https://readwise.io/to_kindle?action=open&asin=B00X47ZVXM&location=2515))

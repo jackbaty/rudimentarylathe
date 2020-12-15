@@ -1,0 +1,26 @@
+- Since I rarely ever actually __produce__ anything, I feel like the only way I can add value is by making my thought process public. Hence [rudimentarylathe.org](https://rudimentarylathe.org) and now this place.
+- Is it normal to be bored with everyone once in a while? 
+- I just looked at the readme for [[Unison]] and don't understand a word of it. I may not be cut out for modern programming.
+- [[Roam]] notes for today
+    - Still doesn't support block quotes and it drives me nuts
+    - Another thing I'm looking forward to is an API. The first thing I'm hoping to do is create an Alfred workflow that creates a new block at the bottom of the current Daily Notes page.
+    - What I'd like to do is move toward putting __most__ things in the public database, and leave actual private stuff in the private one. God I hope they support inter-database references soon. I don't want links, I want embeds, so I can pull in content from one to the other as needed. That will make the decision about where to put something much easier.
+    - How much content, if any, should I migrate from the [[TiddlyWiki]] wiki?
+    - 
+- I don't have the energy required to maintain the necessary support structures around my tools. Hell, I don't even need most of the tools, if we're being honest.
+- Let's talk about my (r)evolving [[Photography Workflow]] #Workflow
+    - I tend toward 2 distinct workflows.
+        - Easy and automatic, usually with [[Lightroom]]
+        - Complex and "serious", using [[Photo Mechanic]] and [[Capture One Pro]]
+    - I can't decide which I prefer. I moved into Lightroom a couple of months ago and the ease and simple UI have been liberating.
+    - The biggest problem is that the Lightroom workflow doesn't allow me to control specifics of where the originals are stored. I have the app configured to keep local copies on an external drive attached to my [[iMac]]. These then end up in daily dated folders. I prefer monthly folders, but this is acceptable. This doesn't work for my film scans though, since I name those specifically with a film roll number and put them in roll-based folders. For now I'm keeping the scans in their own folders and importing them into Lightroom. But then I need to create "Albums" if I want to browse by roll later. Not my favorite.
+    - The other issue is that I prefer doing any significant edits in Capture One. 
+    - For now I'm doing both. For day-to-day snapshots I'm using Lightroom only. For "serious" photos I start in Capture One and then later import into Lightroom.
+- I couldn't find my desktop speakers so I stereo-paired the [[HomePod]]s on my office desk
+    - It reminded me that 2-channel audio is an entirely different experience than a single speaker, I don't care how fancy the sound algorithm, whether it be [[Sonos]] or HomePod. You can't properly fake separation.
+- Posted a question on the [[Roam]] forum
+    - [Different CSS for read-only visitors? - Feature Requests - Roam Research](https://forum.roamresearch.com/t/different-css-for-read-only-visitors/1581)
+- [1:1 Foundations: best practices for conversations that count | LeadDev](https://leaddev.com/11-foundations-best-practices-conversations-count) #Management #ToRead
+- Moved my [[Digital Print Archive]] from my main [[iMac]] drive into the [[Dropbox]] folder.
+    - ...because don't let this happen to you [Most of my Digital Print Archive disappeared – Coping Mechanism](https://copingmechanism.com/2020/most-of-my-digital-print-archive-disappeared/)
+- 

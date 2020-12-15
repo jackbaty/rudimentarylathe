@@ -1,0 +1,79 @@
+created: 20201121133156112
+creator: jack
+modified: 20201210020523246
+modifier: jack
+title: MacBook Air M1
+
+[img[files/2020/macbookairm1.jpg]]
+
+Ordered November 19, 2020
+
+"""
+13-inch MacBook Air - Space Gray
+With the following configuration:
+Apple M1 chip with 8‑core CPU and 8‑core GPU
+16-core Neural Engine
+16GB unified memory
+512GB SSD storage
+Retina display with True Tone
+Backlit Magic Keyboard - US English
+Touch ID
+Force Touch trackpad
+Two Thunderbolt / USB 4 ports
+Accessory Kit
+$1,449.00
+"""
+
+---
+!!Install Log
+
+* 1Password
+* Slack
+* Dropbox
+* SetApp
+** CleanMyMac
+** Ulysses
+** iStat Menus
+** CleanShot X
+** TablePlus
+** Forklift
+* Alfred
+* iTerm2
+* BBEdit
+* BetterSnapTool
+* Things
+* Day One
+* Keyboard Maestro
+* Capture One Pro
+* HoudahSpot
+* Nova
+
+
+
+---
+!! Setup Log
+
+* Change caps lock to control
+* Move dock to left (WHAT!?)
+* Create Rosetta 2 version of iTerm (Copy iTerm, Get Info, Run using Rosetta)
+* Install Homebrew using Rosetta 2 iTerm
+* Install [[Fish Shell]] via native installer app (since it's Apple Silicon ready that way)
+* Change to Fish `chsh -s /usr/local/bin/fish`
+* Install oh my fish
+* symlink `~/Dropbox/Sync/env/dotfiles/fish/.config/fish` into `~/.config`
+* `brew install exa` for nicer shell file listings
+* Copy SSH keys from old MBP
+* Copy gpg keys from old MBP
+* Copy fonts from old MBP
+* symlink authinfo.gpg from dotfiles
+* symlink .ssh/config from dotfiles
+* `brew install pandoc`
+* symlink .pandoc from dotfiles
+* Install BasicTeX package from download (trying this instead of the gargantuan MacTeX full package)
+* `brew install git`
+* `brew install ripgrep`
+* `brew install emacs-mac` (plus other bits, per Doom instructions)
+* Install Doom (Emacs)
+* Uninstall Garageband because it's a disk hog
+
+

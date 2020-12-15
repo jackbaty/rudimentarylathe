@@ -1,0 +1,20 @@
+created: 20190104193634794
+creator: jack
+modified: 20200516130321393
+modifier: jack
+revision: 0
+tags: TableOfContents
+title: Words
+type: text/vnd.tiddlywiki
+
+Notes about words
+
+"""
+[[Words to stop saying in 2019]]
+[[Words to avoid saying in 2020]]
+"""
+
+!! Words I've learned
+
+<$list filter='[tag[Word]butlast[]]'><$link><$text text={{{ [<currentTiddler>removeprefix[Word: ]] }}}/></$link>,</$list>
+<$list filter='[tag[Word]last[]]'>   <$link><$text text={{{ [<currentTiddler>removeprefix[Word: ]] }}}/></$link> </$list>

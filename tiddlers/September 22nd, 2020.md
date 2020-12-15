@@ -1,0 +1,21 @@
+- The list of upgrades during `**brew upgrade**` often contains a lot of things I don't recognize. I need to stop installing everything I run across.
+- Pulling back from [[Social Media]] a little. I mean, **I have a platform...the web**. This Roam db and [[baty.net]] are where I say things.
+- I would like to be **known for my output and not for my tools**.
+- Had a **stress test** today. Running on a treadmill while wearing a mask made it decidedly worse.
+- __A gentle reminder: When we say we dislike a word, phrase, idiom, or grammatical or syntactical variation, we’re really saying we dislike the people who employ it.__ via [(fleeting)](https://rnv.letterspace.org/2020/09/22/a-gentle-reminder.html)
+    - I disagree, but haven't thought it through yet. Words matter, of course, but they're also easily mis-used. Hell, I use different words for those I might have chosen all the time. Feel free to correct me, I'm happy to improve, and I won't take it personally.
+    - He [clarified and expanded his thoughts on this](https://micro.blog/rnv/10300030) later, which helped a great deal.
+    - Related
+        - https://twitter.com/lexfridman/status/1308411965237329928
+        - 
+- __Freedom means having no fear__ -- [[Nina Simone]] #Quote
+    - That's exactly right
+- Why didn't I think of this? [Through the (Looking) Glass - Photographing Portraits in the time of COVID-19 - By Carole Evans - 35mmc](https://www.35mmc.com/22/09/2020/through-the-looking-glass-photographing-portraits-in-the-time-of-covid-19-by-carole-evans/#comment-270977) #Photography
+- If I were a professional **wedding photographer**, I would hold on to the outtakes and send them to the couple in a year or two. Even crappy shots are valuable later. #Photography
+- Phew or Whew?
+- I like pretty **heavy vignetting** on photos and drop-shadows on various UI elements. I don't belong.
+- I would love to have **reader commenting** on a per-block basis here. UI could mimic what Medium does for starters.
+- I often consider **removing camera info** from exif data on photos I share, but it annoys me when other people do it so that's that.
+- __Tech needs to quit hacking and start listening.__ -- [The Power and Paradox of Bad Software | WIRED](https://www.wired.com/story/power-paradox-bad-software/) [[Paul Ford]]
+- 
+- 

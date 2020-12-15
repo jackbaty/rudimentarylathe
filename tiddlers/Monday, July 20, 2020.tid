@@ -1,0 +1,9 @@
+created: 20200720211942456
+creator: jack
+modified: 20200720212004918
+modifier: jack
+tags: Journal
+title: Monday, July 20, 2020
+
+➽ `sudo chown -R (whoami):admin /usr/local                                                                                                  
+chown: /usr/local: Operation not permitted` WTF?!

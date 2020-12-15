@@ -1,0 +1,13 @@
+created: 20200511113408835
+creator: jack
+modified: 20200511113527017
+modifier: jack
+tags: 
+title: 2020.05.11 - Upgraded Pi-hole to 5.0
+
+[[Monday, May 11, 2020]]
+
+Simple as `ssh pi@http://192.168.1.XXX` and running `pihole -up`
+
+[[Details about 5.0|https://pi-hole.net/2020/05/10/pi-hole-v5-0-is-here/#page-content]]
+

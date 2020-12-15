@@ -1,0 +1,24 @@
+created: 20200804101406221
+creator: jack
+modified: 20200805015036221
+modifier: jack
+tags: Journal
+title: Tuesday, August 4, 2020
+
+➽ I've had to bail on [[Syncthing]]. Somehow everything became flakey. Not sure if it's due to one of the machines running Big Sur, but there were conflicts everywhere, weird file changes, and ghost files reappearing. Dragged everything back into [[Dropbox]]. Sigh. And I'm not creating symlinks for the old paths because that's indirection that causes other grief. This means I need to update a shit ton of paths in scripts and config files. Oh well.
+
+➽ I'm starting to feel that posting to, say, Instagram is just pushing fodder for the machine and no matter what I create, it will only be casually scrolled past to get to the next thing in the feed...and the next, and so on. My stuff is not special to anyone scrolling by, but it's special to me. Seems like a waste of everyone's time.
+
+➽ Keeping an eye on [[Space, from JetBrains]]
+
+➽ I've reconfigured [[Emacs]] to use my own config again (rather than using [[Doom Emacs]]. Removed most packages other than Org-journal. The idea is to use Emacs mostly for journaling and document authoring. Can I do it? (2 hours later...) Answer...No! Instead I just really slimmed down my Doom config.
+
+➽ As much as I love the process and results of shooting film, sometimes I just want the picture, you know?
+
+➽ Instead of trying to use only apps supporting vim-style modal editing, maybe I could just learn to like "normal" bindings, which are mostly stock Emacs bindings on the Mac anyway. I really like Vim bindings though.
+
+➽ Got access to the [[MyMind]] beta. We'll see.
+
+➽ New policy, don't use hidden folders for anything that needs to be found :). I just spent 20 minutes looking for where [[org-attach]] files were being saved. Turns out it was `~/org/.attach` Didn't see that folder and it could easily have been inadvertently deleted. So I changed the setting to 
+
+`(setq org-attach-id-dir (expand-file-name "attach/" org-directory))`

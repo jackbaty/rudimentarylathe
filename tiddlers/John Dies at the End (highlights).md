@@ -1,0 +1,22 @@
+- Author:: [[David Wong]]
+- Full Title:: John Dies at the End
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51xi%2BEoiKTL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - She burst into snakes. ([Location 279](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=279))
+    - That ability to see the right choice, but not until several hours have passed since making the wrong one? That’s what makes a person a dumbass, folks. ([Location 1261](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=1261))
+    - All of society is built to prop up that lie, the whole world a big, noisy puppet show meant to distract us from the fact that at the end, you’ll die, and you’ll probably be alone. ([Location 2141](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=2141))
+    - Dark matter makes up 99.99 percent of the universe, and they don’t know what it is. Well I know. It’s apathy. That’s the truth of it; pile together everything we know and care about in the universe and it will still be nothing more than a tiny speck in the middle of a vast black ocean of Who Gives A Fuck. ([Location 2149](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=2149))
+        - **Tags**: #[[favorite]]
+    - “Every man is blessed with his gifts from the Lord. One of mine happens to be a penis large enough that, if it had a penis of its own, my penis’s penis would be larger than your penis.” ([Location 2868](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=2868))
+    - My butt cheeks clenched so tightly that not even light could have escaped. ([Location 4658](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=4658))
+    - Something coming back from the dead was almost always bad news. Movies taught me that. For every one Jesus you get a million zombies. ([Location 4811](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=4811))
+    - Are the most dangerous creatures the ones that use doors or the ones that don’t? ([Location 5216](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=5216))
+    - I WOULD LIKE to pause for a moment, to talk about my penis. ([Location 5549](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=5549))
+    - “And watch out for Molly. See if she does anything unusual. There’s something I don’t trust about the way she exploded and then came back from the dead like that.” ([Location 5790](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=5790))
+    - The group might have either pursued him or raised their rifles to perforate his windshield had a gorilla riding a giant crab not leapt out of the woods and eaten two of them. ([Location 6299](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=6299))
+    - The thought of this girl actually being depressed made me want to grab the whole planet and throw it into the sun. Well, more than usual anyway. ([Location 6378](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=6378))
+    - I thought about telling her my own tragic story of the scrotal candle-wax incident, but figured it wouldn’t impress her. ([Location 6401](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=6401))
+    - I feel stretched out, like too little butter scraped over too much waffle. And then it all falls down into one of the waffle holes and there’s none left for the rest of the waffle and you sort of have to tilt it to make it run out.” ([Location 6481](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=6481))
+    - You know how sometimes when you’re drifting off to sleep you feel that jolt, like you were falling and caught yourself at the last second? It’s nothing to be concerned about, it’s usually just the parasite adjusting its grip. ([Location 8991](https://readwise.io/to_kindle?action=open&asin=B002Q7H7JC&location=8991))
+        - **Tags**: #[[favorite]]

@@ -1,0 +1,17 @@
+- Author:: [[David Wong]]
+- Full Title:: This Book Is Full of Spiders
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51KQ7SkMOWL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - “I’m not crazy,” I said, crazily, to my court-appointed therapist. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B007KJHGNI&location=178))
+        - **Tags**: #[[favorite]]
+    - she pointed out to me that if Indiana Jones had just stayed home, Raiders of the Lost Ark would have turned out exactly the same way—the Nazis would have opened the ark and gotten vaporized. ([Location 361](https://readwise.io/to_kindle?action=open&asin=B007KJHGNI&location=361))
+    - face. My hair looked like I had combed it with an angry cat. ([Location 478](https://readwise.io/to_kindle?action=open&asin=B007KJHGNI&location=478))
+    - The leaves were ankle-deep but I knew they’d eventually blow into my neighbor’s yard. The old guy who lived there seemed to like doing yard work so I think that worked out for everybody. ([Location 1416](https://readwise.io/to_kindle?action=open&asin=B007KJHGNI&location=1416))
+    - Alien spiders crawled toward my balls. ([Location 1669](https://readwise.io/to_kindle?action=open&asin=B007KJHGNI&location=1669))
+    - It was just so freaking frustrating, David needed breaking out from a military zombie quarantine and his saviors couldn’t get a ride from Cinnabon. ([Location 2184](https://readwise.io/to_kindle?action=open&asin=B007KJHGNI&location=2184))
+    - behind all of your pretty songs and stained glass, this is what you really are. Shambling meat. ([Location 2298](https://readwise.io/to_kindle?action=open&asin=B007KJHGNI&location=2298))
+        - **Tags**: #[[favorite]]
+    - Falling in love with a house or a car or a pair of shoes, it was a dead end. You save your love for the things that can love you back. ([Location 3884](https://readwise.io/to_kindle?action=open&asin=B007KJHGNI&location=3884))
+    - All moral choices seem easy when you don’t actually have to make them.” ([Location 6357](https://readwise.io/to_kindle?action=open&asin=B007KJHGNI&location=6357))
+        - **Tags**: #[[favorite]]

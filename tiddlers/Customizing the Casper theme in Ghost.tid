@@ -1,0 +1,28 @@
+created: 20201125220158209
+creator: jack
+modified: 20201125220653015
+modifier: jack
+tags: 
+title: Customizing the Casper theme in Ghost
+
+I've been using the default [[Ghost]] theme but with tweaks. The problem is that whenever I update Ghost I lose all the customizations. So I made my own theme forked from Casper.
+
+Fork the original theme https://github.com/TryGhost/Casper.git
+
+Clown my copy and add the original as the "upstream" remote
+
+```
+git remote add upstream https://github.com/TryGhost/Casper.git
+```
+
+Edit stuff all day, commit, then zip the whole repo and upload it via the Ghost control panel.
+
+Occassionally, it might be a good idea to grab the latest changes from upstream...
+
+```
+git fetch upstream
+git pull upstream master
+git push
+```
+
+Then replace the current theme with a new zip via the control panel.

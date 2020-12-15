@@ -1,0 +1,18 @@
+created: 20200502102033438
+creator: jack
+modified: 20200502173047062
+modifier: jack
+revision: 0
+tags: Journal
+title: Saturday, May 02, 2020
+type: text/vnd.tiddlywiki
+
+⛅️ Partly cloudy +52°F
+
+I still like using [[Fish Shell]]. It does so many useful things, straight out of the box. Yes, one could make bash or zsh do many of the same things, but it's work getting there. Work I'm not interested in.
+
+The [[Apple Magic Keyboard for iPad]] is the greatest thing to happen to the iPad and to my use of iOS.
+
+[[Rudimentary Lathe]] is now running on a server via node.js. If you're reading this, it worked. I'm getting [[a JavaScript error|https://groups.google.com/forum/#!topic/tiddlywiki/urSr8y4nJ7k]] running on the server when logging in using [[Firefox]] but it works in [[Safari]]. So it seems I've reversed my setup from a week ago and now I'm running Firefox for everything //except// the wiki. I really would like to edit this thing on the iPad.
+
+The [[Timimi plugin]] now [[works on Chrome, also|https://groups.google.com/forum/#!topic/tiddlywiki/zHsF3YxFM8A]]

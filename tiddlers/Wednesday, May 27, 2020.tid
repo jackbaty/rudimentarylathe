@@ -1,0 +1,14 @@
+created: 20200527123417912
+creator: jack
+modified: 20200527192645800
+modifier: jack
+tags: Journal
+title: Wednesday, May 27, 2020
+
+☁️ Overcast +70°F
+
+Decided to sponsor [[Org-roam]] at $10/month because it's awesome. Plus, it'll be cheaper than Roam :)
+
+Configured [[org-protocol]] for capturing selected text/links from browser to [[Org mode]]. I'm not sure it's worth the trouble. Perhaps better off with a bookmarklet that captures to the clipboard then I can do with it what I wish. Something like [[this gist|https://gist.github.com/jackbaty/bc6d8e5fe4d25a94206c4b7b6db0d7d0]] I made (although it doesn't always work when text is selected)
+
+I'm testing the [[Hyperdeck]] beta. So far so good.

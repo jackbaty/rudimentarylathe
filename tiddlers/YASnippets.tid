@@ -1,0 +1,17 @@
+created: 20201205123812138
+creator: jack
+modified: 20201205171436557
+modifier: jack
+title: YASnippets
+
+Here's my config
+
+```
+(setq yas-snippet-dirs
+      '("~/env/emacs/yasnippets"                 ;; personal snippets
+        ))
+
+(yas-global-mode 1)
+```
+
+That directory is a symlink to `~/Dropbox/Sync/env/emacs/yasnippets`

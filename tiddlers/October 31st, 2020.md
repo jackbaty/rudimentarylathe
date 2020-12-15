@@ -1,0 +1,18 @@
+- A chilly walk with Alice this morning, but the moon was full, bright, and beautiful. 🌕
+- Still trying to find my groove with [[TheBrain]] and [[Roam]]
+    - In theory it’s awesome. I really do feel like TheBrain is the most powerful way to keep track of things over the long term. But of course there’s the nagging fear of being forced (aka locked in) to use TheBrain for the rest of my life or it all goes away.
+- I’ve said this before, I think, but my world view and personality tend to reflect the most recent blog post I read or movie I watched.
+- This week I’m feeling very “private” and concerned about long-term viability of my “stuff”. This Roam DB for example. Sure, I can export it if something goes awry but that doesn’t help make it feel more like “mine”, you know? 
+    - And I decided that I was no longer going to consider using Linux unless it means using __only__ Linux and there’s no way that’s going to happen. And yet, here I am, bewildered by some of what Apple is doing.
+        - (And at the same time, just subsribed to [[Apple One]])
+- Film [[Photography]] doesn’t “Slow me down and make me more deliberate about my photography.” I would happily blow through roll after roll. But I don’t. 
+- Unless the new ARM Macs are touch screen, I don’t understand many of the changes in [[macOS]] [[Big Sur]]
+- I re-subscribed to [[Medium]] but I kind of hate going there. The home page, for me, feels like the same click-baitey nonsense one finds most everywhere else. Not having ads is nice but not by as much as I’d hoped.
+- Played with [[Notion.so]] again. Still don’t like it. Some say, “You have to get used to it” and I totally get that. I spend __days__ “getting used to” tools. Years, sometimes. But Notion just feels janky and overwrought to me. It’s a relief, because it eliminates itself as an option, and I don’t need any more options.
+- My wife doesn’t care a whit about mechanical keyboards or large format camera lenses or obscure command line utilities or the wildly different feel of various fountain pens. I have no idea why she married me.
+- "English grammar is seen as a proxy to intelligence far too often - that is ABSURD"
+    - Is it, though?
+- [How to Add Comments to Ghost Blog – Hyvor Talk Blog](https://talk.hyvor.com/blog/comments-for-ghost-blog/)
+- Let's set up [[Ghost]] for [[copingmechanism.com]], what's say?
+    - Use [[Digital Ocean]] $5 prebuilt Ghost droplet
+    - Increase request size to 100MB

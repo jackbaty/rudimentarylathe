@@ -1,0 +1,20 @@
+created: 20201122130227419
+creator: jack
+modified: 20201122130411323
+modifier: jack
+tags: Changelog
+title: 2020.11.22 - TW: Added EditButtons plugin
+
+[[2020.11.22 - Daily Notes]]
+
+[[EditButton Plugin|https://tid.li/tw5/plugins.html#%24%3A%2Fplugins%2Ftelmiger%2FEditButtons]] for TiddlyWiki
+
+<<<
+The EditButtons plugin makes editing more efficient by adding three buttons to the edit toolbar:
+
+ Cancel & Close (Discard & Close)
+
+ Save & Close (Done & Close)
+
+ Save & Keep Open (Done & Reopen)
+<<<

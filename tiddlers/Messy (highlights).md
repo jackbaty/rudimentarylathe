@@ -1,0 +1,12 @@
+- Author:: [[Tim Harford]]
+- Full Title:: Messy
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51Uk7WTSnqL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - creative ideas don’t always surrender to a frontal assault. Sometimes they sneak up on us while we are paying attention to something else. ([Location 426](https://readwise.io/to_kindle?action=open&asin=B01BD1SU2E&location=426))
+    - “an ample and unprofessional vagueness in his goals.” ([Location 437](https://readwise.io/to_kindle?action=open&asin=B01BD1SU2E&location=437))
+    - Brailsford says that “team harmony” is overrated: he wants “goal harmony” instead, a team focused on achieving a common goal rather than having members get along with one another. ([Location 903](https://readwise.io/to_kindle?action=open&asin=B01BD1SU2E&location=903))
+    - Rather than lubricating people with drinks at a networking reception, or getting them to play silly games at a team-building event, the way to get conflicting teams to gel is to give them something worth doing together—something where failing to cooperate simply isn’t an option. At the end of three weeks—one week ([Location 927](https://readwise.io/to_kindle?action=open&asin=B01BD1SU2E&location=927))
+    - Why is creativity something that happens only when the boss isn’t looking? ([Location 1267](https://readwise.io/to_kindle?action=open&asin=B01BD1SU2E&location=1267))
+    - There is more to creativity than elegance. ([Location 1349](https://readwise.io/to_kindle?action=open&asin=B01BD1SU2E&location=1349))
+    - left-handed people have continued to survive in a right-handed world, despite numerous disadvantages and indignities, because right-handed people aren’t used to fighting them. ([Location 1786](https://readwise.io/to_kindle?action=open&asin=B01BD1SU2E&location=1786))

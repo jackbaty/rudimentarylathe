@@ -1,0 +1,13 @@
+- Author:: [[Jaron Lanier]]
+- Full Title:: Ten Arguments for Deleting Your Social Media Accounts Right Now
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41KVyUJTmjL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - What might once have been called advertising must now be understood as continuous behavior modification on a titanic scale. ([Location 82](https://readwise.io/to_kindle?action=open&asin=B079DTVVG8&location=82))
+        - **Tags**: #[[advertising]]
+    - Social media is biased, not to the Left or the Right, but downward. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B079DTVVG8&location=278))
+    - You know the adage that you should choose a partner on the basis of who you become when you’re around the person? That’s a good way to choose technologies, too. ([Location 577](https://readwise.io/to_kindle?action=open&asin=B079DTVVG8&location=577))
+        - **Tags**: #[[favorite]]
+    - Soothe or savage: whatever best keeps your attention. ([Location 1019](https://readwise.io/to_kindle?action=open&asin=B079DTVVG8&location=1019))
+    - Yes, of course it’s great that people can be connected,12 but why must they accept manipulation by a third party as the price of that connection? ([Location 1100](https://readwise.io/to_kindle?action=open&asin=B079DTVVG8&location=1100))
+    - How can you find happiness without authentic self-esteem? How can you be authentic when everything you read, say, or do is being fed into a judgment machine? ([Location 1185](https://readwise.io/to_kindle?action=open&asin=B079DTVVG8&location=1185))

@@ -1,0 +1,14 @@
+- Author:: [[Jonathan Safran Foer]]
+- Full Title:: Eating Animals
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/510pJgJlpNL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - the label might read: 26 POUNDS OF OTHER SEA ANIMALS WERE KILLED AND TOSSED BACK INTO THE OCEAN FOR EVERY 1 POUND OF THIS SHRIMP. ([Location 630](https://readwise.io/to_kindle?action=open&asin=B002SSBD6W&location=630))
+    - are literally not in cages.) One can reliably assume that most “free-range” (or “cage-free”) laying hens are debeaked, drugged, and cruelly slaughtered once “spent.” I could keep a flock of hens under my sink and call them free-range. ([Location 811](https://readwise.io/to_kindle?action=open&asin=B002SSBD6W&location=811))
+    - If I misuse a corporation’s logo, I could potentially be put in jail; if a corporation abuses a billion birds, the law will protect not the birds, but the corporation’s right to do what it wants. That is what it looks like when you deny animals rights. It’s crazy ([Location 1252](https://readwise.io/to_kindle?action=open&asin=B002SSBD6W&location=1252))
+    - were replaced with wage and contract workers. No one fired a pistol to mark the start of the race to the bottom. The earth just tilted and everyone slid into the hole. ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B002SSBD6W&location=1465))
+    - experiment out of them. Isn’t it strange how upset people get about a few dozen baseball players taking growth hormones, when we’re doing what we’re doing to our food animals and feeding them to our children? ([Location 1533](https://readwise.io/to_kindle?action=open&asin=B002SSBD6W&location=1533))
+    - can’t do it right, don’t do it. It’s that simple. And I’ll tell you another thing: if consumers don’t want to pay the farmer to do it right, they shouldn’t eat meat. ([Location 1539](https://readwise.io/to_kindle?action=open&asin=B002SSBD6W&location=1539))
+    - snapping in their hands. (Approximately 30 percent of all live birds arriving at the slaughterhouse have freshly broken bones as a result of their Frankenstein genetics and rough treatment.) No laws protect the birds, but of course ([Location 1740](https://readwise.io/to_kindle?action=open&asin=B002SSBD6W&location=1740))
+    - the least). The institution we have put in charge of telling us when foods are dangerous has a policy of not (directly) telling us when foods (especially if they are animal products) are dangerous. ([Location 1961](https://readwise.io/to_kindle?action=open&asin=B002SSBD6W&location=1961))
+    - them. By 2050, the world’s livestock will consume as much food as four billion people. Trends suggest ([Location 3554](https://readwise.io/to_kindle?action=open&asin=B002SSBD6W&location=3554))

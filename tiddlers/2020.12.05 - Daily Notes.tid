@@ -1,0 +1,21 @@
+created: 20201205105040939
+creator: jack
+modified: 20201205171516101
+modifier: jack
+tags: Journal
+title: 2020.12.05 - Daily Notes
+
+Today's theme:
+
+[img[files/2020/2020-12-05-theme.jpeg]]
+
+Hey Jack, I have an idea, why don't you spend a couple hours today tweaking the fonts and themes in [[Emacs]]. Idiot. (PS, it's the [[Modus Themes]])
+
+I should try this: [[ABX High Fidelity Test à la Tidal|http://abx.digitalfeed.net/]] but I don't think I want to know the answer.
+
+My advice today is that it's OK to tweak and automate things that I do frequently, but for the love of god stay simple with things I don't often do.
+
+I was clicking randomly on my old baty.net blog and noticed that many of the images on older posts were broken. Took me an hour to determine that during a recent cleanup I never copied over the /files directory from the old version. I'm happy I still had an old copy around, but it reminded me how stupid and unintentionally careless I've been over the years when moving from one blogging tool to another. I still don't have most of the images from 2012 and I hate myself for that. Needs to stop.
+
+Blog Post: [[YASnippet for Hugo frontmatter - Jack Baty's Weblog|https://www.baty.net/2020/yasnippet-for-hugo/]]
+

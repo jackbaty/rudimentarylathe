@@ -1,0 +1,25 @@
+- Thinking a little about my [[Music]] setup
+    - I have paired [[HomePod]]s on my desk, but [[Roon]] **doesn't support Airplay 2** so it can't play to the pair directly and I'm not doing any of the cumbersome workarounds. This leaves me with the choices...
+        - Only stream from Roon to one of the HomePods
+        - Stream via the phone's Airplay from Roon
+        - Use Apple Music for streaming at my desk
+        - Buy "normal" desktop speakers and plug them into the [[FiiO M9]] or some new DAC
+        - Put a "real" stereo somewhere else in the office and stream to that
+        - Do nothing and hope Roon adds Airplay 2 support
+    - My gut says to **go the normal-speaker route** but I don't really want to spend the money I know I'll spend on that setup. I'm pissed that I already own a pair of [[Audioengine A2+]] speakers but can't freaking find them after the move. That might be OK because I never loved those speakers.
+    - I'm also thinking about **streaming vs owning**. My instinct is to "Own My Music" but reality suggests that streaming is not only just fine, but better. This is emphasized by the combination of [[Roon]] and [[Qobuz]]. Of course Roon makes doing both a seamless experience, so it doesn't settle the issue.
+        - I was all set to just punt and live the streaming life but then I went and ordered an [[iPod]] Classic, which will __only__ do downloaded music. 
+        - On top of that, I just recently converted all my music to FLAC which the iPod doesn't support so now I'll have to reconvert a bunch of songs to Apple Lossless or MP3 even.
+    - **UPDATE** I fixed it :)
+        - Ordered a pair of [[KEF LSX]] **wireless speakers** for my desk. These will replace the [[HomePod]] pair which don't work well with Roon as a stereo pair and also have no inputs at all. And I won't need a separate DAC.
+        - I also ordered a little [[Bluesound NODE 2i]] for a **streaming endpoint**. It isn't officially "Roon Ready" but from what I read it works fine as a [[Roon]] endpoint. This will be connected to my existing 2-channel system. #Music
+    - 
+- I'm not likely to ever do this, but [“Create Once, Publish Everywhere” With WordPress — Smashing Magazine](https://www.smashingmagazine.com/2019/10/create-once-publish-everywhere-wordpress/) #WordPress #Publishing
+- Oh hey, **Google Backup and Sync** finally works on [[Big Sur]]
+- I'm trying to remember to **embolden** the important bit of most blocks here in Roam so that it's hopefully easier to scan
+- [WFMU-FM 91.1/Jersey City, NJ; 90.1/Hudson Valley, NY – We're an independent freeform station broadcasting at 91.1 fm in New York, at 90.1 fm in the Hudson Valley, and with gobs and gobs of online offerings.](https://wfmu.org/) #Radio
+- Looks like my old [[Leica Q]] has gone to a good home [U-Haul & Leica Q — KONECNIK](https://www.konecnik.me/blog/2020-10)
+- A couple of [[COVID-19]] links about Aerosol transmission, which is looking increasingly likely.
+    - [FAQs on Protecting Yourself from Aerosol Transmission - Google Docs](https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/preview?pru=AAABdQ5s5mA*YrLy9epGlHWhKPSl5JMT3w)
+    - [COVID-19 Is Transmitted Through Aerosols. We Need to Adapt | Time](https://time.com/5883081/covid-19-transmitted-aerosols/)
+- 

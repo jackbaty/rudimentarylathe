@@ -1,0 +1,8 @@
+created: 20200511210343588
+creator: jack
+modified: 20200511210604853
+modifier: jack
+tags: 
+title: group_concat in SQLite for combining duplicate rows
+
+With a normalized table split into multiple rows for repeating values, I often want to combine the redundant values into a single row when exporting for a client. In [[SQLite]], use the [[group_concat functions|https://www.sqlite.org/lang_aggfunc.html#groupconcat]]

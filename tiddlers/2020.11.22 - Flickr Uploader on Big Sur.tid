@@ -1,0 +1,12 @@
+created: 20201122222632282
+creator: jack
+modified: 20201122222835166
+modifier: jack
+tags: 
+title: 2020.11.22 - Flickr Uploader on Big Sur
+
+The uploader crashes every time I open preferences, but I noticed that it launches at boot and stays running.
+
+I uninstalled it, reinstalled it, and went through the setup by adding my [[Digital Print Archive]] as the watched folder. I then quit the app and restarted the machine. And bingo! The automatic uploads are working. It's a fragile system, but it'll do for now.
+
+[[Big Sur]]

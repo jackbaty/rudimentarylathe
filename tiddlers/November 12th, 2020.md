@@ -1,0 +1,20 @@
+- I'm thinking I might be over doing things the clever, but hard way. It seems like every process I have involves either too many steps or some obscure app or script or hook or twist of some kind. I'm too tired to deal with all this right now.
+- Waiting for [[Ulysses]] to be updated in [[SetApp]] in hopes that it works properly on [[Big Sur]]. The current version 20.2 has problems with the sidebar becoming unreadable.
+- I'm up to $319 in monthly [[Subscriptions]] for software and entertainment. Not sustainable.
+    - To that end, [[Subscriptions]] canceled today:
+        - [[Superhuman]] - I love it, but it truly is unnecessary at $30/month
+        - [[Disney++]] - I only watch one show
+        - [[Apple TV+]] - Now covered under [[Apple One]]
+        - [[Cloudron]] - I'll just use Digital Ocean droplets if I really need something
+        - [[HBO Max]] - I have enough tv
+        - [[Sam Harris]] podcast - I'll deal with ads
+    - That's about $80 month saved so far.
+- I've spend hundreds, maybe thousands of dollars over the past year working to get to where film photography Just Works™. It never happened. Now I have film shit everywhere and no real plan or patience for making one.
+- I love [[Roam]] but I don't know if I want to live as a Roaman, or with the Roamans. And Conor thinks, I'm sure, that he's just being intellectually thorough when he's really just being a dick about it. I'm tired of it.
+- Lots of people over-reacting to the news that [[Google Photos]] is going to start charging next year.
+- This strap is too expensive, but looks like it would work well. [The Brogue SL/SL2 — Harry Benz](https://www.harrybenz.com/shop/the-brogue-sl) #[[Leica SL]]
+- If you ever disable copy or paste on a web page for any reason I hate you.
+- I think this Twitter thread might be what puts me off Twitter for good.
+    - https://twitter.com/owenbroadcast/status/1288932593199656960
+- I thought this was just me. Wasn't. [Mac users couldn’t launch apps this afternoon after Apple verification server issue - The Verge](https://www.theverge.com/2020/11/12/21563092/apple-mac-apps-load-slow-big-sur-downloads-outage-down-issues)
+- 

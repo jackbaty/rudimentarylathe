@@ -1,0 +1,12 @@
+created: 20200525104246821
+creator: jack
+modified: 20200525104411712
+modifier: jack
+tags: 
+title: LaTeX.css
+
+[[Monday, May 25, 2020]]
+
+<<<
+This almost class-less CSS library turns your HTML document into a website that looks like a LaTeX document. Write semantic HTML, add `<link rel="stylesheet" href="https://latex.now.sh/style.css">` to the <head> of your project and you are good to go. 
+<<< https://latex.now.sh/

@@ -1,0 +1,36 @@
+created: 20200531124351208
+creator: jack
+modified: 20200531124518971
+modifier: jack
+tags: 
+title: pwgen
+
+Random, memorable password generation via command line
+
+`brew install pwgen`
+
+https://linux.die.net/man/1/pwgen
+
+```
+⋊> ~ pwgen
+loo7Oa1E ieShaeV5 gebi3Ech EThai8ie wuuR7han Eewing1a Oaph1sho saiXuu4o
+Cae4gee0 coag9Oop eidoh8Ah Eejei8ue ahB3mues FieSh3ph ahde2Eiz Ok9Iixei
+Lahrei3v iech8Ahw ach3Ooju neoB0aib Biera2ai aeleec5B ShahD9te boowe8Mo
+taep9Jae xuCh4aeN Moo3lo0A iQu8epha Ahmaeso5 Amoang2l Ier2Cait Roo9mohp
+Jaim0yio hahZoh8W Oori7ahl coo8haSh hau9Soh1 ir1aGhoo Eemia7ie Gae0aiji
+Eing4ima peebu1iM wis5eiL7 Ereepee6 eic9Ooch foDuP0gi Zahhel0l ohfaiY7o
+DooHear0 IeSh5eiw taecoo0I Eena8hoh god1oToh quu9waMi AhGh1Ahy jobaiPh1
+oleecoH0 Quou8iof Iuy7ohX7 chee8Nee Xee8yeel quaiL9oo uiDoh5ue Shee6ohC
+heiP8io4 oov1YeeL ZeiQuah8 Kepai7Iu hohye1oT Ma1iecee eRae8ahu Sae4coo8
+ohyeeGh2 Aisah2ai ouDae4ae Io6Baegh Ahk4Iegh xiuD4coo pahch4Ie zoofo2Ie
+Oom5agiu Xeth6eek sha6aR4z aim4Aici AuCu2Ef7 Weifu4ij Fi3AiSh2 eis1Shao
+Pi9leago tohth7Xe ahV4nee6 shoh0Sah ob6boPh9 xogaph1I Suaso8sa Fah0maes
+ohCu8Xai IngoHee6 ieg7Jei3 Iic8re3i Aem1ulah Yuf5eeru Vai5ahd5 zihu9Eej
+igheif7A EiShei7j vei3Zeic Fei5MooT faeP5asa eed2Jiek Naa6ii6m phiXo4ei
+eefooPh5 Xadaig4y xu5ooPhu Raug1ael Eneibij8 eena9EeP ai0Fahja eequus0I
+ei2aeThi suT7zuV2 shahX1ib oog2Phie ue9eeh9A Ouna4ien FaT9iiXi aibu9Cun
+laefoh4X Xaixie3i Iewaic3E shie9IeG pha5Rees Uf6ig1oh Ohrof6co uaKu2eef
+Ma6eihae eexeQu2n uX3mahBe ahXoh1na ku9Thei2 Oozoo4oo Fae7saez ahVei4ph
+phohCo7i fohzoh1G WeiXoo3i Oophu0Ca Ahb2ohp7 Ku8phiG5 Aekei7ah quei9eeG
+Hai2eowa nuHao1ie Ij7neeJi aj1Aphie YooRul1j hoo7eeCh aiPoh6oe thaG5ail
+```

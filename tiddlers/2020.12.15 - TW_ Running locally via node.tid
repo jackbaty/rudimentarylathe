@@ -1,0 +1,9 @@
+created: 20201215165534419
+creator: jack
+modified: 20201215170301767
+modifier: jack
+tags: Changelog
+title: 2020.12.15 - TW: Running locally via node
+type: text/vnd.tiddlywiki
+
+I'm cheating again so I can edit the wiki in Safari. For now, I'm only running Node locally, then rebuilding a single HTML file for upload to rudimentarylathe.org

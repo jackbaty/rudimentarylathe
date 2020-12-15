@@ -1,0 +1,16 @@
+- Author:: [[Steven Johnson]]
+- Full Title:: Future Perfect
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51OtmOF5paL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - this meant that an American child was more likely to be elected president of the United States in his or her lifetime than to die in a commercial jet flight. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B0085DP4OG&location=75))
+    - Americans, for instance, are convinced that “half of all marriages end in divorce,” though that hasn’t been the case since the early 1980s, when divorce rates peaked at just over 50 percent. ([Location 201](https://readwise.io/to_kindle?action=open&asin=B0085DP4OG&location=201))
+    - The crime rate can drop by 70 percent in less than a generation, but it’s the launch of the iPad that gets on the cover of Time. ([Location 275](https://readwise.io/to_kindle?action=open&asin=B0085DP4OG&location=275))
+    - They are always made up of interactions among unique combinations of particulars, and there is no substitute for knowing the particulars.” ([Location 371](https://readwise.io/to_kindle?action=open&asin=B0085DP4OG&location=371))
+    - We believe in social progress, and we believe the most powerful tool to advance the cause of progress is the peer network. We are peer progressives. ([Location 467](https://readwise.io/to_kindle?action=open&asin=B0085DP4OG&location=467))
+    - The Internet makes it easier to build peer-based solutions to social problems, but it does not make them inevitable. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B0085DP4OG&location=534))
+    - Kickstarter was on track to raise roughly $200 million for artists in a single fiscal year. The entire annual budget for the National Endowment for the Arts is $154 million. ([Location 688](https://readwise.io/to_kindle?action=open&asin=B0085DP4OG&location=688))
+    - Kickstarter, for instance, is not a platform for expressing outrage at the woeful state of arts funding. ([Location 743](https://readwise.io/to_kindle?action=open&asin=B0085DP4OG&location=743))
+    - When a need arises in society that goes unmet, our first impulse should be to build a peer network to solve that problem. ([Location 761](https://readwise.io/to_kindle?action=open&asin=B0085DP4OG&location=761))
+    - But Wilde had it right: “A map of the world that does not include utopia is not even worth consulting.” ([Location 774](https://readwise.io/to_kindle?action=open&asin=B0085DP4OG&location=774))
+        - **Tags**: #[[favorite]]

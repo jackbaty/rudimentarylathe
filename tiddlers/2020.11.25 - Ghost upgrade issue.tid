@@ -1,0 +1,10 @@
+created: 20201125211617636
+creator: jack
+modified: 20201125214316222
+modifier: jack
+tags: 
+title: 2020.11.25 - Ghost upgrade issue
+
+I went to upgrade my [[Ghost]] install at [[Copingmechanism.com]] to 3.38.3 and afterwards the site was throwing a 503 error.
+
+After much gnashing of teeth I figured out that nginx was configured to proxy to ghost on port 2368 but ghost was somehow now running on 2369. Change the config, restarted nginx and we're back.

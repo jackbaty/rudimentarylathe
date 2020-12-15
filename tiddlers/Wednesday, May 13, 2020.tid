@@ -1,0 +1,25 @@
+created: 20200513100538576
+creator: jack
+modified: 20200513184130248
+modifier: jack
+tags: Journal
+title: Wednesday, May 13, 2020
+
+It's comforting to hear [[Doom-emacs]]'s author (Henrik Lissner) say that [[his workflow included Org-roam and Org-journal|https://www.reddit.com/r/emacs/comments/getvjq/yet_another_praise_to_doom/fpr3m95]], same as mine.
+
+The hard part of my day shouldn't be figuring out the operating system
+
+Some software is difficult and that's fine. [[Tinderbox]], [[Emacs]], [[TiddlyWiki]] are all less useful until the learning curve has been climbed. Efforts to remove that curve tend to also remove the ultimate usefulness of the tool. Not always, but often enough that one should be wary of the attempt. [[ref|https://lwn.net/SubscriberLink/819452/1480c3a59d3d9093/]]
+
+Neat, my [[post about tracking time in Org mode|https://www.baty.net/2018/tracking-my-time-with-org-mode/]] made this week's [[Emacs News|https://sachachua.com/blog/2020/05/2020-05-11-emacs-news/]] by Sacha Chua. 
+
+Looks like we're about to get an [[official tagging system|https://github.com/org-roam/org-roam/pull/604]] in [[Org-roam]]. This seems necessary and I'm looking forward to it.
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><strong>Roam queries transformed my task list:</strong><br>{{query:{and:[[mit]]{not:[[DONE]]}}}}<br>{{query:{and:[[next]]{not:[[DONE]]}}}}<br>{{query:{and:[[thisweek]]{not:[[DONE]]}}}}<br>{{query:{and:[[nextweek]]{not:[[DONE]]}}}}<a href="https://twitter.com/Conaw?ref_src=twsrc%5Etfw">@Conaw</a> <a href="https://twitter.com/RoamResearch?ref_src=twsrc%5Etfw">@RoamResearch</a> <a href="https://twitter.com/roamtips?ref_src=twsrc%5Etfw">@roamtips</a></p>&mdash; RoamAnonymous (@RoamAnonymous) <a href="https://twitter.com/RoamAnonymous/status/1260386253079490561?ref_src=twsrc%5Etfw">May 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Yeah, into an unreadable, unmaintainable, unsupported mess.
+
+Yeesh, my annual subscription for [[TheBrain]] just auto-renewed. It's not cheap, but then again, The Brain is so good I'm going to keep it, even though I've been using it less recently. Must admit I miss just clicking around that infinite map of my last 10 years or so. I wish there was less friction getting stuff into it. Not //zero// friction...just less.
+

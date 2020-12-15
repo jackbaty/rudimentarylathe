@@ -1,0 +1,13 @@
+created: 20200723122253696
+creator: jack
+modified: 20200723122315127
+modifier: jack
+title: Yequake
+
+[[yequake|https://github.com/alphapapa/yequake]]  
+
+
+
+<<<
+This package provides configurable, drop-down Emacs frames, similar to drop-down terminal windows programs, like Yakuake. Each frame can be customized to display certain buffers in a certain way, at the desired height, width, and opacity. The idea is to call the yequake-toggle command from outside Emacs, using emacsclient, by binding a shell command to a global keyboard shortcut in the desktop environment. Then, with a single keypress, the desired Emacs frame can be toggled on and off, showing the desired buffers.
+<<<

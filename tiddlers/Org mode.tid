@@ -1,0 +1,17 @@
+created: 20190210161845662
+creator: jack
+modified: 20200506201524220
+modifier: jack
+revision: 0
+tags: Stub
+title: Org mode
+type: text/vnd.tiddlywiki
+
+[[Org mode|https://orgmode.org/]] is reason enough to use [[Emacs]].
+
+(BTW, I've standardized on "Org mode". Not "OrgMode" or "Org Mode" or "Org-mode" or "org-mode" sheesh.)
+
+---
+Links:
+
+* [[Org Examples|http://ehneilsen.net/notebook/orgExamples/org-examples.html]]

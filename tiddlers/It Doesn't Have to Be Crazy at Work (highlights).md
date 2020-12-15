@@ -1,0 +1,24 @@
+- Author:: [[Jason Fried & David Heinemeier Hansson]]
+- Full Title:: It Doesn't Have to Be Crazy at Work
+- Category:: #books
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - You’re not very likely to find that key insight or breakthrough idea north of the 14th hour in the day. Creativity, progress, and impact do not yield to brute force. 
+    - We didn’t realize paying for people’s vacations was better than cash bonuses. We started with the latter and realized that bonuses were just taken as an expected part of pay, anyway 
+    - Comparison is the death of joy. 
+    - Nothing looms when you don’t make predictions 
+    - We’ve vowed to distribute 5 percent of the proceeds to all current employees if we ever sell the company. No stock price to follow, no valuation to worry about. If something happens, we’ll share. If not, no need to spend any time thinking about it. It’s a pleasant surprise, it’s not compensation. 
+    - Following group chat at work is like being in an all-day meeting with random participants and no agenda 
+        - **Tags**: #[[favorite]]
+    - The opportunity to do another good day’s work will come again tomorrow, even if you go home at a reasonable time 
+    - Almost everything can wait. And almost everything should 
+    - the further away you are from the fruit, the lower it looks 
+    - Taking someone’s time should be a pain in the ass 
+    - If total profits grow year over year, we’ll distribute 25 percent of that growth to employees in that year. This isn’t tied to role, it’s not about individual performance, and since we don’t have salespeople, it’s not commission. Everyone shares or no one gets it. 
+    - But attempting to be indiscriminately great at everything is a foolish waste of energy 
+    - If it’s easier for work to claim a Sunday than for life to borrow a Thursday, there ain’t no balance. 
+    - The idea that you’ll instantly move needles because you’ve never tried to move them until now is, well, delusional 
+    - If you can’t fit everything you want to do within 40 hours per week, you need to get better at picking what to do, not work longer hours 
+    - Skeptical? Make the first Thursday of the month Library Rules day at the office. We bet your employees will beg for more 
+    - We ask reasonable people to make reasonable choices, and the company will be reasonable right back. That’s balance. 
+    - Think of it this way. If you do one thing at 100 percent, you’ve spent 100 percent to get that one thing. If you spend 20 percent each on getting five things to 80 percent, well, then, you’ve done five things! We’ll almost always take that trade. 
+    - Ambiguity breeds anxiety. 

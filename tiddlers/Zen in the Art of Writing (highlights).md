@@ -1,0 +1,9 @@
+- Author:: [[Ray Bradbury]]
+- Full Title:: Zen in the Art of Writing
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/419ITfYJzBL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - Since then, I have never listened to anyone who criticized my taste in space travel, sideshows or gorillas. When this occurs, I pack up my dinosaurs and leave the room. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B072L88NH2&location=573))
+    - I write all of my novels and stories, as you have seen, in a great surge of delightful passion. Only recently, glancing at the novel, I realized that Montag is named after a paper manufacturing company. And Faber, of course, is a maker of pencils! What a sly thing my subconscious was, to name them thus. And not tell me! ([Location 816](https://readwise.io/to_kindle?action=open&asin=B072L88NH2&location=816))
+    - The children guessed, if they did not whisper it, that all science fiction is an attempt to solve problems by pretending to look the other way. ([Location 1062](https://readwise.io/to_kindle?action=open&asin=B072L88NH2&location=1062))
+    - “Go, children. Run and read. Read and run. Show and tell. Spin another pyramid on its nose. Turn another world upside-down. Knock the soot off my brain. Repaint the Sistine Chapel inside my skull. Laugh and think. Dream and learn and build.” “Run, boys! Run, girls! Run!” And with such good advice, the kids will run. And the Republic will be saved. ([Location 1102](https://readwise.io/to_kindle?action=open&asin=B072L88NH2&location=1102))

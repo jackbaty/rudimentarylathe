@@ -1,0 +1,33 @@
+- [A large format photography home page](https://www.largeformatphotography.info/)
+- Large Format camera manufacturers
+    - Still making cameras (at least looks like it in their website):
+        - Linhof: http://linhof.com/en/
+        - Wista: https://www.wista.co.jp/e_wista/e_sh...a/e_camera.htm
+        - Chamonix: http://www.chamonixviewcamera.com/
+        - Shen Hao: http://www.shen-hao.com/
+        - Toyo: http://www.toyoview.com/ProductInfo/ProductInfo.html
+        - Gibellini: http://www.gibellinicamera.com/
+        - Walker: http://www.walkercameras.com/
+        - Canham: http://www.canhamcameras.com/
+        - Ritter: http://www.lg4mat.net/
+        - Svedovsky: http://svedovsky.com/
+        - StenopeiKa: http://www.stenopeika.com/en/
+        - ONDU (pinhole cameras): [http://ondupinhole.com](http://ondupinhole.com/)
+        - VDS cameras: http://vdscamera.com/
+        - Arca-Swiss:
+        - Cambo: https://www.cambo.com/en/
+        - Horseman: http://www.kenko-pi.co.jp/horseman/e/index.html
+        - Lotus: http://www.lotusviewcamera.at/index1.html
+        - Wilderness Camera: http://www.bhcamera.us/wilderness810.php
+        - Da Yi: http://www.bhcamera.us/dayi612.php
+        - Gaoersi: http://www.bhcamera.us/gaoersi810.php
+        - Wanderlust: https://wanderlustcameras.com/
+        - Intrepid: https://intrepidcamera.co.uk/
+        - Argentum: http://www.argentumcamera.com/eng/pages/other/home.htm
+    - Not making large format cameras anymore:
+        - Sinar: http://www.sinar.ch/en/category/products/cameras/
+        - Fotoman: http://www.fotoman.cc/
+        - Ebony: http://www.ebonycamera.com/
+- [Check list for view camera users by Howard Bond](https://www.largeformatphotography.info/articles/bond-checklist.html)
+- "The **Scheimpflug principle** is a description of the geometric relationship between the orientation of the plane of focus, the lens plane, and the image plane of an optical system (such as a camera) when the lens plane is not parallel to the image plane."
+- 

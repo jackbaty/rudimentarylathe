@@ -1,0 +1,43 @@
+created: 20201126103939979
+creator: jack
+modified: 20201126191216631
+modifier: jack
+tags: Journal
+title: 2020.11.26 - Daily Notes
+
+🌫  Fog +40°F
+
+I may try leaving off the "➽" indicators. Instead, I'll just use whitespace between notes. If I need something fancier than that, it should be a new tiddler. I find the indicators a little loud.
+
+[[Apple Silicon M1: Black. Magic. Fuckery. - Kay's Blog|https://www.singhkays.com/blog/apple-silicon-m1-black-magic/]]. I can't wait until my M1 Air arrives!
+
+I realized recently that the paper doesn't matter if the pen doesn't matter and the pen only matters when I'm playing with pens and not actually writing.
+
+After a few days of [[TiddlyWiki]] vs [[Roam]] I still believe that [[TiddlyWiki is more fun|https://copingmechanism.com/2020/tiddlywiki-is-more-fun-than-roam/]] but damn Roam is nice. Still using both, Roam for private notes and TiddlyWiki for, well, whatever this place is. All of this remains an experiment.
+
+I enabled "memberships" at [[copingmechanism.com]]. Not sure why. I admit to thinking about summarizing the posts here at the end of the week and sending it out as a newsletter, but a newsletter with (optimistically) a dozen subscribers is probably not worth the effort.
+
+I forked the theme for [[copingmechanism.com]]. The default [[Ghost]] theme is "Casper" and I'm happier with it than any WordPress theme I've ever tried. That's nice, because I don't spend my time tinkering or shopping for new ones. There, of course, are one or two tweaks, so using a fork is useful.  [[Customizing the Casper theme in Ghost]]
+
+My linking here is a mess. I use copingmechanism.com, Copingmechanism.com, Coping Mechanism, etc. All different Tiddlers. I don't remember what happens if I rename a tiddler to match an existing tiddler. One way to find out, I guess.
+
+If churches stood for what they claim to, they'd close voluntarily.
+
+[[Design Docs, Markdown, and Git Caitie McCaffrey|https://caitiem.com/2020/03/29/design-docs-markdown-and-git/]]
+
+Just got an email from Apple about a change to the [[MacBook Air M1]] delivery date. It went from Dec 11 to Dec 21 aaaargh! "Delivers: Dec 21 - Dec 29"
+
+This may be the worst take I've seen about Roam vs TiddlyWiki and feels like sour grapes to me: [[Roam Research is NOT a model. It's a money machine.|https://groups.google.com/u/1/g/tiddlywiki/c/Pbnjh83OhhQ/m/aOEeak_5BAAJ]]
+
+Turkey, ham, mashed potatoes and gravy, sweet potatoes, stuffing, brussel sprouts, salad, dinner rolls, pumpkin pie. SO FULL!
+
+If things were reversed and new Windows computers arrived with the performance just crushing that of Macs, I still wouldn't buy a Windows machine. Performance is only part of the story.
+
+---
+''Minutiae''
+
+Or what if I put the day's minutiae at the bottom of each day's tiddler? Almost a footnote? Oh wait, this is TiddlyWiki, I can just transclude it. but does that even make sense? Like so...
+
+<$transclude tiddler="2020.11.26 - Minutiae" mode="block"/>
+
+''Update'', nah, since an expandable link already shows up at the bottom, transcluding it seems redundant and is just extra noise.

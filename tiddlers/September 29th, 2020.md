@@ -1,0 +1,19 @@
+- Oh cool [Kevin has a public Roam](https://roamresearch.com/#/app/Variably_Distressed) #Roam
+- Uploaded a few old 4x5 scans to [[SmugMug]]. I like having galleries online and SmugMug does galleries better than [[Flickr]]. #[[Large Format Photography]]
+    - https://jackbaty.smugmug.com/Large-Format/
+- Was surprised to learn that [[Chrome]] doesn't have a nice reader mode built in. Added [Reader View - Chrome Web Store](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh)
+- My post about printing web articles was lost in the move from [[copingmechanism.com]] but here's the gist of it. Ha! Gist. Get it! :). 
+    - [Make printouts from Firefox Reader mode look like dang NYRB artices](https://gist.github.com/williamsmj/3042d8c3e7da25907c5ce623c8e2b129/)
+- __And then there’s the news feed. Scroll to refresh. Bow your finger to the almighty Algorithm. The silent but persistent editor of our digital realities. You are too pure for this world - all you wanted was my undivided attention. In your desire you learned to feed the basic bitch inside us all. Tell me I’m right. Tell me who to blame. Wow, that video? You know me so well. Tell me more. Change my perspective click by click until we all become Portland, burning from the inside out. Each of us quietly gaslit into the closest prison for our minds. Neighbours brought to violence by a million insidious suggestions, whispered one refresh at a time. Make no mistake; a film is created in the editing room. So too your digital life.__ — [Home is where the bits flow](https://josephg.com/blog/home-is-where-the-bits-flow/) #[[Social Media]]
+- Drives me nuts that there's no moderation interface in [[Commento]].
+    - Maybe reconsider renewal [[September 1st, 2021]]
+- Testing https://redirect.pizza/. I think they purchased the redirect.ssl service, which was defunct. I've configured it for redirecting [[copingmechanism.com]].
+    - Update, they have nothing to do with redirectssl.com, according to a response I got after asking support about it. They were not aware that redirectssl.com was even doing a redirect to redirect.pizza.
+- I'm suffering from [[AWS]] fatigue and considering a move back into [[Digital Ocean]] for my hosting stuff.
+- [Read Me: Magazine](https://readymag.com/readymag/readme/) #ToRead #Typeography
+- [[Roam]]'s sidebar is killer. Trying to read two things at once in [[Emacs]] or [[Obsidian]] or whatever was such a pain.
+- I'm still perfectly happy with [[Hey.com]] for my email.
+- [DarkBuffalo/ox-report: Export your org file to minutes report PDF file](https://github.com/DarkBuffalo/ox-report) #[[Org mode]] #LaTeX
+    - I love creating fun LaTeX-based PDFs out of simple Org documents
+- Definitely not watching the debate. I couldn't take it.
+- 

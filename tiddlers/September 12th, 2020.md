@@ -1,0 +1,22 @@
+- ☁️ Overcast +57°F
+- Oooh, the new [[Roam]] import in [[Readwise.io]] just showed up in my Dashboard.
+    - Had to use a [[Chrome]] extension for the import, though. Not sure how this will work moving forward, since I live in [[Safari]].
+    - {{[[TODO]]}} Figure out if it should be Readwise or Readwise.io for links.
+- ""You're lying."
+"I do not lie, although I am notoriously unreliable" "
+    - Funny
+- Am I crazy for doing all this in public?
+- The right [[AirPods Pro]] stopped working. This makes 100% failure rate on my Airpods. I've owned 3 pairs and each pair saw one of them fail.
+    - Re-pairing (ha!) doesn't work.
+- Google Page Speed can go fuck itself, I've done enough.
+- Bought the [[Mastin Labs]] Ilford Original styles for [[Capture One Pro]]. It's unfortunate that there's no cross-grade option, since I already own the presets for [[Lightroom]].
+- Ok, I also bought [[Mastin Labs]] Fujicolor Original styles for [[Capture One Pro]]. Guess that's settled.
+- Someone stop me, I also bought the [[Mastin Labs]] Portra Original styles for [[Capture One Pro]]
+- Ordered the 2021 [[Hobonichi Techo]] [Hobonichi Techo Planner Book (January Start) - Techo Lineup - Hobonichi Techo 2021](https://www.1101.com/store/techo/en/2021/pc/detail_cover/pb21_jan/)
+- I can, reluctantly, live with the transparent menu bar in [[Big Sur]] but I despise the grayed out keyboard shortcuts in menus.
+- I have a wedding to shoot next weekend and I'm terrified because I'm planning to use the [[Leica M10-P]] only.
+- If [[ConnectedText]] was still being developed I'd consider switching to [[Windows]]
+- I deleted all of the [[Lightroom]] apps from my devices.
+- [Pet Grooming Tools | SleekEZ | Dog Brushes for Shedding](https://www.sleekez.com/products/5-sleekez-medium-grooming-shedding-stick-1?variant=12832783138904) #Dogs
+- [Kingdom: Season 1 - Rotten Tomatoes](https://www.rottentomatoes.com/tv/kingdom_2019/s01) #ToWatch
+- 

@@ -1,0 +1,14 @@
+created: 20200510132953497
+creator: jack
+modified: 20200510133126249
+modifier: jack
+tags: 
+title: 2020.05.10 - TW: Removed "More" tab from sidebar
+
+[[Sunday, May 10, 2020]]
+
+Didn't feel the "More" tab was useful so removed it by deleting the sidebar tag from it. Here's the note from TiddlyWiki docs...
+
+<<<
+$:/core/ui/SideBar/More is the tiddler for the More tab in the Sidebar, and it is tagged with the SystemTag $:/tags/SideBar so that it appears in the Sidebar. Removing the tag from that tiddler will remove the More tab from the Sidebar, and reinserting the Sidebar tag to that tiddler will make it reappear in the Sidebar. 
+<<< [[TiddlyWiki.com|https://tiddlywiki.com/static/Page%2520and%2520tiddler%2520layout%2520customisation.html]]

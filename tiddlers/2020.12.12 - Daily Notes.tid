@@ -1,0 +1,19 @@
+created: 20201212104944834
+creator: jack
+modified: 20201212152022113
+modifier: jack
+tags: Journal
+title: 2020.12.12 - Daily Notes
+
+🌦 Rain, mist +40°F
+
+Alice doesn't mind walking in the rain, so we're both soaked.
+
+Given that I should be able to easily import all my [[Roam]] content into [[Logseq]], I think I'll put things in Roam for now and move it once Logseq is more stable.
+
+Aliases in [[Roam]] kind of suck. I use aliases as short versions of things. I want page names to be "official" even though I hardly ever use the official version in text. So, I want to alias "Happy Hacking Keyboard Professional II" as "HHKB". In Roam, to do this I need to type: `{{alias:[[` then search for the target page, then type the alias. That's too much work for a "shortcut". I miss aliases in [[Org-roam]]. [[Logseq]] seems to have a proper, org-like implementation but I'm not able to get it to work.
+
+I have the keyboard shortcut `Ctrl-Opt-Cmd-L` configured for [[two macros|Keyboard Maestro Macros]] in [[Keyboard Maestro]]. One for creating a link for Roam and one for TiddlyWiki. KM does this handy thing where it pops up a palette displaying "conflicts" so I can choose the macro I want. This is fine, but I didn't like having to then actually click my choice in the palette. I happened to notice that in the palette, the first letter was displayed in a different color, so I hit the letter "R" for "Roam Link" and it worked! Love that app.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l1TJXLWE0MI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

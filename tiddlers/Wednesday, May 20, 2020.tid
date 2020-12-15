@@ -1,0 +1,14 @@
+created: 20200520111143105
+creator: jack
+modified: 20200520181830480
+modifier: jack
+tags: Journal
+title: Wednesday, May 20, 2020
+
+⛅️  Partly cloudy +51°F
+
+Changed from emacs-plus port to [[emacs-mac|https://github.com/railwaycat/homebrew-emacsmacport]] port. By the time I got everything working again (always remember to run `doom sync`) I'd forgotten why I wanted to switch in the first place.
+
+I keep all my org-mode projects in Tasks.org. Now that I've merged /org and /roam files, I'm wondering if projects should instead be separate files in the org-roam database. I would have to keep the org-agenda-files setting updated, but I'd get permanence, backlinks, etc. Still noodling on it.
+
+When someone in a forum posts about project naming it usually becomes the longest, busiest, least useful thread of them all.

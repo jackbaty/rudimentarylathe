@@ -1,0 +1,16 @@
+created: 20200507224215280
+creator: jack
+modified: 20200507224323997
+modifier: jack
+tags: 
+title: Comments in Markdown -> PDF
+
+Do this, with leading and trailing lines...
+
+```
+
+[//]: # (This is a comment that won't be output anywhere)
+
+```
+
+//via https://stackoverflow.com/questions/4823468/comments-in-markdown//

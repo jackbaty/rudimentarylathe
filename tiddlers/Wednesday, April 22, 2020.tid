@@ -1,0 +1,27 @@
+created: 20200422111901883
+creator: jack
+modified: 20200422184954981
+modifier: jack
+revision: 0
+tags: Journal
+title: Wednesday, April 22, 2020
+type: text/vnd.tiddlywiki
+
+⛅️ Partly cloudy +29°F
+
+<<image-basic img:"https://galleries.baty.net/uploads/small/415351e5afab0a36672fcd37bca287f5.jpg" tooltip:"" width:"40%" align:"right" alt:"">>
+
+Some days I want to pull the plug on my entire online presence but then I think better of it and post 20-year-old memes instead.
+
+This wiki is [[now running via node.js|2020.04.22 - TW: Converted to node.js again]] locally. I may configure it to run on Node again on the server, but for now I'm just saving locally and syncing the html file. This will require an update to my [[Makefile|https://github.com/jackbaty/rudimentarylathe-node/blob/master/Makefile]], though.
+
+Hey guess what. I'm confused about where to put notes. Are you shocked!? Seriously, no tool does what I want. Or I should say that no tool does //everything// I want.
+
+Caught up on the [[Zettelkasten forums|https://forum.zettelkasten.de]] today and wow do those folks over-think their note-taking process. I thought I was bad.
+
+I want more forums, fewer Slacks.
+
+Westworld Season 3 was stupid. Or at least it wasn't nearly as smart as it thinks it is.
+
+I've spent weeks now trying to make all my other note-taking tools more like [[Roam]]. I'm this close to giving up and saying, "Fuck it, I'm just using Roam"
+

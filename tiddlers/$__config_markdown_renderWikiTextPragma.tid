@@ -1,0 +1,7 @@
+created: 20201121124741932
+creator: jack
+modified: 20201121125900330
+modifier: jack
+title: $:/config/markdown/renderWikiTextPragma
+
+\rules only html image macrocallinline syslink transcludeinline wikilink filteredtranscludeblock macrocallblock transcludeblock prettylink

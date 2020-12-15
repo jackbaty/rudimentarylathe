@@ -1,0 +1,19 @@
+- This is me
+    - https://twitter.com/ambernoelle/status/1297191195584663554
+        - And for safekeeping
+            - __Unpopular opinion: I don’t think your life has to have a purpose, or you a grand ambition; I think it’s okay to just wander through life finding interesting things until you die__ - Amber Sparks
+- [Hjerntes is doing Roam, too](https://roamresearch.com/#/app/HjertnesWiki) 
+- I just want to **keep using** [[Safari]]. Why does it have to be the outlier?
+- There is a lot of concern out there about [[Apple]] locking down [[macOS]]. I worry about that, too, but **I'm not changing operating systems** __just in case__. I'll deal with it when it happens.
+- Wrote a blog post: [5 stars by default – Coping Mechanism](https://copingmechanism.com/2020/5-stars-by-default/)
+- I am **wildly inconsistent** in everything I do. I'm working on being OK with that.
+- I tried using [[Roon]] without [[Qobuz]] but I don't have a good enough local collection of music to make it worth the trouble. With **Qobuz integration** I have everything, which is better.
+- Things are not going well right now. I'm going to shout it down with a very loud positive attitude.
+- Is it "OK" or "Okay" or "Ok" ? I never know.
+- Things would be much easier if I could convince myself that **MP3 sound quality is good enough**.
+    - It is, but I tell a different story to myself.
+- Now Playing: [[Judas Priest]] [[album/Hell Bent for Leather]] #Music
+- This seems fair
+    - https://twitter.com/sama/status/1297526644261912582
+        - __Let yourself occasionally get a little screwed in exchange for not having to live with your guard up all the time. It’s worth it.__
+- I love "**Ted Lasso**" so much

@@ -1,0 +1,9 @@
+- I wish there were an alternative to Facebook for most people. I'm afraid, though, that "The Fediverse" isn't it.
+- I suppose I'm in the minority here, but I find the experience of taking photos with a phone to be joyless, slow, and frustrating.
+- __Perusing the components on webcomponents.org fills me with anxiety, and I’m perfectly comfortable writing JS — I write JS for a living! What hope do those who can’t write JS have? Using a custom element from the directory often needs to be preceded by a ritual of npm flugelhorn, import clownshoes, build quux, all completely unapologetically because “here is my truckload of dependencies, yeah, what”. Many steps are even omitted, likely because they are “obvious”. Often, you wade through the maze only to find the component doesn’t work anymore, or is not fit for your purpose.__ via [The failed promise of Web Components – Lea Verou](https://lea.verou.me/2020/09/the-failed-promise-of-web-components/) #WebDev
+- I've always thought the idea that everyone should "Learn to Code" is bullshit. How about the folks that __can__ code build better tools for those who can't? Maybe instead of creating new frameworks or yet another build tool or package manager.
+- You almost never see [[Roam]] trying to be like other tools, only the other way around. That says something.
+- [Make safer payments online with 1Password and Privacy.com | 1Password](https://blog.1password.com/privacy-virtual-cards/)
+- [Digital Systems | Light is OSRAM](https://www.osram.com/ds/highlights/index.jsp?mkt=/btcontrol/) #Smarthome
+- [Django project best practices to keep your developers happy | victoria.dev](https://victoria.dev/blog/django-project-best-practices-to-keep-your-developers-happy/) #Python #Django #WebDev #CLI
+- My current political strategy is to donate to a few candidates I like, encourage others to vote, and vote myself. Beyond that, I'm going full-on head-in-sand mode until it's over. It's a mental well-being issue.

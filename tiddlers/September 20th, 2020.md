@@ -1,0 +1,9 @@
+- Shot a wedding yesterday. Was surprised that I got more "keepers" with the [[Leica M10-P]] than with the [[Fujifilm X-T3]].
+- Also, I was so afraid of getting nothing but silhouettes against the sunny sky that I over-exposed a lot of shots by at least 1 stop too many. Highlights are gone.
+- __And we should consider whether we want to allow the tech bros who created this problem to whitewash their past.__ via [The tech bro whitewash](https://werd.io/2020/the-tech-bro-whitewash)
+    - Yes, we should allow the people you disparage as "tech bros"--those who've actually been there, on the inside--to see the error of their ways, learn, improve themselves, and work publicly to fix the things they played a part in breaking.
+    - Also, there are all kinds of problems that have been around for years or decades and if we only just start to fix them now, it's fine, because we're __now trying__ to fix them. Better late than never, unless you just want to stand on your high ground and point fingers. If you've known about the problem for so long, apparently you've been unable to fix things on your own so maybe give someone else a shot, "tech bro" or no.
+    - Also, none of them were trying to whitewash anything. They all fully admit to being part of the problem. That's not whitewashing.
+    - (Wow, that came across harsher than intended, but I'm leaving it.)
+- I rented the big [[Fuji XF 50-140mm f/2.8]] R LM OIS WR lens for the [[Fujifilm X-T3]] for the wedding shoot this weekend and liked it so much that I bought it.
+- 

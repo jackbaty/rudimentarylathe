@@ -1,0 +1,10 @@
+created: 20200527152340074
+creator: jack
+modified: 20200527152410571
+modifier: jack
+tags: 
+title: org-capture-extension
+
+[[Org mode]] capture extension for [[org-protocol]]
+
+https://github.com/sprig/org-capture-extension

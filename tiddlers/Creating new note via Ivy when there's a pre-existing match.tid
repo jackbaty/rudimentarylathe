@@ -1,0 +1,12 @@
+created: 20200507141510857
+creator: jack
+modified: 20200507141818734
+modifier: jack
+tags: 
+title: Creating new note via Ivy when there's a pre-existing match
+
+Using Ivy for completion, if I want to create a new item in, say, [[Org-roam]] when there's already a match, use `ivy-immediate-done` which is bound to `C-M-j`
+
+For example, when calling `org-roam-insert` I want to create a new page, "AWS", so I type "AWS" and it finds several existing pages with titles containing "AWS". There's no obvious way to //not// select an existing item. `ivy-immediate-done` is the answer.
+
+Tags:: [[Emacs]]

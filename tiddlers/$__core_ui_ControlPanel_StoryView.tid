@@ -1,0 +1,7 @@
+caption: {{$:/language/ControlPanel/StoryView/Caption}}
+created: 20200502183313235
+modified: 20200502183313235
+tags: $:/tags/ControlPanel/Appearance stroll
+title: $:/core/ui/ControlPanel/StoryView
+
+{{$:/snippets/viewswitcher}}

@@ -1,0 +1,20 @@
+- I'm inspired by [[Jason Lee]]'s photography
+- Fun: [Announcing org-webring](https://brettgilio.com/posts/2020-08-20-announcing-org-webring.html) #[[Org mode]]
+- I don't need **fancy note-taking tools**. I __want__ fancy note-taking tools.
+- Hey neat, Sacha Chua linked to one of my posts in this week's [2020-08-31 Emacs news](https://sachachua.com/blog/2020/09/2020-08-31-emacs-news/)
+- [The Modus themes are built into Emacs!!! : emacs](https://www.reddit.com/r/emacs/comments/ihvd7b/the_modus_themes_are_built_into_emacs/)
+    - Modus Operandi is a **recent theme discovery for me**. It's terrific and I'm happy to see it bundled.
+- [MordecaiMalignatus/org-kasten: A set of improvements and conventions on top of org-mode to use it for knowledge management.](https://github.com/MordecaiMalignatus/org-kasten) #[[Org mode]]
+    - A possible, but unlikely for me, alternative to [[Org-roam]]
+- [deadblackclover/twtxt-el: A twtxt client for Emacs](https://github.com/deadblackclover/twtxt-el) #twtxt 
+- I don't know how to make my photographs **not about the process(ing)**, but rather about the subject.
+- The urge to create photos for [[Instagram]] that "grab you" makes for some **terrible, obvious images**.
+- Speaking of **process vs subject**, I'm unfollowing all gear-based accounts on Instagram. Working to get my feed to consist of friends, family, and interesting photographers.
+- I'm thinking about burning through my supply of **expired color film** and shipping it all of for processing and scanning.
+- I would love to have **no social media** "presence" but I don't know how to do that
+- [ox-hugo - Org to Hugo exporter](https://ox-hugo.scripter.co/) #Hugo
+    - Just found my original ox-hugo based org document and now I want to configure this again.
+- "**Old shit is better**" - Jason Lee
+    - https://www.youtube.com/watch?v=G_ieGeixR1M
+- Good theme for ideas on **creating galleries** [victoriadrake/hugo-theme-sam: A Simple and Minimalist theme for Hugo with a focus on typography and content.](https://github.com/victoriadrake/hugo-theme-sam) #Hugo
+- 

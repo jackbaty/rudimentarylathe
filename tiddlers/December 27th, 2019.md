@@ -1,0 +1,17 @@
+- What is [[Monoculture]]?
+    - https://www.vox.com/the-goods/2019/12/17/21024439/monoculture-algorithm-netflix-spotify
+        - "Monoculture is a [Pleasantville](https://collider.com/pleasantville-movie-explained/#images) image of a lost togetherness that was maybe just an illusion in the first place, or a byproduct of socioeconomic hegemony. It wasn’t that everyone __wanted __to watch primetime __Seinfeld__, but that’s what was on, and it became universal by default."
+            - Doesn't matter if we __wanted__ to or not. We did, and it meant something. The question of what it meant and how important it was is interesting.
+        - "There seems to be more __opportunity__ for diversity (anything can theoretically go viral) and yet the cultural artifacts that do become mainstream appear relentlessly optimized for the digital platforms of the attention economy. Take “Old Town Road,” for example. It’s a song by the creator of a [popular Twitter account](http://nymag.com/intelligencer/2019/04/lil-nas-x-was-a-popular-twitter-user-before-old-town-road.html) that was primed to spread [on TikTok](https://www.billboard.com/articles/news/8524319/lil-nas-x-old-town-road-tiktok-beginning), then embraced as a meme, and then made even more famous by a preexisting country-music celebrity. The song itself is fine, but the most interesting thing about it is how it’s a product of the structures that now govern our digital culture."
+        - "Instead of worrying about the loss of monoculture, ^^I’m more concerned that there isn’t enough room for products or projects (or even [places](https://www.vox.com/the-goods/2019/10/21/20905485/iceland-overtourism-reykjavik-blue-lagoon-northern-lights)) that are not__ __memes, that aren’t pre-optimized for sharing or scaling^^. In the end I fall more on Scorsese’s side of the argument, though I wouldn’t wish for any more Scorsese: The non-homogenized alternatives to the mainstream become harder and harder to find. As we grow more accustomed to the algorithmic monoculture, allowing it to occupy our senses, we might lose our understanding of, or our taste for, anything else."
+- My life would be much simpler without film photography, but it would be less interesting.
+- [Why I Left Netflix and Hulu for DVD.com](https://slate.com/culture/2019/12/netflix-dvd-mail-service-movies-tv.html)
+    - I did this for a while several years ago and am thinking about trying again.
+- DVD players
+    - https://www.amazon.com/Panasonic-Ultra-Assist-Blu-ray-Player/dp/B07N3PQM5N/
+    - Want! https://www.whathifi.com/reviews/panasonic-dp-ub9000-review
+    - ...but bought this one: https://www.amazon.com/gp/product/B07N3PQM5N/
+- My TV is a 55-inch LG OLED
+    - LG - 55" Class - OLED - C8 Series - 2160p - Smart - 4K UHD TV with HDR
+    - Model:OLED55C8PUA SKU:6202832
+    - Purchased [[November 21st, 2018]]

@@ -1,0 +1,24 @@
+- ☀️ Clear +64°F
+- What do I enjoy doing, computer-wise?
+    - Do I enjoy managing servers? sometimes
+    - Do I enjoy managing files? sometimes
+    - Do I enjoy backups and maintenance? no
+    - Do I enjoy tweaks to "optimize my workflow?" yes
+- Have I mentioned how much I disliked [[Lovecraft Country]]? Other than vacillating between **preachy and stupid**, it never __did__ anything. Yet I watched the whole series because it was different and I love when I have no idea what to expect next. But it wasn't worth it.
+- Could it be that I'm growing weary of this whole [[Public Self-Modeling]] thing?
+    - Narrator: "It isn't"
+- When will I learn that just because an album gets a high score on Metacritic doesn't mean I'm going to enjoy it?
+- Instead of switching blogging tools, I may just post less often, therefore avoiding the problem altogether
+- The new version of [[TheBrain]] continues to jeopardize my private [[Roam]] database.
+- I contain **multitudes**. I just don't like most of them.
+- I'm **cross-posting** from [[Micro.blog]] to [[Twitter]] again because fuck it, I don't write this stuff for nothing.
+    - Narrator: "He does"
+- Can you tell I'm having a day where [[Calm Technology]] is needed?
+- Everyone wants their **tools** to make life easier, but almost no one wants to work at it
+    - On the other hand, some of us work so hard at it that it makes everything __harder__.
+- I am not interested in **arguing** on the internet. Happy to discuss, though.
+- If that thing you built doesn't work in [[Safari]] then we can't be friends
+- God I'm feeling especially **pointy-clicky** today.
+- I wish the internet would stop recommending things
+- Every site used for sharing things will always devolve into a popularity contest. But, I prefer some contests to others. For example, Flickr is better than Instagram in that regard.
+- Well, shit. https://copingmechanism.com/ (See [[copingmechanism.com]])

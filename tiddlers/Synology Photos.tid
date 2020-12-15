@@ -1,0 +1,12 @@
+created: 20201208143957395
+creator: jack
+modified: 20201208150607391
+modifier: jack
+tags: 
+title: Synology Photos
+
+[[Synology]] Photos is the new app for managing my photos on the Synology
+
+Testing it today, December 8, 2020
+
+* Suffers from the same issue as [[Google Photos]]. I don't know what field it uses for Description. Technically, it should use Headline, but I've lost that battle. Doesn't seem to use either Description/Caption, Title/Object Name, or Headline. 

@@ -1,0 +1,37 @@
+created: 20201210110810544
+creator: jack
+modified: 20201211015103679
+modifier: jack
+tags: Journal
+title: 2020.12.10 - Daily Notes
+
+```
+                Mist
+   _ - _ - _ -  28..30 °F      
+    _ - _ - _   ↓ 0 mph        
+   _ - _ - _ -  0 mi           
+                0.0 in   
+```
+
+[[Tiddly Desktop]] creates a backup file //every time// the wiki is saved and it doesn't clean up after itself. I added to the `CLEAN` task in the makefile to remove the entire backups directory. After all, the wiki file is already in Git and sitting in Dropbox so there are probably enough backups. I'll just run `make clean` once a day or so.
+
+Currently open: [[TiddlyWiki]], [[Nova Editor]], [[BBEdit]], [[Emacs]], and [[Craft Editor]]. Oh, and [[Apple Notes]]. C'MON, MAN!
+
+So, yesterday, [[@tiensonqin|https://github.com/tiensonqin]], author of [[Logseq]], wrote:
+
+<<<
+I suggest you to try the local file system feature, my tests are that it's much more stable than the git version.
+<<<
+
+Hmmmm.
+
+Oh crap, [[Logseq]]'s local filesystem support is only available in latest [[Google Chrome]] and [[Microsoft Edge]]. That's disappointing. I'm curious enough about the feature to run Chrome for a bit. So now I have Chrome running with 2 tabs: one for Logseq and one for TiddlyWiki. This means I don't have to run [[Tiddly Desktop]] but means I have all the memory/battery-hogging features of Chrome to contend with.
+
+My old brain deals with using a forum (especially [[Discourse]]) much better than chats such as [[Discord]]. One thing I don't enjoy about Discourse is that I'm constantly seeing notifications that show nothing more than that I earned yet another silly "Badge". "You read the Terms!". Stop it.
+
+Wow, I write some terrible sentences. Glad almost no one reads them :).
+
+[[Whimsical: The Visual Workspace|https://whimsical.com/]]. Looks nifty! (of course I already had an account and added a note here //exactly// one year ago. [[Whimsical  Flowcharts]].
+
+Yeah, I'm selling the [[Leica M10-P]] and the [[Leica SL]] and getting the new [[Leica SL2-S]]. Pre-ordered one today.!
+

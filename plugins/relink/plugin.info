@@ -1,0 +1,14 @@
+{
+    "title": "$:/plugins/flibbles/relink",
+    "author": "Flibbles",
+    "core-version": ">=5.1.14",
+    "created": "20200425031407077",
+    "dependents": "",
+    "description": "Relink - flexibility when relinking renamed tiddlers",
+    "list": "readme configuration",
+    "modified": "20200507133555688",
+    "plugin-type": "plugin",
+    "source": "https://github.com/flibbles/tw5-relink",
+    "tags": "stroll blinks",
+    "version": "1.9.1"
+}

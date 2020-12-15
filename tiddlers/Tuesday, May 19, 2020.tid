@@ -1,0 +1,26 @@
+created: 20200519101035459
+creator: jack
+modified: 20200519205856307
+modifier: jack
+tags: Journal
+title: Tuesday, May 19, 2020
+
+☁️ Overcast +55°F
+
+Internet was down at home this morning. Not cool. Rebooted everything and nothing. Came back up about an hour later on its own, I think. Whew!
+
+Is it silly to use [[Zotero]] as a bookmark manager? It feels silly but it works pretty well.
+
+I use a Mac for macOS as much or more than for the hardware. It seems a waste not to utilize Mac-based software to its fullest simply as a just-in-case I move to Linux one day.
+
+I accidentally enabled "security" on my [[Orbi]] router. I think it's a free trial. They sent me a congratulatory email with a link to explore the features. The page it linked to went into an infinite redirect and crashed my browser. Nope.
+
+Hey guess what? Org-roam vs Roam Research? I STILL CAN'T DECIDE!
+
+All I want is a way to refile org-mode headings via `M-x find-file` or similar.
+
+I'm considering moving back to [[LibraryThing]] for logging books and dipping into [[Goodreads]] only for reviews. I may be in an anti-Amazon mood.
+
+Getting to a link I have in [[Org-roam]] takes me about five seconds longer than the same link in [[Roam]]. Some days I don't mind and some days it drives me batty.
+
+After a few months with Ivy for completion I've switched back to Helm. People tend to recommend Ivy because it's so much faster and "lighter" but I haven't found that to be the case.

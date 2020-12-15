@@ -1,0 +1,12 @@
+- [Manual Inversion of Color Negative Film — Alex Burke Photography](https://www.alexburkephoto.com/blog/2019/10/16/manual-inversion-of-color-negative-film) #Photography
+- Ordered a [Skier Sunray Copy Box Kit](http://www.skier.com.tw/web/shop/shop_in.jsp?pd_id=PD1599470623293) for digitally scanning 135, 120, and 4x5 negatives. #Photography
+    - I will sell the [[Negative Supply]] unit.
+- The [[Wista Field 45DX]] arrived and it's beautiful. The [[Rodenstock Sironar-N 150mm f/5.6]] also arrived and it's great. What I forgot to think about was a lens board for the Wista. Whoops. New camera and lens but I can't use them until I get a proper lens board. Dummy.
+    - Instead, I mounted the Sironar on the old [[Crown Graphic]] and exposed a couple of sheets of Portra. The lens works great, at first blush.
+    - The fun part was that the Porta had expired in 2015 and the C-41 chemicals were mixed and shelved more than a year ago. Color chemistry's shelf life sucks, so I was expecting complete failure. I think it [could have been worse](https://www.flickr.com/photos/jbaty/50446429788/in/dateposted-public/)
+    - Oh, and I scanned them on the [[Epson V750 Pro]]. I tried scanning with the X-T3 but no matter what I do I can't get a sharp image that way. [[SilverFast]] wouldn't let me chose the Transparency option so I used [[Vuescan]].
+    - Scanned in Vuescan to a linear Raw file and converted in [[Lightroom]] using [[Negative Lab Pro]].
+        - Yes, this means I had to re-install Lightroom after deleting everything Adobe a month ago.
+    - 
+- 
+- 

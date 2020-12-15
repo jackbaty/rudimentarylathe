@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        "tiddlywiki/filesystem",
+        "tiddlywiki/highlight",
+        "tiddlywiki/markdown",
+        "tiddlywiki/menubar",
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/twitter"
+    ],
+    "themes": [
+        "tiddlywiki/heavier",
+        "tiddlywiki/snowwhite",
+        "tiddlywiki/vanilla"
+    ]
+}

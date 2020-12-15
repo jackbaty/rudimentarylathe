@@ -1,0 +1,27 @@
+- I have to say that the $500 I spent on a [[Roon]] Lifetime subscription was money well-spent. It's only been 2.5 years so I haven't even broken even yet, but the piece of mind makes up the difference. #Music
+- I see Phil [got caught by pinned tab behavior in Safari](https://roamresearch.com/#/app/twelvety_public/page/Jsr3kg1E1). What he actually did was discover one of the reasons I prefer safari 😊. I consider pinned tabs to be __part of the browser UI__ so if I CMD-w the last non-pinned tab I expect the whole window to close because those pinned tabs are __permanent__. I always assumed this would be preferred by everyone but `¯\_(ツ)_/¯`
+- [[movie/Blow-Up (1966)]] #Movie 
+    - __I gave this 4 stars when I first saw it in 2017. I didn't feel as good about it this time. I originally thought the bookend truckload-of-mimes scenes were fun and clever but this time I narrowed my eyes and shrugged it off with a mild "WTF?" And not much really happened between. I do love a good darkroom scene though.__ via [‎‘Blow-Up’ review by Jack Baty • Letterboxd](https://embed.letterboxd.com/jackbaty/film/blow-up/1/)
+- So far the [[KEF LSX]] setup has been less than fun using with [[Roon]]
+    - Roon could only see the LSX as an Airplay device, which nope. The LSX are not technically "Roon Ready" but are "Roon Tested" and as such should show up as a device in Roon.
+    - After several attempts to re-add the speaker using the normal process, I tried using "LSX Airplay" as the device, which I didn't want to do because I assumed that this was part of the Airplay-only problem. 
+    - I rebooted everything, including the NUC running Roon Core and did a factory reset of the speakers.
+    - Oh, per the best practices document I unchecked the "Disable IGMP Proxying" preference on the [[Orbi]] router.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fjackbaty%2FRFHAEPEZ-U.jpeg?alt=media&token=9c78319f-7284-44f1-b8c3-38b030bbefc3)
+    - Now, finally, I see the LSX as a "real" device and the signal path is purple.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fjackbaty%2FF4vVs2VBGA.jpeg?alt=media&token=ac21c433-6336-47b8-85ef-1577baa99669)
+- 
+- Testing [[Digital Ocean]]'s [App Platform](https://www.digitalocean.com/products/app-platform/). Possibly an alternative to [[Platform.sh]] or [[Netlify]]
+    - Failing due to git and ssh issues with pulling the submodule
+    - `warning: error cloning submodules: error creating SSH agent: "SSH agent requested but SSH_AUTH_SOCK not-specified"`
+    - I don't see a way to configure http redirects in an App
+    - [Ticket: 03764408](https://cloudsupport.digitalocean.com/s/case/5004P00001HOfQHQA1)
+        - Answer is that I did need to use https: instead of git: as the submodule URL
+    - Build times out after 20 minutes. That's no good
+    - 
+- I've spent between $300-$500 on [[Capture One Pro]] presets but for color I most often prefer the built-in "Auto" (excluding white balance) and a couple of slider tweaks. This is a little disappointing. #Photography
+- The close [x] icon on tabs in latest [[Safari]] disappear when the tab is active. That's a bit backwards. Clicking where the icon __should__ be works as expected, but hope they fix it soon.
+- Fuck, Eddie Van Halen died today
+- Realized I had [[Hugo]] configured to also render Markdown files for each blog page. That's a lot of unnecessary rendering. Changed the `[ouputs]` section so that it now only renders .html files.
+- [A large format photography home page](https://www.largeformatphotography.info/) #Photography #[[Large Format Photography]]
+- I just ordered a [[Wista Field 45DX]] 4x5 view camera and also a [[Rodenstock Sironar-N 150mm f/5.6]] lens. An upgrade from my beat-up [[Crown Graphic]] 

@@ -1,0 +1,12 @@
+created: 20200502171539876
+creator: jack
+modified: 20200502171642542
+modifier: jack
+revision: 0
+title: Timimi plugin
+type: text/vnd.tiddlywiki
+
+https://ibnishak.github.io/Timimi/
+
+Plugin for [[Firefox]] (and as of May 02, 2020 also Chrome) that lets you edit and save [[TiddlyWiki]] files locally. It also keeps a tower-of-hanoi backup rotation if the html file. Nice.
+

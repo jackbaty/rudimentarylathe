@@ -1,0 +1,17 @@
+- ☀️ Clear +23°F
+- The entire time I was walking Alice this morning I was thinking about [[Roam]]'s silly "RoamCult" and Conor's winky support of "alternative narratives". The whole thing makes me uncomfortable. I don't know why Roam, specifically makes me feel this way. I use all sorts of other services that are "evil" in one way or another. Roam is run (and used, it seems) by people who are part of the [[Sound Smart Set]]. So? Roam is awesome. Best there is at the things I want to do...mostly. But the people behind it and the vocal group using Roam make me uneasy while using the app. It's silly, but it's not going away.
+- [kookma/TW-Shiraz: Shiraz is a small Tiddlywiki 5 plugin contains macros, stylesheets, templates, snippets, images, static tables, dynamic tables and acts as a starter kit.](https://github.com/kookma/TW-Shiraz)
+- I might just go back to [[Evernote]]. That should ruffle a feather or two.
+- My whole software world feels too heavy somehow. [[TheBrain]] is too heavy. [[DEVONthink]] is too heavy. [[Capture One Pro]] is too heavy.
+- Another thing about [[Roam]] I'm a little uncomfortable with is that all the files I upload are in some Firebase account, as if __that's__ going to have any real permanence.
+- Can you sense a trend today? I sense a trend today.
+    - Hint: I think I'm looking for a new place for writing stuff down.
+- Unfollowed Conor on Twitter. Why didn't I think of this before? :)
+    - 🙉 lalalalalala
+- I can't use [[Bear.app]] because I don't like tag-only organization.
+- Unless [[Capture One Pro]] 21 includes some sort of sync solution I may need to move on, even though I've already paid $159 for the upgrade (pre-ordered like an idiot)
+- I don't need a "place for my thoughts". I need a place to keep track of shit I'm thinking about. There's a difference.
+- [Worse is better - Wikipedia](https://en.wikipedia.org/wiki/Worse_is_better)
+- Yeah, I have privacy concerns, but they have yet to outweigh the pain caused by trying to actually live with, say, [[Linux]].
+- In case I'm looking for a rebuilt Sonnar [Skyllaney Opto-Mechanics – Specialists in Zeiss ZM, Voigtlander VM and Leica M lens repair and servicing.](https://skyllaney.com/) #Photography #Repair
+- 

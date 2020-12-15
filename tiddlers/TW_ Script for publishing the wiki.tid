@@ -1,0 +1,53 @@
+created: 20201123194756271
+creator: jack
+modified: 20201123195051159
+modifier: jack
+tags: 
+title: TW: Script for publishing the wiki
+
+I have a script at `~/bin/prl` (short for "''p''ublish ''r''udimentary ''l''athe")
+
+```
+#!/bin/sh
+
+cd ~/Dropbox/pub/rudimentarylathe
+make -i commit
+make  push
+make deploy
+```
+
+The Makefile is this:
+
+```
+PUBLIC_DIR=output/
+SERVER_HOST=server01.baty.net
+SERVER_DIR=/home/jbaty/apps/rudimentarylathe.org/public_html
+TARGET=DigitalOcean
+
+
+
+
+deploy: 
+	@echo "\033[0;32mDeploying updates to $(TARGET)...\033[0m"
+	rsync -v -rz --checksum --delete --no-perms ~/Dropbox/pub/rudimentarylathe/files $(SERVER_HOST):$(SERVER_DIR)
+	rsync -v -rz --checksum --delete --no-perms ~/Dropbox/pub/rudimentarylathe/index.html $(SERVER_HOST):$(SERVER_DIR)
+
+
+build: clean
+	@echo "\033[0;32mBuilding site...\033[0m"
+	tiddlywiki --rendertiddler $$:/plugins/tiddlywiki/tiddlyweb/save/offline index.html text/plain
+
+commit:
+	@echo "\033[0;32mAdding changes\033[0m"
+	git add -A
+	git commit -m "Build site `date`"
+
+push:
+	@echo "\033[0;32mPushing repo\033[0m"
+	git push origin master
+
+clean:
+	rm -rf $(PUBLIC_DIR)
+
+.FORCE:
+```

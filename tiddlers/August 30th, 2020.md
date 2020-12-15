@@ -1,0 +1,33 @@
+- Of course a few days after I move [[baty.net]] to [[Netlify]] they're "experiencing a high number of build failures" and I'm unable to deploy my site right now.
+    - What's weird is that I'm all anxious about it. Who cares whether I publish a new post __right this second__ or sometime later today. It doesn't matter, but it feels like it matters. Relax, dude.
+    - I feel bad for the tech team having to deal with it so early on an otherwise lovely Sunday morning.
+    - Oh, it's "The build outages appear to be related to a failure in a third party network provider (which is involved in the downloading of node versions and installation of node modules)." Fucking dependencies!
+    - Yeah, it was a widespread backbone thing. My point about dependencies still stands
+    - 
+- Hot on the heels of my post about [Neglected Tools](https://www.baty.net/2020/neglected-tools/) comes [Phil's list of unused tools](https://youneedastereo.com/#So%20many%20tools%20unused). 
+- There's something else going on with the internet right now. I don't think it's just me.
+- Whenever someone over-emphasizes the "**GNU**" part of anything, I lose interest and faith that I'm going to care about whatever it was we were talking about. I feel a little badly about this, but ¯\_(ツ)_/¯
+    - e.g. [GNU Hyperbole - The Everyday Hypertextual Information Manager](https://www.gnu.org/software/hyperbole/)
+        - Still looks cool, though
+- [[Git]] submodules never fail to confuse me.
+- I don't know how much of this I can take from [[Roam]]'s author [[Conor White-Sullivan]]
+    - https://twitter.com/Conaw/status/1299934964356579330
+    - This sort of thing is always under the guise of "I'm just asking the questions, ya know?" but to me it points to an underlying problem.
+- Reading [[Karl Voit]]'s post [Self-Limitation Due to Software Simplification](https://karl-voit.at/2020/06/21/simplified-to-standstill/) has me thinking. Not disagreeing, exactly, but challenging some assumptions.
+    - For example:
+        - "Apple, right now, is failing to do so. I in no way fault Apple for concentrating on selling products. I do fault them for failing to support users as the users move from beginner to veteran. It doesn't help Apple's sales when **their most important sales force, we experienced users,** are constantly frustrated by Apple's failure to keep up with or even show the slightest concern for our expanding needs."
+    - This assumption about Apple's "most important sales force" seems based on any number of personal biases. It's like when Twitter removed the API and developers claimed that they were the ones who __made__ Twitter. Which...no.
+- I still hate the way Roam handles (or, more accurately, doesn't handle) **quoted text**.
+- I haven't added anything significant to my __private__ [[Roam]] database in a week. Weird.
+- I don't understand [[Hugo]]'s [Page Resources](https://gohugo.io/content-management/page-resources/) at all
+- I will never settle the internal debate around "**should tags be singular or plural?**".
+    - I've historically been convinced that tags should be singular and categories should be plural.
+        - So, "This is a..." works better as "dog" than "dogs". 
+        - And "dogs" works better when categorizing: "This belongs with the other..."
+    - But what about thinking of tags as "This item is about..." ? In that case "dogs" works better.
+    - I may need to refactor my tags. Darn :).
+- Considering something like this: [Adding Structured Book Data to My Blog Posts · Ana Ulin](https://anaulin.org/blog/structured-book-data-in-hugo-posts/) #Hugo 
+- I'm learning that I don't have much to say about photography but I enjoy sharing photos.
+- I don't even know why I own a damn camera.
+- Speaking of dependencies, what if I just used embedded Flickr photos in [[baty.net]]? That would break my self-contained rule, but it sure would make posting images to the [[Hugo]] blog easier.
+- 

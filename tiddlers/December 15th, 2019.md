@@ -1,0 +1,15 @@
+- This is an experiment in [[Public Self-Modeling]] using [[Roam]]
+    - I want a place to type the things I'm thinking, and it helps if I know others can, if they chose, read it all.
+- How is this different than [[Rudimentary Lathe]]?
+    - It's not really. Mostly an experiment to see if [[Roam]] can work for something like this. I'm already using it (privately) for research, working through things, and managing projects. Thought it might fit for this, too.
+    - Something I'm concerned about is that this is less friendly for reading than [[TiddlyWiki]]. Do I care?
+- Perhaps an About all this page would be useful
+- Almost forgot about [[Opal]], a nice, simple, old-school outliner that was recently made 64-bit compatible -- #Software
+- "Science is the belief in the ignorance of experts" -- [[Richard P Feynman]] [[Quote]]
+- "It's amazing how many people even today use a computer to do something you can do with a pencil and paper in less time." -- [[Richard P Feynman]] [[Quote]]
+- The only film I've seen that is allowed to kill a dog is the first [[John Wick]]. I can't watch the scene, but it's kind of the motivation for the entire collection.
+- Started watching [[The Expanse]] season 4 and I don't know. I'm not sure it's as smart as people claim it is. Or more likely I'm not as smart as I think I am. Still much preferred the book.
+- This doesn't feel like it works as a "blog". Still thinking about it.
+    - But the idea isn't a "blog", it's public self-modeling and it has a lot of potential for that, no?
+- I don't think having 2 separate [[Roam]] databases is the best plan. Especially when they overlap in purpose as much as they do.
+- 

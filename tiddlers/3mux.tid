@@ -1,0 +1,12 @@
+created: 20200523161126532
+creator: jack
+modified: 20200523161143523
+modifier: jack
+tags: 
+title: 3mux
+
+https://github.com/aaronjanse/3mux
+
+<<<
+3mux is a terminal multiplexer with out-of-the-box support for search, mouse-controlled scrollback, and i3-like keybindings. Imagine tmux with a smaller learning curve and more sane defaults.
+<<<

@@ -1,0 +1,15 @@
+created: 20201212142540289
+creator: jack
+modified: 20201212143323265
+modifier: jack
+tags: 
+title: Keyboard Maestro Macros
+
+[[Keyboard Maestro]] Macros
+
+A couple for [[Roam]]
+
+* "Roam Link" copies a Roam-formatted link to the current page in default browser and brings Roam to the front in Chrome
+* "Roam New Daily Note" Brings Roam to front in Chrome, selects the first tab, loads the current Daily Note, and puts the cursor in the last block.
+
+https://static.baty.net/download/kmmacros/

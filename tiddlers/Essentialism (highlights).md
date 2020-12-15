@@ -1,0 +1,13 @@
+- Author:: [[Greg McKeown]]
+- Full Title:: Essentialism
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41qANxacOkL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - If you don’t prioritize your life, someone else will. ([Location 151](https://readwise.io/to_kindle?action=open&asin=B00G1J1D28&location=151))
+    - As John Maxwell has written, “You cannot overestimate the unimportance of practically everything.” ([Location 511](https://readwise.io/to_kindle?action=open&asin=B00G1J1D28&location=511))
+    - To discern what is truly essential we need space to think, time to look and listen, permission to play, wisdom to sleep, and the discipline to apply highly selective criteria to the choices we make. ([Location 654](https://readwise.io/to_kindle?action=open&asin=B00G1J1D28&location=654))
+    - To that end, the school has also created a hiding place called “Booth Noir.” This is a small room deliberately designed to fit only one to three people. It is windowless, soundproof, and deliberately free of distraction. It is, according to Scott Doorley and Scott Witthoft in their book Make Space, “beyond low-tech. It’s no tech.” ([Location 700](https://readwise.io/to_kindle?action=open&asin=B00G1J1D28&location=700))
+    - the faintest pencil is better than the strongest memory. ([Location 851](https://readwise.io/to_kindle?action=open&asin=B00G1J1D28&location=851))
+    - Curiously, people will admit to having a tendency to underestimate while simultaneously believing their current estimates are accurate.8 ([Location 2070](https://readwise.io/to_kindle?action=open&asin=B00G1J1D28&location=2070))
+    - “Of all the things that can boost emotions, motivation, and perceptions during a workday, the single most important is making progress in meaningful work,” ([Location 2242](https://readwise.io/to_kindle?action=open&asin=B00G1J1D28&location=2242))
+    - Lao Tzu: “In work, do what you enjoy. In family life, be completely present.” ([Location 2568](https://readwise.io/to_kindle?action=open&asin=B00G1J1D28&location=2568))

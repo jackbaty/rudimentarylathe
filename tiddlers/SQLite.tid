@@ -1,0 +1,10 @@
+created: 20201119134224838
+creator: jack
+modified: 20201119134316551
+modifier: jack
+tags: Software
+title: SQLite
+
+> SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world. -- https://sqlite.org/index.html
+
+Totally cool little single-file database.

@@ -1,0 +1,13 @@
+created: 20201208020829687
+creator: jack
+modified: 20201208021117877
+modifier: jack
+tags: 
+title: 2020.12.07 - Adding to authorized_keys in Digital Ocean console
+
+Adding another SSH key to authorized_keys in the Digital Ocean web console is nearly impossible because pasting doesn't work. I had to create a text file and upload it to a publicly accessible server. Then in the DO console I typed something like...
+
+`curl http://myserver.com/mykey.txt >> .ssh/authorized_keys`
+
+(make a backup first.)
+

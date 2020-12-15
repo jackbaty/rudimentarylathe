@@ -1,0 +1,11 @@
+created: 20190429170314000
+creator: jack
+modified: 20201206205415218
+modifier: jack
+revision: 0
+tags: $:/tags/RawMarkup
+title: JS: Plausable Embed Code
+type: text/vnd.tiddlywiki
+
+<script async defer data-domain="rudimentarylathe.wiki" src="https://plausible.io/js/plausible.js"></script>
+

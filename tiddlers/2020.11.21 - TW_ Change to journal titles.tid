@@ -1,0 +1,17 @@
+created: 20201121144052783
+creator: jack
+modified: 20201122115512977
+modifier: jack
+tags: 
+title: 2020.11.21 - TW: Change to journal titles
+
+[[2020.11.21 - Daily Notes]]
+
+ I used to use the very long date format for Journal tiddlers, which included the weekday. I find them too long, and only valuable for a week or so, so I've removed the weekday.
+
+New titles now use
+
+The new format is: `MMM DDth, YYYY`.
+
+Note the "th" after the date. For some reason, neither [[TextExpander]] nor [[Keyboard Maestro]] allow for this, so I'm back to the built-in formatter.
+

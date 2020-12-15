@@ -1,0 +1,13 @@
+- [[Org mode]] is just so fancy and flexible for task management. It's also too hard, so I'm using [[OmniFocus]]. I want to use Org mode for it so badly, but the choice is **super clever and geeky or powerful and easy**. My lazy self wants the latter. I'm not convinced I need a wildly-complex agenda view when a list of projects and tasks will do.
+- I should record more **video**
+- __This is related to a privacy control. System Preferences > Security and Privacy > Privacy > Accessibility. Then, under “Allow the apps below to control your computer,” check Emacs.app. I haven’t confirmed with Emacs.app, but Aquamacs had the exact same issue, and this solved it lickety split.__ via [Emacs.app for OS X needs two clicks to open menus : emacs](https://www.reddit.com/r/emacs/comments/ij3d7u/emacsapp_for_os_x_needs_two_clicks_to_open_menus/)
+    - Yes! That's been driving me nuts. **Removed and re-added Emacs to the list and it worked**. #Emacs
+- [WeTransfer](https://wetransfer.com/) for file transfers?
+- A downside of the [Updates to my ox-hugo publishing setup](https://www.baty.net/2020/updates-to-my-ox-hugo-publishing-setup/) is that the images end up committed twice in git. First in ./attach and then in ./static. Not ideal. Perhaps I should limit the [[ox-hugo]] posts to text only. #Hugo #[[baty.net]]
+- When comparing my private [[Roam]] database to [[Org-roam]] one thing I notice is that Roam looks **one million times better** than the Org files. An Emacs template does not exist that looks great on the eyes for all that text.
+- [How to take the perfect breath: why learning to breathe properly could change your life | Life and style | The Guardian](https://www.theguardian.com/lifeandstyle/2020/aug/26/how-to-take-the-perfect-breath-why-learning-to-breathe-properly-could-change-your-life)
+    - I'm still not buying it
+- Almost forgot about [Poolside FM](https://poolside.fm/) #Music
+- I like writing in [[Emacs]] but I don't like **taking notes** with it. Does that make sense?
+- 
+- 

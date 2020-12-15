@@ -1,0 +1,19 @@
+- Author:: [[Dale Carnegie]]
+- Full Title:: How to Win Friends and Influence People
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51NVtjOrnqL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 12th, 2020]]
+    - When dealing with people, let us remember we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity. ([Location 518](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=518))
+    - Any fool can criticize, condemn and complain—and most fools do. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=524))
+    - Dr. Dewey said that the deepest urge in human nature is “the desire to be important.” Remember ([Location 601](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=601))
+    - “I consider my ability to arouse enthusiasm among my people,” said Schwab, “the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement. ([Location 701](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=701))
+    - “There is nothing else that so kills the ambitions of a person as criticisms from superiors. I never criticize anyone. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise.” ([Location 703](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=703))
+    - I shall pass this way but once; any good, therefore, that I can do or any kindness that I can show to any human being, let me do it now. Let me not defer nor neglect it, for I shall ([Location 805](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=805))
+    - William Winter once remarked that “self-expression is the dominant necessity of human nature.” ([Location 1143](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=1143))
+    - “We are interested in others when they are interested in us.” ([Location 1349](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=1349))
+    - We are gods in the chrysalis. ([Location 1485](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=1485))
+    - The executive who tells me he can’t remember names is at the same time telling me he can’t remember a significant part of his business and is operating on quicksand.” ([Location 1592](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=1592))
+    - A man convinced against his will Is of the same opinion still. ([Location 2156](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=2156))
+    - “When two partners always agree, one of them is not necessary.” ([Location 2219](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=2219))
+        - **Tags**: #[[favorite]]
+    - “I judge people by their own principles—not by my own.” ([Location 2443](https://readwise.io/to_kindle?action=open&asin=B003WEAI4E&location=2443))
