@@ -26,6 +26,12 @@ push:
 	@echo "\033[0;32mPushing repo\033[0m"
 	git push origin master
 
+start:
+	/Users/jbaty/bin/startl
+
+restart:
+	forever restartall
+
 clean:
 	rm -rf $(PUBLIC_DIR)
 	rm -rf $(BACKUP_DIR)
