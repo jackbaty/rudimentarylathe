@@ -1,6 +1,6 @@
 created: 20201218112855054
 creator: jack
-modified: 20201218113328054
+modified: 20201218131419533
 modifier: jack
 tags: Journal
 title: 2020.12.18 - Daily Notes
@@ -9,3 +9,7 @@ type: text/vnd.tiddlywiki
 I'm no longer interested in posts about how people are managing their social media consumption. It's boring. Nothing truly new has been written about it in years.
 
 Your job is probably not the same as Cal Newport's job.
+
+I wanted to record some small work task this morning and went into a tailspin after not knowing where I should put it. I hate myself when it comes to this sort of thing.
+
+To deploy my wiki, I have to open a terminal and type `prl`, which is just a small shell script calling the Makefile a few times. I started looking for a way to automate it. That's insane. I don't need to automate bringing an app to the foreground and typing 3 characters.
