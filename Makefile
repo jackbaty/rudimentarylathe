@@ -5,7 +5,7 @@
 
 checkpoint:
 	git add .
-	git ci -m "Publish checkpoint"
+	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
 
 deploy: checkpoint
 	git push
