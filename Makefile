@@ -1,3 +1,8 @@
+SERVER_HOST=server01.baty.net
+SERVER_DIR=/home/jbaty/apps/rudimentarylathe.wiki/public_html
+PUBLIC_DIR=~/Sync/wikis/rudimentarylathe/
+TARGET=server01.baty.net
+
 .POSIX:
 .PHONY: help checkpoint deploy
 
@@ -13,3 +18,7 @@ checkpoint:
 
 deploy: checkpoint
 	git push
+	@echo "\033[0;32mDeploying updates to $(TARGET)...\033[0m"
+	rsync -v -rz --checksum --delete --no-perms $(PUBLIC_DIR) $(SERVER_HOST):$(SERVER_DIR)
+
+	
