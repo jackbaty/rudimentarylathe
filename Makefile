@@ -12,11 +12,14 @@ help: ## Show this help
 	@egrep -h '\s##\s' 'Makefile' | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
 	@egrep -h 'h' 'Makefile' | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
 
+build:
+	tiddlywiki --load index.html --render "[[RSS Feed]]" "rss.xml" text/plain
+
 checkpoint:
 	git add .
 	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
 
-deploy: checkpoint
+deploy: build checkpoint
 	git push
 	@echo "\033[0;32mDeploying updates to $(TARGET)...\033[0m"
 	rsync -v -rz --checksum --delete --no-perms $(PUBLIC_DIR)index.html $(SERVER_HOST):$(SERVER_DIR)

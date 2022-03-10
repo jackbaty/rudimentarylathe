@@ -7,9 +7,16 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Thu, 10 Mar 2022 10:23:25 GMT</lastBuildDate>
+     <lastBuildDate>Thu, 10 Mar 2022 10:45:07 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+2022.03.10 - Daily Notes (Thursday)
+</title>
+     <link>https://wiki.baty.net/#2022.03.10%20-%20Daily%20Notes%20(Thursday)</link>
+     <pubDate>Thu, 10 Mar 2022 10:45:07 GMT</pubDate>
+     <description><![CDATA[<p>It's possible that I now have an RSS feed for this wiki. Let me know if it doesn't work for you: <a class="tc-tiddlylink-external" href="https://wiki.baty.net/rss.xml" rel="noopener noreferrer" target="_blank">https://wiki.baty.net/rss.xml</a></p>]]>     </description></item>
 
 <item>     <title>
 2022.03.09 - Daily Notes (Wednesday)
@@ -154,13 +161,5 @@ Maybe not, but writing that down and posting a photo of it online certainly is.<
      <link>https://wiki.baty.net/#2022.02.15%20-%20Daily%20Notes%20(Tuesday)</link>
      <pubDate>Wed, 16 Feb 2022 00:37:01 GMT</pubDate>
      <description><![CDATA[<p>Click, and here's a new daily post. Easy peasy. And here's a photo of my dog.</p><p><img src="files/2022/20220214-M10R0071.jpg"></p><p>One thing I dislike about the Hive theme I'm using at <a class="tc-tiddlylink-external" href="https://copingmechanism.com" rel="noopener noreferrer" target="_blank">Copingmechanism.com</a> is that it looks stupid without featured images on every post and I don't like being forced to come up with an image for every post. And yet, there I am over on <a class="tc-tiddlylink-external" href="https://write.as/jackbaty" rel="noopener noreferrer" target="_blank">Write.as</a> putting images on nearly every post, without even thinking about it.</p><p>I'd like more metal like <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Zeal%20%26%20Ardor">Zeal &amp; Ardor</a>. Use the hoarse-Grover growling as the spice, not the meat.</p><p>Want: <a class="tc-tiddlylink-external" href="https://back7.co/home/raspberry-pi-recovery-kit" rel="noopener noreferrer" target="_blank">Off-Grid Cyberdeck! The Raspberry Pi Recovery Kit — BACK7</a></p><p>Your hexagonal Twitter avatar looks a lot like a MAGA hat to me.</p><p>I need to stop talking, reading, and thinking about cameras for a while.</p>]]>     </description></item>
-
-<item>     <title>
-2022.02.14 - Daily Notes (Monday)
-</title>
-     <link>https://wiki.baty.net/#2022.02.14%20-%20Daily%20Notes%20(Monday)</link>
-     <pubDate>Tue, 15 Feb 2022 10:00:20 GMT</pubDate>
-     <description><![CDATA[<p>☁️   Overcast +6°F</p><p>Good morning, it's 4:15 am and here we are again.</p><p>You may have noticed that I've been posting daily notes both here and on <a class="tc-tiddlylink-external" href="https://baty.blog" rel="noopener noreferrer" target="_blank">Baty.blog</a>. This is because I like doing it equally in both places and I can't find a path to choosing one of them. The wiki is just so easy and I like that it's right next to most of my other notes. When I don't write here regularly, the rest of the information languishes. It loses its "wikiness". On the other hand, with baty.blog I get to write in Emacs using Org-mode and publish a good-looking "normal" blog with RSS feeds and archives and all the other things that I love about blogs. I think that TiddlyWiki is the best long-term answer, but Hugo is what I prefer living with today. Still noodlin' on it.</p><blockquote class="tc-quote"><p>In elevating frontend to the land of Serious Code we have not just made things incredibly over-engineered but we have also set fire to all the ladders that we used to get up here in the first place.
-</p><cite><a class="tc-tiddlylink-external" href="https://dev.to/walaura/the-web-without-the-web-aeo" rel="noopener noreferrer" target="_blank">The web without the web</a></cite></blockquote><p>I'm increasingly uncomfortable with my baty.net domain redirecting to <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#omg.lol">omg.lol</a> but I don't know what to do about it. (UPDATE: I stole the omg.lol layout, etc and am running it as a static site at baty.net. This is temporary)</p><p>"The Book of Boba Fett" is a no-fun combination of 50% fan service and 50% stupid.</p>]]>     </description></item>
 
 </channel></rss>
