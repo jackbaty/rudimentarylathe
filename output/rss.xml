@@ -7,7 +7,7 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Thu, 10 Mar 2022 15:50:23 GMT</lastBuildDate>
+     <lastBuildDate>Fri, 11 Mar 2022 09:05:01 GMT</lastBuildDate>
 
 
 
@@ -16,7 +16,7 @@ A sort of Rudimentary Lathe
 </title>
      <link>https://wiki.baty.net/#2022.03.10%20-%20Daily%20Notes%20(Thursday)</link>
      <guid>https://wiki.baty.net/#2022.03.10%20-%20Daily%20Notes%20(Thursday)</guid>
-     <pubDate>Thu, 10 Mar 2022 15:50:23 GMT</pubDate>
+     <pubDate>Fri, 11 Mar 2022 01:29:13 GMT</pubDate>
      <description><![CDATA[<p>It's possible that I now have an RSS feed for this wiki. Let me know if it doesn't work for you: <a class="tc-tiddlylink-external" href="https://wiki.baty.net/rss.xml" rel="noopener noreferrer" target="_blank">https://wiki.baty.net/rss.xml</a>. I know, I know, one of the "features" of the wiki is that I can post stuff without it bothering anyone. On the other hand, it's kind of a nuisance when it's me looking to see what other people have been writing, so I'm making it easier for people like me to follow someone like me :).</p><p>Well darn, it seems like every time I update and republish the wiki, the RSS feed gets a new entry if the daily tiddler has changed. That's not ideal, of course. UPDATE: I've added a <code>guid</code> element to try and prevent this. Let's see if it works. UPDATE 2: Seems to work.</p><p>I'd canceled my <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#MicroDotBlog">MicroDotBlog</a> subscription but today it finally expired. I didn't like how that felt so I re-subscribed immediately :). Still at <a class="tc-tiddlylink-external" href="https://jack.micro.blog" rel="noopener noreferrer" target="_blank">jack.micro.blog</a>
 </p>]]>     </description></item>
 
