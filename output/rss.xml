@@ -7,9 +7,19 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Fri, 18 Mar 2022 12:47:41 GMT</lastBuildDate>
+     <lastBuildDate>Sat, 19 Mar 2022 08:33:38 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+2022.03.18 - Daily Notes (Friday)
+</title>
+     <link>https://wiki.baty.net/#2022.03.18%20-%20Daily%20Notes%20(Friday)</link>
+     <guid>https://wiki.baty.net/#2022.03.18%20-%20Daily%20Notes%20(Friday)</guid>
+     <pubDate>Sat, 19 Mar 2022 08:33:38 GMT</pubDate>
+     <description><![CDATA[<p>☀️   Clear +46°F</p><p>It's 5:00 am and I just dropped the peeps at the airport. It's just me for 4 days. What do you want to do?</p><p>Sorry, but DHH again:</p><blockquote class="tc-quote"><p>And on the contrary, the reception I met from much of the Bitcoin world when having a fundamental change of heart was exactly the opposite. Open arms, glad-you're-here vibes, don't-worry-about-getting-everything, and I-can-see-where-we're-lacking-too sensibilities. That stood out as a model in providing an exit (or, I suppose, an entry!) for those intersted in changing their minds.
+</p><cite><a class="tc-tiddlylink-external" href="https://world.hey.com/dhh/always-provide-a-way-out-2d5d8efb" rel="noopener noreferrer" target="_blank">Always provide a way out</a></cite></blockquote><p>...he's complimenting the cult for letting them join their cult as if that's somehow an example of a proper ideological community welcome.</p><p><mark>My head feels small</mark>. Like there's not enough room in there to hold anything. I keep losing my train of thought and forgetting what I was supposed to be doing. Probably "early onset..." something.</p><p>Mike is writing about One Camera, One Lens, One Year (OCOLOY) again: <a class="tc-tiddlylink-external" href="https://theonlinephotographer.typepad.com/the_online_photographer/2022/03/ocoloys.html" rel="noopener noreferrer" target="_blank">The Online Photographer: OCOLOYs</a></p><blockquote class="tc-quote"><p>Shopping is not the same thing as photography
+</p><cite><a class="tc-tiddlylink-external" href="https://www.35mmc.com/22/02/2022/the-leica-for-a-year-project-by-patrick-medd/" rel="noopener noreferrer" target="_blank">The Leica for a Year Project - By Patrick Medd - 35mmc</a></cite></blockquote>]]>     </description></item>
 
 <item>     <title>
 2022.03.17 - Daily Notes (Thursday)
@@ -87,14 +97,5 @@ A sort of Rudimentary Lathe
      <pubDate>Thu, 10 Mar 2022 14:14:07 GMT</pubDate>
      <description><![CDATA[<p>☀️   Clear +27°F</p><p><img src="files/2022/20220309-DailyDoodle.jpeg">
 <em>One of those days, I see.</em></p><p>Your channel would be better without those LEDs in the background.</p><p>I had this crazy thought today of simply copying and pasting each day's note from here into Substack. You know, like <a class="tc-tiddlylink-external" href="https://thelathe.substack.com" rel="noopener noreferrer" target="_blank">that newsletter</a> I was trying last year.</p><p><a class="tc-tiddlylink-external" href="https://substack.com/app?utm_campaign=app-marketing&amp;utm_content=writer-dashboard-box" rel="noopener noreferrer" target="_blank">Introducing the Substack app</a>. Remember when Substack was a newsletter tool?</p>]]>     </description></item>
-
-<item>     <title>
-Integrating Org's Agenda into Calendar.app
-</title>
-     <link>https://wiki.baty.net/#Integrating%20Org's%20Agenda%20into%20Calendar.app</link>
-     <guid>https://wiki.baty.net/#Integrating%20Org's%20Agenda%20into%20Calendar.app</guid>
-     <pubDate>Thu, 10 Mar 2022 14:15:37 GMT</pubDate>
-     <description><![CDATA[<blockquote class="tc-quote"><p>The following Elisp code exports your Org mode agenda files to an iCalendar file. iCalendar (or ICS) is a standard for exchanging calendaring information. If you host this file on a web server, it can be consumed by any calendar application that supports iCalendar. 
-</p><cite><a class="tc-tiddlylink-external" href="https://200ok.ch/posts/2022-02-13_integrating_org_mode_agenda_into_other_calendar_apps.html" rel="noopener noreferrer" target="_blank">Integrating Org mode Agenda into other calendar apps</a></cite></blockquote><p>This is one-way (Org-&gt;Calendar) but that's mostly how I roll, anyway. I've included my Daybook in the agenda, which means I also get a list of things I logged each day in my Calendar app.</p>]]>     </description></item>
 
 </channel></rss>
