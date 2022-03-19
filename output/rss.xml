@@ -7,9 +7,17 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Sat, 19 Mar 2022 16:45:14 GMT</lastBuildDate>
+     <lastBuildDate>Sat, 19 Mar 2022 20:17:15 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+2022.03.19 - Daily Notes (Saturday)
+</title>
+     <link>https://wiki.baty.net/#2022.03.19%20-%20Daily%20Notes%20(Saturday)</link>
+     <guid>https://wiki.baty.net/#2022.03.19%20-%20Daily%20Notes%20(Saturday)</guid>
+     <pubDate>Sat, 19 Mar 2022 20:17:15 GMT</pubDate>
+     <description><![CDATA[<p>☁️   Overcast +38°F</p><p>When did I stop being curious?</p><p>Watched the first 2 episodes of <a class="tc-tiddlylink-external" href="https://www.rottentomatoes.com/tv/minx/s01" rel="noopener noreferrer" target="_blank">Minx</a> and enjoyed it very much.</p><p>Once I stopped worrying about making perfect, "archival-quality" prints, darkroom work got a lot more fun.</p><p>All I want today is to be able to add a background color to <code>&lt;blockquote&gt;</code> elements in <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#WordPress">WordPress</a> 5.9's full site editor. I am stumped.</p><p>I had so much trouble posting <a class="tc-tiddlylink-external" href="https://baty.net/2022/configuring-the-org-download-save-directory/" rel="noopener noreferrer" target="_blank">Configuring the org-download save directory</a> from Emacs that I think I'll give up that workflow. That post started out as a quick note in Org-roam and I thought it might be nice to share it, so I cleaned it up and used org2blog to send it to WordPress. It looked terrible in my theme because posting that way uses the "classic" editor and the them doesn't care about that. Then I went down a rabbit hole of trying to make style changes in WordPress 5.9 and gave up. I'm <em>this</em> close to just doing bareboned HTML exports directly from Org and copying them to a static folder on my server.</p><p>Ok, now all I want is to set my own friggin' <code>org-html-postamble-format</code> but I was only able to make it "stick" once and now it doesn't see it at all. I've been working on it for 2 hours.</p><p>I spent nearly the entire day <mark>farting around with my Emacs config</mark>. Exports, publishing, organization, themes, etc. I have very little to show for it.</p>]]>     </description></item>
 
 <item>     <title>
 2022.03.18 - Daily Notes (Friday)
@@ -88,14 +96,5 @@ A sort of Rudimentary Lathe
      <pubDate>Thu, 10 Mar 2022 15:50:23 GMT</pubDate>
      <description><![CDATA[<p>It's possible that I now have an RSS feed for this wiki. Let me know if it doesn't work for you: <a class="tc-tiddlylink-external" href="https://wiki.baty.net/rss.xml" rel="noopener noreferrer" target="_blank">https://wiki.baty.net/rss.xml</a>. I know, I know, one of the "features" of the wiki is that I can post stuff without it bothering anyone. On the other hand, it's kind of a nuisance when it's me looking to see what other people have been writing, so I'm making it easier for people like me to follow someone like me :).</p><p>Well darn, it seems like every time I update and republish the wiki, the RSS feed gets a new entry if the daily tiddler has changed. That's not ideal, of course. UPDATE: I've added a <code>guid</code> element to try and prevent this. Let's see if it works. UPDATE 2: Seems to work.</p><p>I'd canceled my <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#MicroDotBlog">MicroDotBlog</a> subscription but today it finally expired. I didn't like how that felt so I re-subscribed immediately :). Still at <a class="tc-tiddlylink-external" href="https://jack.micro.blog" rel="noopener noreferrer" target="_blank">jack.micro.blog</a>
 </p>]]>     </description></item>
-
-<item>     <title>
-2022.03.09 - Daily Notes (Wednesday)
-</title>
-     <link>https://wiki.baty.net/#2022.03.09%20-%20Daily%20Notes%20(Wednesday)</link>
-     <guid>https://wiki.baty.net/#2022.03.09%20-%20Daily%20Notes%20(Wednesday)</guid>
-     <pubDate>Thu, 10 Mar 2022 14:14:07 GMT</pubDate>
-     <description><![CDATA[<p>☀️   Clear +27°F</p><p><img src="files/2022/20220309-DailyDoodle.jpeg">
-<em>One of those days, I see.</em></p><p>Your channel would be better without those LEDs in the background.</p><p>I had this crazy thought today of simply copying and pasting each day's note from here into Substack. You know, like <a class="tc-tiddlylink-external" href="https://thelathe.substack.com" rel="noopener noreferrer" target="_blank">that newsletter</a> I was trying last year.</p><p><a class="tc-tiddlylink-external" href="https://substack.com/app?utm_campaign=app-marketing&amp;utm_content=writer-dashboard-box" rel="noopener noreferrer" target="_blank">Introducing the Substack app</a>. Remember when Substack was a newsletter tool?</p>]]>     </description></item>
 
 </channel></rss>
