@@ -7,9 +7,18 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Sun, 20 Mar 2022 11:59:40 GMT</lastBuildDate>
+     <lastBuildDate>Mon, 21 Mar 2022 09:27:06 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+2022.03.20 - Daily Notes (Sunday)
+</title>
+     <link>https://wiki.baty.net/#2022.03.20%20-%20Daily%20Notes%20(Sunday)</link>
+     <guid>https://wiki.baty.net/#2022.03.20%20-%20Daily%20Notes%20(Sunday)</guid>
+     <pubDate>Mon, 21 Mar 2022 09:17:31 GMT</pubDate>
+     <description><![CDATA[<p>☁️   Overcast +38°F</p><p>It's not the "writing" that I enjoy. What I enjoy is <mark>talking about myself</mark>. You're soaking in it.</p><p>Using Google.com gets worse and worse.</p><blockquote class="tc-quote"><p>That’s 6 search results for 6 screens, interrupted by an impossible amount of distractions, all of which have different design and layout for some reason. Many of “result types” repeat multiple times (e.g. related searches and images”, leading to even more confusion
+</p><cite><a class="tc-tiddlylink-external" href="https://grumpy.website/post/0XCmMC-2O" rel="noopener noreferrer" target="_blank">Grumpy Website</a></cite></blockquote><p>Oh dear, my <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Epson%20Perfection%20v750%20Pro%20Scanner">Epson Perfection v750 Pro Scanner</a> is making a horrible grinding sound while scanning. It seems to still work OK but can't be a good sign.</p>]]>     </description></item>
 
 <item>     <title>
 2022.03.19 - Daily Notes (Saturday)
@@ -87,14 +96,5 @@ A sort of Rudimentary Lathe
      <guid>https://wiki.baty.net/#2022.03.11%20-%20Daily%20Notes%20(Friday)</guid>
      <pubDate>Fri, 11 Mar 2022 20:05:40 GMT</pubDate>
      <description><![CDATA[<p>🌨  Light snow, mist +19°F</p><p>I'm going to try leaving off the  tag on these entries until later in the day, so that when the item shows up in RSS feeds, there's something there to read.</p><p>It's funny, 'cause it's true:</p><p><blockquote class="twitter-tweet"><p dir="ltr" lang="en">Me: I would like five ice cubes<br>Fridge: here's two<br>Me: okay three more<br>Fridge: okay here's 27 ice cubes scattered across your entire kitchen</p>— Dieter Bohn (@backlon) <a href="https://twitter.com/backlon/status/1502159083872264196?ref_src=twsrc%5Etfw">March 11, 2022</a></blockquote> <safe-script async="true" charset="utf-8" src="https://platform.twitter.com/widgets.js"></safe-script></p><p>I spent an hour yesterday looking through the <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Textpattern">Textpattern</a> documentation after seeing a website built with it. I used Textpattern for my blog for a year or two, but that was a <em>very</em> long time ago. Wonder why I'm looking at it again now?</p><p>After reading a <a class="tc-tiddlylink-external" href="https://micro.blog/jack/12573679" rel="noopener noreferrer" target="_blank">Micro.blog thread</a> on <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Espanso">Espanso</a>, I learned it's available on macOS so I'm giving it a try.</p><p>And after that whole <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#2022.03.10%20-%20TW%3A%20Added%20RSS%20Feed">RSS Feed thing yesterday</a>, I learn about this: <a class="tc-tiddlylink-external" href="https://github.com/saqimtiaz/tw5-feeds" rel="noopener noreferrer" target="_blank">saqimtiaz/tw5-feeds: Experimental plugin to add support for RSS and JSON feeds to TiddlyWiki</a></p><p>It's cool that things I put into Daybook.org and Events.org and Todo.org files all show up nicely in my Emacs agenda view. The problem is I <em>never</em> go back and look at prior days in my agenda.</p><p>This is wild: <a class="tc-tiddlylink-external" href="https://blog.myheritage.com/2022/03/introducing-livestory-give-voice-to-your-family-stories/" rel="noopener noreferrer" target="_blank">Introducing LiveStory: Make Your Family Photos Speak - MyHeritage Blog</a></p><p>I've failed Wordle in 3 out of my last 5 attempts. I suck at Wordle.</p>]]>     </description></item>
-
-<item>     <title>
-2022.03.10 - Daily Notes (Thursday)
-</title>
-     <link>https://wiki.baty.net/#2022.03.10%20-%20Daily%20Notes%20(Thursday)</link>
-     <guid>https://wiki.baty.net/#2022.03.10%20-%20Daily%20Notes%20(Thursday)</guid>
-     <pubDate>Thu, 10 Mar 2022 15:50:23 GMT</pubDate>
-     <description><![CDATA[<p>It's possible that I now have an RSS feed for this wiki. Let me know if it doesn't work for you: <a class="tc-tiddlylink-external" href="https://wiki.baty.net/rss.xml" rel="noopener noreferrer" target="_blank">https://wiki.baty.net/rss.xml</a>. I know, I know, one of the "features" of the wiki is that I can post stuff without it bothering anyone. On the other hand, it's kind of a nuisance when it's me looking to see what other people have been writing, so I'm making it easier for people like me to follow someone like me :).</p><p>Well darn, it seems like every time I update and republish the wiki, the RSS feed gets a new entry if the daily tiddler has changed. That's not ideal, of course. UPDATE: I've added a <code>guid</code> element to try and prevent this. Let's see if it works. UPDATE 2: Seems to work.</p><p>I'd canceled my <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#MicroDotBlog">MicroDotBlog</a> subscription but today it finally expired. I didn't like how that felt so I re-subscribed immediately :). Still at <a class="tc-tiddlylink-external" href="https://jack.micro.blog" rel="noopener noreferrer" target="_blank">jack.micro.blog</a>
-</p>]]>     </description></item>
 
 </channel></rss>
