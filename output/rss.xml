@@ -7,9 +7,18 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Fri, 25 Mar 2022 08:21:40 GMT</lastBuildDate>
+     <lastBuildDate>Fri, 25 Mar 2022 10:32:23 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+2022.03.23 - Daily Notes (Wednesday)
+</title>
+     <link>https://wiki.baty.net/#2022.03.23%20-%20Daily%20Notes%20(Wednesday)</link>
+     <guid>https://wiki.baty.net/#2022.03.23%20-%20Daily%20Notes%20(Wednesday)</guid>
+     <pubDate>Fri, 25 Mar 2022 09:14:35 GMT</pubDate>
+     <description><![CDATA[<p>🌦   Light rain +39°F</p><p>I've spent hours configuring my Org-roam setup so I can publish certain notes as a website. It's so cool, but in the end I'm not sure it offers clear advantages over this wiki other than that I can make some of my roam notes public without needing to rewrite them in TiddlyWiki. WIP is here: <a class="tc-tiddlylink-external" href="https://notes.baty.net" rel="noopener noreferrer" target="_blank">notes.baty.net</a></p><p><img src="files/2022/blog-meme.jpg"></p><p>I'm so into Emacs right now. I may be posting at <a class="tc-tiddlylink-external" href="https://daily.baty.net" rel="noopener noreferrer" target="_blank">daily.baty.net</a> for a bit until I get it out of my system.
+</p>]]>     </description></item>
 
 <item>     <title>
 2022.03.22 - Daily Notes (Tuesday)
@@ -88,14 +97,5 @@ A sort of Rudimentary Lathe
      <guid>https://wiki.baty.net/#2022.03.14%20-%20Daily%20Notes%20(Monday)</guid>
      <pubDate>Tue, 15 Mar 2022 01:07:54 GMT</pubDate>
      <description><![CDATA[<p>☀️   Clear +32°F</p><p>It's fine if you <mark>don't like someone else's photographs</mark> or a certain style of photograph. It's not fine to tell someone their photographs are wrong.</p><p>I'd like to move past Emacs but I cannot quit Org mode no matter how hard I try.</p><p>Added this wiki's RSS feed to my <a class="tc-tiddlylink-external" href="https://baty.net/feeds/" rel="noopener noreferrer" target="_blank">Everything Feed</a></p><p>I wish we'd do away with <mark>daylight saving time</mark>, but mostly so everyone would stop complaining about it. For some, I'm sure a time change can complicate their lives, but for most people, it's one lost hour of sleep, once a year. And most clocks don't even need to be reset. I don't understand the outrage.</p><p>It bothers me when people ask questions on Twitter, etc. because so often it's just an obvious grab for "engagement"</p><p>Spent the evening in the darkroom. Took longer than I planned but still beats binge watching some show I don't care about.</p>]]>     </description></item>
-
-<item>     <title>
-2022.03.13 - Daily Notes (Sunday)
-</title>
-     <link>https://wiki.baty.net/#2022.03.13%20-%20Daily%20Notes%20(Sunday)</link>
-     <guid>https://wiki.baty.net/#2022.03.13%20-%20Daily%20Notes%20(Sunday)</guid>
-     <pubDate>Sun, 13 Mar 2022 18:15:13 GMT</pubDate>
-     <description><![CDATA[<p>🌨  Light snow, mist +18°F</p><p>I like the approach of <mark>pushing the wiki throughout the day</mark>, but only including it in the RSS feed later. I feel like that caters to both those few who care to keep up frequently and those that just want to be reminded via a feed that there's something new.</p><p>I've <mark>revived my photography-specific <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Instagram">Instagram</a> account</mark>: <a class="tc-tiddlylink-external" href="https://www.instagram.com/jackbatyphoto/" rel="noopener noreferrer" target="_blank">@jackbatyphoto</a>. My "regular" account is more about friends and family sharing so I tend to avoid getting to photo-nerdy there. I think it's good for me to have a place I can focus on photos, cameras, process, etc.</p><p>Pretty happy with the <a class="tc-tiddlylink-external" href="https://baty.net" rel="noopener noreferrer" target="_blank">WordPress blog</a> and this wiki at the moment. Removed references to daily.baty.net for now, since I've stopped posting there. Of course this is subject to change. I'm trying to <mark>focus on the writing and not so much on the mechanisms by which I write</mark>. WordPress makes blogging easy and TiddlyWiki makes keeping a linked set of daily notes and information easy. Easy is good right now.</p><p><img src="files/2022/20220311-Q1000391.jpg">
-<em>My desk today</em></p><p>Why do I buy 100 ISO film? I never go outside.</p>]]>     </description></item>
 
 </channel></rss>
