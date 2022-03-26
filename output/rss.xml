@@ -7,9 +7,17 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Fri, 25 Mar 2022 10:32:23 GMT</lastBuildDate>
+     <lastBuildDate>Sat, 26 Mar 2022 10:26:19 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+2022.03.25 - Daily Notes (Friday)
+</title>
+     <link>https://wiki.baty.net/#2022.03.25%20-%20Daily%20Notes%20(Friday)</link>
+     <guid>https://wiki.baty.net/#2022.03.25%20-%20Daily%20Notes%20(Friday)</guid>
+     <pubDate>Sat, 26 Mar 2022 09:33:19 GMT</pubDate>
+     <description><![CDATA[<p>🌨  Light snow +34°F</p><p>Ok, I think I got the <mark>Daily-Notes-with-Emacs</mark> out of my system for now. 👋.</p><p>I don't want to have to decide where to publish things. I want to <mark>publish things everywhere</mark> and let my mood guide me.</p><p>Content doesn't need to be portable if you <mark>never move it</mark>.</p><p>I wish people would <mark>blog</mark> more than they tweet.</p><p>This <mark>wiki has search built in</mark>. My Hugo-based site does not. I'd rather just <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Use%20What%20You%20Have">UWYH</a> and not figure out search over there.</p><p>Blog Post: <a class="tc-tiddlylink-external" href="https://baty.net/2022/aligning-comments-in-emacs/" rel="noopener noreferrer" target="_blank">Aligning comments in Emacs – Jack Baty</a></p>]]>     </description></item>
 
 <item>     <title>
 2022.03.23 - Daily Notes (Wednesday)
@@ -89,13 +97,5 @@ A sort of Rudimentary Lathe
      <guid>https://wiki.baty.net/#2022.03.15%20-%20Daily%20Notes%20(Tuesday)</guid>
      <pubDate>Tue, 15 Mar 2022 23:02:23 GMT</pubDate>
      <description><![CDATA[<p>☁️   Overcast +34°F</p><p>Deep into Org mode's <code>org-agenda-custom-commands</code> this morning.</p><p>The iPhone repair place (3rd party) wants <mark>$300 to replace the screen</mark> and camera cover on my daughter's XR. Pass. That's too close to a brand new SE. I've ordered the replacement kit from iFixIt.com and will try it myself for $99.</p><p>My <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Olympus%20Stylus%20Epic">Olympus Stylus Epic</a> is getting tired. Looking to replace it with another point-n-shoot film camera. I miss my (broken) <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Ricoh%20GR1">Ricoh GR1</a>. Given the insane prices these days, I may just go without.</p>]]>     </description></item>
-
-<item>     <title>
-2022.03.14 - Daily Notes (Monday)
-</title>
-     <link>https://wiki.baty.net/#2022.03.14%20-%20Daily%20Notes%20(Monday)</link>
-     <guid>https://wiki.baty.net/#2022.03.14%20-%20Daily%20Notes%20(Monday)</guid>
-     <pubDate>Tue, 15 Mar 2022 01:07:54 GMT</pubDate>
-     <description><![CDATA[<p>☀️   Clear +32°F</p><p>It's fine if you <mark>don't like someone else's photographs</mark> or a certain style of photograph. It's not fine to tell someone their photographs are wrong.</p><p>I'd like to move past Emacs but I cannot quit Org mode no matter how hard I try.</p><p>Added this wiki's RSS feed to my <a class="tc-tiddlylink-external" href="https://baty.net/feeds/" rel="noopener noreferrer" target="_blank">Everything Feed</a></p><p>I wish we'd do away with <mark>daylight saving time</mark>, but mostly so everyone would stop complaining about it. For some, I'm sure a time change can complicate their lives, but for most people, it's one lost hour of sleep, once a year. And most clocks don't even need to be reset. I don't understand the outrage.</p><p>It bothers me when people ask questions on Twitter, etc. because so often it's just an obvious grab for "engagement"</p><p>Spent the evening in the darkroom. Took longer than I planned but still beats binge watching some show I don't care about.</p>]]>     </description></item>
 
 </channel></rss>
