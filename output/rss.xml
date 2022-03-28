@@ -7,7 +7,7 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Mon, 28 Mar 2022 00:25:34 GMT</lastBuildDate>
+     <lastBuildDate>Mon, 28 Mar 2022 00:51:26 GMT</lastBuildDate>
 
 
 
@@ -16,10 +16,10 @@ A sort of Rudimentary Lathe
 </title>
      <link>https://wiki.baty.net/#2022.03.27%20-%20Daily%20Notes%20(Sunday)</link>
      <guid>https://wiki.baty.net/#2022.03.27%20-%20Daily%20Notes%20(Sunday)</guid>
-     <pubDate>Mon, 28 Mar 2022 00:25:34 GMT</pubDate>
+     <pubDate>Mon, 28 Mar 2022 00:51:26 GMT</pubDate>
      <description><![CDATA[<p>☁️   Overcast +24°F</p><p>Earlier this week I wrote this:</p><blockquote class="tc-quote"><p>I don't want to have to decide where to publish things. I want to publish things everywhere and let my mood guide me.
 </p></blockquote><p>I don't think that's right. What I think I meant was this:</p><blockquote class="tc-quote"><p>I don't want to have to decide where to publish things. I want to only have one place to publish them so I don't have to decide.
-</p></blockquote><p>I spent too much time yesterday messing with the <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#ThinkPad%20X1%20Carbon">ThinkPad X1 Carbon</a> trying to get it upgraded. The Regolith updates caused the thing to hang on boot so <mark>I figured I'd give Pop!_OS another go</mark> but that wouldn't boot if I opted for encryption during the install. Ok fine, let's go simple with Linux Mint. That installed fine, so I started down the path of getting all my shit installed but realized I'd shedded all of my syncing and shared configuration worries when I got down to a single Mac. So I started moving my dotfiles, fish config, etc. to shared folders that I could sync with Syncthing (which I had to re-install). Then of course the Emacs config had Mac-specific paths and such. I shut the ThinkPad and think I'll put it back in storage. It's not time for Linux yet. When and if it is, it's going to have to be <em>all</em> Linux. I'm not interested in doing the multi-OS thing anymore. </p>]]>     </description></item>
+</p></blockquote><p>I spent too much time yesterday messing with the <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#ThinkPad%20X1%20Carbon">ThinkPad X1 Carbon</a> trying to get it upgraded. The Regolith updates caused the thing to hang on boot so <mark>I figured I'd give Pop!_OS another go</mark> but that wouldn't boot if I opted for encryption during the install. Ok fine, let's go simple with Linux Mint. That installed fine, so I started down the path of getting all my shit installed but realized I'd shedded all of my syncing and shared configuration worries when I got down to a single Mac. So I started moving my dotfiles, fish config, etc. to shared folders that I could sync with Syncthing (which I had to re-install). Then of course the Emacs config had Mac-specific paths and such. I shut the ThinkPad and think I'll put it back in storage. It's not time for Linux yet. When and if it is, it's going to have to be <em>all</em> Linux. I'm not interested in doing the multi-OS thing anymore. </p><p>I don't understand these. They look nice, but like nice fake Speedmasters. <a class="tc-tiddlylink tc-tiddlylink-missing" href="#%20OMEGA%C2%AE%7Chttps%3A%2F%2Fwww.omegawatches.com%2Fstories%2Fjoint-mission-launch-bioceramic-moonswatch">Joint Mission: Launch of the BIOCERAMIC MoonSwatch </a></p>]]>     </description></item>
 
 <item>     <title>
 TheLathe: 26 Mar 2022
