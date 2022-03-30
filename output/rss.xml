@@ -7,9 +7,17 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Tue, 29 Mar 2022 12:08:24 GMT</lastBuildDate>
+     <lastBuildDate>Wed, 30 Mar 2022 11:22:32 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+TheLathe: 29 Mar 2022 (Tuesday)
+</title>
+     <link>https://wiki.baty.net/#TheLathe%3A%2029%20Mar%202022%20(Tuesday)</link>
+     <guid>https://wiki.baty.net/#TheLathe%3A%2029%20Mar%202022%20(Tuesday)</guid>
+     <pubDate>Wed, 30 Mar 2022 10:38:50 GMT</pubDate>
+     <description><![CDATA[<p>Still using the new journal title even though I don't think I like it.</p><p>New note: <a class="tc-tiddlylink-external" href="https://notes.baty.net/post/emacs_custom_link_types/" rel="noopener noreferrer" target="_blank">Org mode custom link types</a></p><p>Canceled my <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#MailBrew">MailBrew</a> subscription. Don't need it. I happened to check on it the day before it was scheduled to renew for $99. Love when that happens, but they should <em>always</em> send a notice of renewal in advance.</p><p>Every email I send using <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Mu4e">Mu4e</a> goes to spam. I have no idea why but I'm back to Mail.app because who needs that kind of grief.</p><p>I learned today that an <mark>app I built back in the early 2000s is still being used</mark> and the company still loves it. IIRC it was written in 4th Dimension. Wow.</p>]]>     </description></item>
 
 <item>     <title>
 TheLathe: 28 Mar 2022 (Monday)
@@ -88,15 +96,5 @@ TheLathe: 26 Mar 2022
      <guid>https://wiki.baty.net/#2022.03.19%20-%20Daily%20Notes%20(Saturday)</guid>
      <pubDate>Sat, 19 Mar 2022 20:17:15 GMT</pubDate>
      <description><![CDATA[<p>☁️   Overcast +38°F</p><p>When did I stop being curious?</p><p>Watched the first 2 episodes of <a class="tc-tiddlylink-external" href="https://www.rottentomatoes.com/tv/minx/s01" rel="noopener noreferrer" target="_blank">Minx</a> and enjoyed it very much.</p><p>Once I stopped worrying about making perfect, "archival-quality" prints, darkroom work got a lot more fun.</p><p>All I want today is to be able to add a background color to <code>&lt;blockquote&gt;</code> elements in <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#WordPress">WordPress</a> 5.9's full site editor. I am stumped.</p><p>I had so much trouble posting <a class="tc-tiddlylink-external" href="https://baty.net/2022/configuring-the-org-download-save-directory/" rel="noopener noreferrer" target="_blank">Configuring the org-download save directory</a> from Emacs that I think I'll give up that workflow. That post started out as a quick note in Org-roam and I thought it might be nice to share it, so I cleaned it up and used org2blog to send it to WordPress. It looked terrible in my theme because posting that way uses the "classic" editor and the them doesn't care about that. Then I went down a rabbit hole of trying to make style changes in WordPress 5.9 and gave up. I'm <em>this</em> close to just doing bareboned HTML exports directly from Org and copying them to a static folder on my server.</p><p>Ok, now all I want is to set my own friggin' <code>org-html-postamble-format</code> but I was only able to make it "stick" once and now it doesn't see it at all. I've been working on it for 2 hours.</p><p>I spent nearly the entire day <mark>farting around with my Emacs config</mark>. Exports, publishing, organization, themes, etc. I have very little to show for it.</p>]]>     </description></item>
-
-<item>     <title>
-2022.03.18 - Daily Notes (Friday)
-</title>
-     <link>https://wiki.baty.net/#2022.03.18%20-%20Daily%20Notes%20(Friday)</link>
-     <guid>https://wiki.baty.net/#2022.03.18%20-%20Daily%20Notes%20(Friday)</guid>
-     <pubDate>Sat, 19 Mar 2022 08:33:38 GMT</pubDate>
-     <description><![CDATA[<p>☀️   Clear +46°F</p><p>It's 5:00 am and I just dropped the peeps at the airport. It's just me for 4 days. What do you want to do?</p><p>Sorry, but DHH again:</p><blockquote class="tc-quote"><p>And on the contrary, the reception I met from much of the Bitcoin world when having a fundamental change of heart was exactly the opposite. Open arms, glad-you're-here vibes, don't-worry-about-getting-everything, and I-can-see-where-we're-lacking-too sensibilities. That stood out as a model in providing an exit (or, I suppose, an entry!) for those intersted in changing their minds.
-</p><cite><a class="tc-tiddlylink-external" href="https://world.hey.com/dhh/always-provide-a-way-out-2d5d8efb" rel="noopener noreferrer" target="_blank">Always provide a way out</a></cite></blockquote><p>...he's complimenting the cult for letting them join their cult as if that's somehow an example of a proper ideological community welcome.</p><p><mark>My head feels small</mark>. Like there's not enough room in there to hold anything. I keep losing my train of thought and forgetting what I was supposed to be doing. Probably "early onset..." something.</p><p>Mike is writing about One Camera, One Lens, One Year (OCOLOY) again: <a class="tc-tiddlylink-external" href="https://theonlinephotographer.typepad.com/the_online_photographer/2022/03/ocoloys.html" rel="noopener noreferrer" target="_blank">The Online Photographer: OCOLOYs</a></p><blockquote class="tc-quote"><p>Shopping is not the same thing as photography
-</p><cite><a class="tc-tiddlylink-external" href="https://www.35mmc.com/22/02/2022/the-leica-for-a-year-project-by-patrick-medd/" rel="noopener noreferrer" target="_blank">The Leica for a Year Project - By Patrick Medd - 35mmc</a></cite></blockquote>]]>     </description></item>
 
 </channel></rss>
