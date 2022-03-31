@@ -7,9 +7,18 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Wed, 30 Mar 2022 13:46:24 GMT</lastBuildDate>
+     <lastBuildDate>Thu, 31 Mar 2022 09:20:59 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+TheLathe: 30 Mar 2022 (Wednesday)
+</title>
+     <link>https://wiki.baty.net/#TheLathe%3A%2030%20Mar%202022%20(Wednesday)</link>
+     <guid>https://wiki.baty.net/#TheLathe%3A%2030%20Mar%202022%20(Wednesday)</guid>
+     <pubDate>Thu, 31 Mar 2022 09:19:16 GMT</pubDate>
+     <description><![CDATA[<p>🌦   Light rain +33°F</p><p>Alice got me up at 3:00 am WHY ALICE!? :)</p><p>Please stop using Discord.</p><p>New Note: <a class="tc-tiddlylink-external" href="http://localhost:1313/post/saving_a_maildir_email_as_eml_using_mu4e/" rel="noopener noreferrer" target="_blank">Saving a Maildir email as .eml using Mu4e</a></p><p>Why am I even here?</p><p>Can't wait for Mr. Robot season 15 to start
+<img src="files/2022/20220330-MartyFeldman.jpg"></p>]]>     </description></item>
 
 <item>     <title>
 TheLathe: 29 Mar 2022 (Tuesday)
@@ -88,13 +97,5 @@ TheLathe: 26 Mar 2022
      <pubDate>Mon, 21 Mar 2022 09:17:31 GMT</pubDate>
      <description><![CDATA[<p>☁️   Overcast +38°F</p><p>It's not the "writing" that I enjoy. What I enjoy is <mark>talking about myself</mark>. You're soaking in it.</p><p>Using Google.com gets worse and worse.</p><blockquote class="tc-quote"><p>That’s 6 search results for 6 screens, interrupted by an impossible amount of distractions, all of which have different design and layout for some reason. Many of “result types” repeat multiple times (e.g. related searches and images”, leading to even more confusion
 </p><cite><a class="tc-tiddlylink-external" href="https://grumpy.website/post/0XCmMC-2O" rel="noopener noreferrer" target="_blank">Grumpy Website</a></cite></blockquote><p>Oh dear, my <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Epson%20Perfection%20v750%20Pro%20Scanner">Epson Perfection v750 Pro Scanner</a> is making a horrible grinding sound while scanning. It seems to still work OK but can't be a good sign.</p>]]>     </description></item>
-
-<item>     <title>
-2022.03.19 - Daily Notes (Saturday)
-</title>
-     <link>https://wiki.baty.net/#2022.03.19%20-%20Daily%20Notes%20(Saturday)</link>
-     <guid>https://wiki.baty.net/#2022.03.19%20-%20Daily%20Notes%20(Saturday)</guid>
-     <pubDate>Sat, 19 Mar 2022 20:17:15 GMT</pubDate>
-     <description><![CDATA[<p>☁️   Overcast +38°F</p><p>When did I stop being curious?</p><p>Watched the first 2 episodes of <a class="tc-tiddlylink-external" href="https://www.rottentomatoes.com/tv/minx/s01" rel="noopener noreferrer" target="_blank">Minx</a> and enjoyed it very much.</p><p>Once I stopped worrying about making perfect, "archival-quality" prints, darkroom work got a lot more fun.</p><p>All I want today is to be able to add a background color to <code>&lt;blockquote&gt;</code> elements in <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#WordPress">WordPress</a> 5.9's full site editor. I am stumped.</p><p>I had so much trouble posting <a class="tc-tiddlylink-external" href="https://baty.net/2022/configuring-the-org-download-save-directory/" rel="noopener noreferrer" target="_blank">Configuring the org-download save directory</a> from Emacs that I think I'll give up that workflow. That post started out as a quick note in Org-roam and I thought it might be nice to share it, so I cleaned it up and used org2blog to send it to WordPress. It looked terrible in my theme because posting that way uses the "classic" editor and the them doesn't care about that. Then I went down a rabbit hole of trying to make style changes in WordPress 5.9 and gave up. I'm <em>this</em> close to just doing bareboned HTML exports directly from Org and copying them to a static folder on my server.</p><p>Ok, now all I want is to set my own friggin' <code>org-html-postamble-format</code> but I was only able to make it "stick" once and now it doesn't see it at all. I've been working on it for 2 hours.</p><p>I spent nearly the entire day <mark>farting around with my Emacs config</mark>. Exports, publishing, organization, themes, etc. I have very little to show for it.</p>]]>     </description></item>
 
 </channel></rss>
