@@ -4,13 +4,9 @@ PUBLIC_DIR=~/Sync/wikis/rudimentarylathe/
 TARGET=server01.baty.net
 
 .POSIX:
-.PHONY: help checkpoint deploy
+.PHONY: checkpoint deploy
 
 
-.PHONY: help
-help: ## Show this help
-	@egrep -h '\s##\s' 'Makefile' | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
-	@egrep -h 'h' 'Makefile' | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
 
 build:
 	tiddlywiki --load index.html --render "[[RSS Feed]]" "rss.xml" text/plain
@@ -25,5 +21,7 @@ deploy: build checkpoint
 	rsync -v -rz --checksum --delete --no-perms $(PUBLIC_DIR)index.html $(SERVER_HOST):$(SERVER_DIR)
 	rsync -v -rz --checksum --delete --no-perms $(PUBLIC_DIR)output/rss.xml $(SERVER_HOST):$(SERVER_DIR)
 	rsync -v -rz --checksum --delete --no-perms $(PUBLIC_DIR)files $(SERVER_HOST):$(SERVER_DIR)
+	open raycast://confetti
+
 
 	
