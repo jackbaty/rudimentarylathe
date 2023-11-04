@@ -7,9 +7,23 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Sat, 04 Nov 2023 10:34:03 GMT</lastBuildDate>
+     <lastBuildDate>Sat, 04 Nov 2023 11:34:21 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+Things in Doom that are broken by default
+</title>
+     <link>https://wiki.baty.net/#Things%20in%20Doom%20that%20are%20broken%20by%20default</link>
+     <guid>https://wiki.baty.net/#Things%20in%20Doom%20that%20are%20broken%20by%20default</guid>
+     <pubDate>Sat, 04 Nov 2023 11:34:21 GMT</pubDate>
+     <description><![CDATA[<p>I recently switched from my home-grown Emacs config back to [](#Doom%20Emacs). I started fresh, so ran into the same issues I'd solved previously. This time, I'm writing them down.</p><ol><li><ol><li>Org-agenda doesn’t show today by default</li></ol></li></ol><p>I have to hit <code>.</code> every time.</p><ol><li><ol><li>Line wrapping is weird in Org-journal</li></ol></li></ol><p>Wrapped lines are indented all goofily, so I add this:</p><dl><dt><dl><dt>Fix incorrect indenting in (esp. org-journal) buffers</dt></dl></dt></dl><p>(defun jab/disable-adaptive-wrap()
+        (adaptive-wrap-prefix-mode -1))
+    (add-hook 'visual-line-mode-hook #'jab/disable-adaptive-wrap)</p><ol><li><ol><li>Respect visual lines (evil) (doesn't)</li></ol></li></ol><p>[Wiki entry](<a class="tc-tiddlylink-external" href="https://wiki.baty.net/#Respecting%20visual%20lines%20in%20Doom%20Emacs%20evil-mode" rel="noopener noreferrer" target="_blank">https://wiki.baty.net/#Respecting%20visual%20lines%20in%20Doom%20Emacs%20evil-mode</a>)</p><p>Short version:  use <code>(setq evil-respect-visual-line-mode t)</code> in init.el</p><ol><li><ol><li>Invalid Base64 Data error</li></ol></li></ol><p>Attached PDFs cause a “Invalid Base64 data” error when opening the buffer</p><p>Had to add this:</p><dl><dt><dl><dt>Fix for "Invalid Base64" error</dt><dt><a class="tc-tiddlylink-external" href="https://github.com/doomemacs/doomemacs/issues/3185" rel="noopener noreferrer" target="_blank">https://github.com/doomemacs/doomemacs/issues/3185</a></dt></dl></dt></dl><p>(defadvice! no-errors/+org-inline-image-data-fn (_protocol link _description)
+      :override #'+org-inline-image-data-fn
+      "Interpret LINK as base64-encoded image data. Ignore all errors."
+      (ignore-errors
+        (base64-decode-string link)))</p>]]>     </description></item>
 
 <item>     <title>
 TheLathe: 4 Apr 2022 (Monday)
@@ -87,15 +101,6 @@ TheLathe: 26 Mar 2022
      <guid>https://wiki.baty.net/#2022.03.23%20-%20Journal%20%28Wednesday%29</guid>
      <pubDate>Sat, 08 Oct 2022 09:55:32 GMT</pubDate>
      <description><![CDATA[<p>🌦   Light rain +39°F</p><p>I've spent hours configuring my Org-roam setup so I can publish certain notes as a website. It's so cool, but in the end I'm not sure it offers clear advantages over this wiki other than that I can make some of my roam notes public without needing to rewrite them in TiddlyWiki. WIP is here: <a class="tc-tiddlylink-external" href="https://notes.baty.net" rel="noopener noreferrer" target="_blank">notes.baty.net</a></p><p><img class=" tc-image-loading" src="files/2022/blog-meme.jpg"></p><p>I'm so into Emacs right now. I may be posting at <a class="tc-tiddlylink-external" href="https://daily.baty.net" rel="noopener noreferrer" target="_blank">daily.baty.net</a> for a bit until I get it out of my system.
-</p>]]>     </description></item>
-
-<item>     <title>
-2022.03.22 - Journal (Tuesday)
-</title>
-     <link>https://wiki.baty.net/#2022.03.22%20-%20Journal%20%28Tuesday%29</link>
-     <guid>https://wiki.baty.net/#2022.03.22%20-%20Journal%20%28Tuesday%29</guid>
-     <pubDate>Sat, 08 Oct 2022 09:55:32 GMT</pubDate>
-     <description><![CDATA[<p>☀️   Clear +39°F</p><p>Well that was the last night of managing all the dogs on my own. Dealing with the little dogs is not my favorite thing.</p><p>I'm trying (again) to get my head around using <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Docker">Docker</a> but it's a non-stop festival of dead ends and frustration.
 </p>]]>     </description></item>
 
 </channel></rss>
