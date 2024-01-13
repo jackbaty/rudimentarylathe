@@ -7,7 +7,7 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Sat, 13 Jan 2024 16:31:19 GMT</lastBuildDate>
+     <lastBuildDate>Sat, 13 Jan 2024 16:41:09 GMT</lastBuildDate>
 
 
 
@@ -18,6 +18,14 @@ A sort of Rudimentary Lathe
      <guid>https://wiki.baty.net/#2024.01.13%20-%20Journal%20%28Sat%29</guid>
      <pubDate>Sat, 13 Jan 2024 11:40:40 GMT</pubDate>
      <description><![CDATA[<p>There's so much of my stuff in here. The trick with TiddlyWiki is not overthinking it. There are so many cool things one can do with it that it's tempting to try them all. Note to self: Don't! Just add tiddlers and maybe link a few.</p><p>Having <a class="tc-tiddlylink-external" href="https://sourcehut.org/" rel="noopener noreferrer" target="_blank">Sourcehut</a> down for a few days makes one think about resilience and dependencies. I have a dozen or so private repos there but I'd been moving them to a self-hosted <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Gitea">Gitea</a> instance over the past month or so. I've been in an "own the entire stack" sort of mood. This will likely change back to the "let someone else handle it" mood before long. When it does, I'll be back at Sourcehut.</p><p>I almost forgot that I finagled TiddlyWiki to publish an RSS feed, but it only includes tiddlers tagged with  so I'm tagging this one as a test. 👋</p>]]>     </description></item>
+
+<item>     <title>
+2024.01.05 - Journal (Fri)
+</title>
+     <link>https://wiki.baty.net/#2024.01.05%20-%20Journal%20%28Fri%29</link>
+     <guid>https://wiki.baty.net/#2024.01.05%20-%20Journal%20%28Fri%29</guid>
+     <pubDate>Sat, 13 Jan 2024 16:34:02 GMT</pubDate>
+     <description><![CDATA[<p>Still here, wishing I'd use TiddlyWiki more often.</p><p>I just noticed that Baty.net's daily notes behave just like they do here on the wiki. Some stuff, then links to other things I wrote that day. Great, now I have two similar-but-different things. Like always.</p>]]>     </description></item>
 
 <item>     <title>
 Things in Doom that are broken by default
@@ -93,13 +101,5 @@ TheLathe: 26 Mar 2022
      <pubDate>Sat, 08 Oct 2022 09:51:34 GMT</pubDate>
      <description><![CDATA[<p>What if I used a <mark>different title format</mark> for the daily posts? (UPDATE: Nah, I don't think so)</p><p>I've been <mark>writing online</mark> for more than 20 years.  Mostly about writing online.</p><p>I feel like playing with <mark>Linux</mark> today.</p><p>After a couple of weeks with <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Espanso">Espanso</a>, I'm quite happy with it. I wish that the configuration files were somewhere more convenient. And that <code>espanso edit</code> used my $EDITOR like it's supposed to, but the actual expansion features have quite easily replaced those in Keyboard Maestro.
 </p>]]>     </description></item>
-
-<item>     <title>
-2022.03.25 - Journal (Friday)
-</title>
-     <link>https://wiki.baty.net/#2022.03.25%20-%20Journal%20%28Friday%29</link>
-     <guid>https://wiki.baty.net/#2022.03.25%20-%20Journal%20%28Friday%29</guid>
-     <pubDate>Sat, 08 Oct 2022 09:55:32 GMT</pubDate>
-     <description><![CDATA[<p>🌨  Light snow +34°F</p><p>Ok, I think I got the <mark>Daily-Notes-with-Emacs</mark> out of my system for now. 👋.</p><p>I don't want to have to decide where to publish things. I want to <mark>publish things everywhere</mark> and let my mood guide me.</p><p>Content doesn't need to be portable if you <mark>never move it</mark>.</p><p>I wish people would <mark>blog</mark> more than they tweet.</p><p>This <mark>wiki has search built in</mark>. My Hugo-based site does not. I'd rather just <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Use%20What%20You%20Have">UWYH</a> and not figure out search over there.</p><p>Blog Post: <a class="tc-tiddlylink-external" href="https://baty.net/2022/aligning-comments-in-emacs/" rel="noopener noreferrer" target="_blank">Aligning comments in Emacs – Jack Baty</a></p>]]>     </description></item>
 
 </channel></rss>
