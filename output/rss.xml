@@ -7,9 +7,17 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Sat, 13 Jan 2024 11:32:03 GMT</lastBuildDate>
+     <lastBuildDate>Sat, 13 Jan 2024 11:40:40 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+2024.01.13 - Journal (Sat)
+</title>
+     <link>https://wiki.baty.net/#2024.01.13%20-%20Journal%20%28Sat%29</link>
+     <guid>https://wiki.baty.net/#2024.01.13%20-%20Journal%20%28Sat%29</guid>
+     <pubDate>Sat, 13 Jan 2024 11:40:40 GMT</pubDate>
+     <description><![CDATA[<p>There's so much of my stuff in here. The trick with TiddlyWiki is not overthinking it. There are so many cool things one can do with it that it's tempting to try them all. Note to self: Don't! Just add tiddlers and maybe link a few.</p><p>Having <a class="tc-tiddlylink-external" href="https://sourcehut.org/" rel="noopener noreferrer" target="_blank">Sourcehut</a> down for a few days makes one think about resilience and dependencies. I have a dozen or so private repos there but I'd been moving them to a self-hosted <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Gitea">Gitea</a> instance over the past month or so. I've been in an "own the entire stack" sort of mood. This will likely change back to the "let someone else handle it" mood before long. When it does, I'll be back at Sourcehut.</p><p>I almost forgot that I finagled TiddlyWiki to publish an RSS feed, but it only includes tiddlers tagged with  so I'm tagging this one as a test. 👋</p>]]>     </description></item>
 
 <item>     <title>
 Things in Doom that are broken by default
@@ -93,14 +101,5 @@ TheLathe: 26 Mar 2022
      <guid>https://wiki.baty.net/#2022.03.25%20-%20Journal%20%28Friday%29</guid>
      <pubDate>Sat, 08 Oct 2022 09:55:32 GMT</pubDate>
      <description><![CDATA[<p>🌨  Light snow +34°F</p><p>Ok, I think I got the <mark>Daily-Notes-with-Emacs</mark> out of my system for now. 👋.</p><p>I don't want to have to decide where to publish things. I want to <mark>publish things everywhere</mark> and let my mood guide me.</p><p>Content doesn't need to be portable if you <mark>never move it</mark>.</p><p>I wish people would <mark>blog</mark> more than they tweet.</p><p>This <mark>wiki has search built in</mark>. My Hugo-based site does not. I'd rather just <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Use%20What%20You%20Have">UWYH</a> and not figure out search over there.</p><p>Blog Post: <a class="tc-tiddlylink-external" href="https://baty.net/2022/aligning-comments-in-emacs/" rel="noopener noreferrer" target="_blank">Aligning comments in Emacs – Jack Baty</a></p>]]>     </description></item>
-
-<item>     <title>
-2022.03.23 - Journal (Wednesday)
-</title>
-     <link>https://wiki.baty.net/#2022.03.23%20-%20Journal%20%28Wednesday%29</link>
-     <guid>https://wiki.baty.net/#2022.03.23%20-%20Journal%20%28Wednesday%29</guid>
-     <pubDate>Sat, 08 Oct 2022 09:55:32 GMT</pubDate>
-     <description><![CDATA[<p>🌦   Light rain +39°F</p><p>I've spent hours configuring my Org-roam setup so I can publish certain notes as a website. It's so cool, but in the end I'm not sure it offers clear advantages over this wiki other than that I can make some of my roam notes public without needing to rewrite them in TiddlyWiki. WIP is here: <a class="tc-tiddlylink-external" href="https://notes.baty.net" rel="noopener noreferrer" target="_blank">notes.baty.net</a></p><p><img class=" tc-image-loading" src="files/2022/blog-meme.jpg"></p><p>I'm so into Emacs right now. I may be posting at <a class="tc-tiddlylink-external" href="https://daily.baty.net" rel="noopener noreferrer" target="_blank">daily.baty.net</a> for a bit until I get it out of my system.
-</p>]]>     </description></item>
 
 </channel></rss>
