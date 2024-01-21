@@ -7,9 +7,17 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Sun, 21 Jan 2024 11:00:01 GMT</lastBuildDate>
+     <lastBuildDate>Sun, 21 Jan 2024 11:27:10 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+2024.01.20 - Journal (Sat)
+</title>
+     <link>https://wiki.baty.net/#2024.01.20%20-%20Journal%20%28Sat%29</link>
+     <guid>https://wiki.baty.net/#2024.01.20%20-%20Journal%20%28Sat%29</guid>
+     <pubDate>Sun, 21 Jan 2024 11:24:12 GMT</pubDate>
+     <description><![CDATA[<p>These journal posts are turning into nothing more than something onto which to hang "also on..." links</p><p>I want this place to be my weird repository for anything and everything but where does that leave the blog? There are no rules here and I like that.</p>]]>     </description></item>
 
 <item>     <title>
 2024.01.13 - Journal (Sat)
@@ -92,14 +100,5 @@ TheLathe: 28 Mar 2022 (Monday)
      <description><![CDATA[<p>☁️   Overcast +24°F</p><p>Earlier this week I wrote this:</p><blockquote class="tc-quote"><p>I don't want to have to decide where to publish things. I want to publish things everywhere and let my mood guide me.
 </p></blockquote><p>I don't think that's right. What I think I meant was this:</p><blockquote class="tc-quote"><p>I don't want to have to decide where to publish things. I want to only have one place to publish them so I don't have to decide.
 </p></blockquote><p>I spent too much time yesterday messing with the <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#ThinkPad%20X1%20Carbon">ThinkPad X1 Carbon</a> trying to get it upgraded. The Regolith updates caused the thing to hang on boot so <mark>I figured I'd give Pop!_OS another go</mark> but that wouldn't boot if I opted for encryption during the install. Ok fine, let's go simple with Linux Mint. That installed fine, so I started down the path of getting all my shit installed but realized I'd shedded all of my syncing and shared configuration worries when I got down to a single Mac. So I started moving my dotfiles, fish config, etc. to shared folders that I could sync with Syncthing (which I had to re-install). Then of course the Emacs config had Mac-specific paths and such. I shut the ThinkPad and think I'll put it back in storage. It's not time for Linux yet. When and if it is, it's going to have to be <em>all</em> Linux. I'm not interested in doing the multi-OS thing anymore. </p><p>I don't understand these. They look nice, but they're still just nice fake Speedmasters. <a class="tc-tiddlylink tc-tiddlylink-missing" href="#%20OMEGA%C2%AE%7Chttps%3A%2F%2Fwww.omegawatches.com%2Fstories%2Fjoint-mission-launch-bioceramic-moonswatch">Joint Mission: Launch of the BIOCERAMIC MoonSwatch </a></p>]]>     </description></item>
-
-<item>     <title>
-TheLathe: 26 Mar 2022
-</title>
-     <link>https://wiki.baty.net/#TheLathe%3A%2026%20Mar%202022</link>
-     <guid>https://wiki.baty.net/#TheLathe%3A%2026%20Mar%202022</guid>
-     <pubDate>Sat, 08 Oct 2022 09:51:34 GMT</pubDate>
-     <description><![CDATA[<p>What if I used a <mark>different title format</mark> for the daily posts? (UPDATE: Nah, I don't think so)</p><p>I've been <mark>writing online</mark> for more than 20 years.  Mostly about writing online.</p><p>I feel like playing with <mark>Linux</mark> today.</p><p>After a couple of weeks with <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Espanso">Espanso</a>, I'm quite happy with it. I wish that the configuration files were somewhere more convenient. And that <code>espanso edit</code> used my $EDITOR like it's supposed to, but the actual expansion features have quite easily replaced those in Keyboard Maestro.
-</p>]]>     </description></item>
 
 </channel></rss>
