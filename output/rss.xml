@@ -7,9 +7,17 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Sun, 21 Jan 2024 11:27:10 GMT</lastBuildDate>
+     <lastBuildDate>Mon, 22 Jan 2024 13:37:05 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+2024.01.21 - Journal (Sun)
+</title>
+     <link>https://wiki.baty.net/#2024.01.21%20-%20Journal%20%28Sun%29</link>
+     <guid>https://wiki.baty.net/#2024.01.21%20-%20Journal%20%28Sun%29</guid>
+     <pubDate>Mon, 22 Jan 2024 11:12:46 GMT</pubDate>
+     <description><![CDATA[<p>Low 0.8, High 22.7 - Freezing fog</p><p>I have an Espanso snippet (:weather) for the weather forecast, which means I put the forecast everywhere all the time. ¯\_(ツ)_/¯. Oh I forgot I have two snippets, there's also one for the current conditions (:wttr) ☁️   Overcast +16°F.</p><p>I want this place to be a messy soup of ideas, notes, conversations, links, quotes, etc. No rules. No audience (that I pay attention to, anyway). Then, if something worthwhile shows up, put it in the blog.</p>]]>     </description></item>
 
 <item>     <title>
 2024.01.20 - Journal (Sat)
@@ -90,15 +98,5 @@ TheLathe: 28 Mar 2022 (Monday)
      <guid>https://wiki.baty.net/#TheLathe%3A%2028%20Mar%202022%20%28Monday%29</guid>
      <pubDate>Sat, 08 Oct 2022 09:51:34 GMT</pubDate>
      <description><![CDATA[<p>If I did all this in support of something bigger, that would be one thing. But I'm doing all this just as something to do, and it may all be <mark>a waste of time</mark>.</p><p>I changed the default <mark>journal tiddler title</mark> again. Just because.</p><p>I wish I was someone else, but I can't decide who, so I <mark>try being everyone</mark>.</p><p>Could not care less about the drama at the Oscars.</p><p>Another thing I don't need more of is <mark>articles about quitting</mark>. Quitting social media. Quitting your phone. Quitting some service. It's almost a certainty that you or I won't be adding anything new to the conversation. Maybe just quit without telling everyone.</p><p>Heh. I spent 2 hours today in <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#TheBrain">TheBrain</a> and thinking about <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#OmniFocus">OmniFocus</a>. I considered moving project stuff out of Emacs and into TheBrain. While looking for information about a project, I found it easily in Emacs and org-roam made it easy to spot related information so I quit. <mark>Emacs is great and fine</mark> and I should just stop thinking about anything else.</p><p>How many times do I have to say "<mark>I don't care about X</mark>" before I realize that lately I don't care much about <em>anything</em>? Snap out of it, dude!</p>]]>     </description></item>
-
-<item>     <title>
-2022.03.27 - Journal (Sunday)
-</title>
-     <link>https://wiki.baty.net/#2022.03.27%20-%20Journal%20%28Sunday%29</link>
-     <guid>https://wiki.baty.net/#2022.03.27%20-%20Journal%20%28Sunday%29</guid>
-     <pubDate>Sat, 08 Oct 2022 09:55:32 GMT</pubDate>
-     <description><![CDATA[<p>☁️   Overcast +24°F</p><p>Earlier this week I wrote this:</p><blockquote class="tc-quote"><p>I don't want to have to decide where to publish things. I want to publish things everywhere and let my mood guide me.
-</p></blockquote><p>I don't think that's right. What I think I meant was this:</p><blockquote class="tc-quote"><p>I don't want to have to decide where to publish things. I want to only have one place to publish them so I don't have to decide.
-</p></blockquote><p>I spent too much time yesterday messing with the <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#ThinkPad%20X1%20Carbon">ThinkPad X1 Carbon</a> trying to get it upgraded. The Regolith updates caused the thing to hang on boot so <mark>I figured I'd give Pop!_OS another go</mark> but that wouldn't boot if I opted for encryption during the install. Ok fine, let's go simple with Linux Mint. That installed fine, so I started down the path of getting all my shit installed but realized I'd shedded all of my syncing and shared configuration worries when I got down to a single Mac. So I started moving my dotfiles, fish config, etc. to shared folders that I could sync with Syncthing (which I had to re-install). Then of course the Emacs config had Mac-specific paths and such. I shut the ThinkPad and think I'll put it back in storage. It's not time for Linux yet. When and if it is, it's going to have to be <em>all</em> Linux. I'm not interested in doing the multi-OS thing anymore. </p><p>I don't understand these. They look nice, but they're still just nice fake Speedmasters. <a class="tc-tiddlylink tc-tiddlylink-missing" href="#%20OMEGA%C2%AE%7Chttps%3A%2F%2Fwww.omegawatches.com%2Fstories%2Fjoint-mission-launch-bioceramic-moonswatch">Joint Mission: Launch of the BIOCERAMIC MoonSwatch </a></p>]]>     </description></item>
 
 </channel></rss>
