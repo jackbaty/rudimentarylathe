@@ -7,9 +7,18 @@ Jack Baty's Wiki
      <link>https://wiki.baty.net/</link>     <description>
 A sort of Rudimentary Lathe
 </description>
-     <lastBuildDate>Tue, 06 Feb 2024 10:14:43 GMT</lastBuildDate>
+     <lastBuildDate>Tue, 06 Feb 2024 11:06:01 GMT</lastBuildDate>
 
 
+
+<item>     <title>
+Denote Explore
+</title>
+     <link>https://wiki.baty.net/#Denote%20Explore</link>
+     <guid>https://wiki.baty.net/#Denote%20Explore</guid>
+     <pubDate>Tue, 06 Feb 2024 10:23:47 GMT</pubDate>
+     <description><![CDATA[<blockquote class="tc-quote"><p>Denote Explore: Explore your digital Denote garden
+The Denote-Explore package provides auxiliary functions to maintain and explore your collection of Denote files. Denote-Explore provides three groups of Emacs commands:</p><ul><li>Summary statistics: Count notes, attachments and keywords.</li><li>Random walks: Generate new ideas using serendipity.</li><li>Janitor: Manage your denote collection.</li><li>Visualisations: Visualise your Denote network.</li></ul><cite><a class="tc-tiddlylink-external" href="https://github.com/pprevos/denote-explore" rel="noopener noreferrer" target="_blank">pprevos/denote-explore</a></cite></blockquote><p>For us <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Denote">Denote</a> users</p>]]>     </description></item>
 
 <item>     <title>
 2024.01.21 - Journal (Sun)
@@ -90,13 +99,5 @@ TheLathe: 29 Mar 2022 (Tuesday)
      <guid>https://wiki.baty.net/#TheLathe%3A%2029%20Mar%202022%20%28Tuesday%29</guid>
      <pubDate>Sat, 08 Oct 2022 09:51:34 GMT</pubDate>
      <description><![CDATA[<p>Still using the new journal title even though I don't think I like it.</p><p>New note: <a class="tc-tiddlylink-external" href="https://notes.baty.net/notes/org-mode-custom-link-types/" rel="noopener noreferrer" target="_blank">Org mode custom link types</a></p><p>Canceled my <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#MailBrew">MailBrew</a> subscription. Don't need it. I happened to check on it the day before it was scheduled to renew for $99. Love when that happens, but they should <em>always</em> send a notice of renewal in advance.</p><p>Every email I send using <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#Mu4e">Mu4e</a> goes to spam. I have no idea why but I'm back to Mail.app because who needs that kind of grief.</p><p>I learned today that an <mark>app I built back in the early 2000s is still being used</mark> and the company still loves it. IIRC it was written in 4th Dimension. Wow.</p>]]>     </description></item>
-
-<item>     <title>
-TheLathe: 28 Mar 2022 (Monday)
-</title>
-     <link>https://wiki.baty.net/#TheLathe%3A%2028%20Mar%202022%20%28Monday%29</link>
-     <guid>https://wiki.baty.net/#TheLathe%3A%2028%20Mar%202022%20%28Monday%29</guid>
-     <pubDate>Sat, 08 Oct 2022 09:51:34 GMT</pubDate>
-     <description><![CDATA[<p>If I did all this in support of something bigger, that would be one thing. But I'm doing all this just as something to do, and it may all be <mark>a waste of time</mark>.</p><p>I changed the default <mark>journal tiddler title</mark> again. Just because.</p><p>I wish I was someone else, but I can't decide who, so I <mark>try being everyone</mark>.</p><p>Could not care less about the drama at the Oscars.</p><p>Another thing I don't need more of is <mark>articles about quitting</mark>. Quitting social media. Quitting your phone. Quitting some service. It's almost a certainty that you or I won't be adding anything new to the conversation. Maybe just quit without telling everyone.</p><p>Heh. I spent 2 hours today in <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#TheBrain">TheBrain</a> and thinking about <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#OmniFocus">OmniFocus</a>. I considered moving project stuff out of Emacs and into <a class="tc-tiddlylink tc-tiddlylink-resolves" href="#TheBrain">TheBrain</a>. While looking for information about a project, I found it easily in Emacs and org-roam made it easy to spot related information so I quit. <mark>Emacs is great and fine</mark> and I should just stop thinking about anything else.</p><p>How many times do I have to say "<mark>I don't care about X</mark>" before I realize that lately I don't care much about <em>anything</em>? Snap out of it, dude!</p>]]>     </description></item>
 
 </channel></rss>
